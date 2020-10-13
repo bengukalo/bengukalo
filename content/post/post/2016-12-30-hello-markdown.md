@@ -23,5 +23,7 @@ When creating a new post, you have to decide whether the post format is Markdown
 blogdown::new_post("Post Title", ext = '.Rmd')
 ```
 
-![]('/content/post/post/jarom.jpg')
+
+
+include_graphics(/content/post/post/jarom.jpg)
 
