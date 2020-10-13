@@ -89,22 +89,22 @@ show_related = {docs = true, page = false, post = true, project = false, publica
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "bengukalo@gmail.com"
-phone = ""
+#phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", city = "", region = "", postcode = "", country = "", country_code = ""}
+#address = {street = "", city = "", region = "", postcode = "", country = "", country_code = ""}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "", longitude = ""}
+#coordinates = {latitude = "", longitude = ""}
 
 # Directions for visitors to locate you.
-directions = ""
+#directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = [""]
+#office_hours = [""]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = ""
@@ -113,6 +113,7 @@ office_hours = [""]
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/BenguKalo"},
+  {icon = "instagram", icon_pack = "fab", name = "Add Me", link = "https://instagram.com/bengukalo"}
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -127,7 +128,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "bengukalo"
 
 ############################
 ## Regional Settings
@@ -153,7 +154,7 @@ main_menu = {align = "r", show_logo = true, highlight_active_link = true, show_l
 reading_time = true
 
 # Display next/previous section pager? (true/false)
-section_pager = false
+section_pager = true
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
