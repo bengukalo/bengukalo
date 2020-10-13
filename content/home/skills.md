@@ -18,19 +18,25 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Experienced in R and Markdown"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = ""  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "code"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Coding"
+  description = "Experienced in LaTeX"
+  
+  [[feature]]
+  icon = "pen"
+  icon_pack = "fas"
+  name = "Blogging"
+  description = "Writes for [Evrim Ağacı](https://evrimagaci.org)"
 
 # Uncomment to use emoji icons.
 # [[feature]]
