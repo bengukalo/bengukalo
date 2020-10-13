@@ -1,0 +1,60 @@
+baseurl = "https://nanx.me/hugo-tanka/"
+
+title = "Bengü Kalo"
+
+author = "Bengü Kalo"
+
+canonifyurls = true
+
+languagecode = "en"
+
+theme = "hugo-tanka"
+
+
+
+
+googleAnalytics = ""
+
+disqusShortname = ""
+
+disable_mathjax = false
+
+
+
+
+pygmentsstyle      = "vs"
+
+pygmentscodefences = true
+
+
+
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+
+
+
+[params]
+
+  sitename = "Bengü Kalo"
+
+
+
+
+[[menu.main]]
+
+    name = "Home"
+
+    url = "https://nanx.me"
+
+    weight = 1
+
+
+[[menu.main]]
+
+    name = "Twitter"
+
+    url = "https://twitter.com/BenguKalo"
+
+    weight = 4
+
