@@ -24,6 +24,4 @@ blogdown::new_post("Post Title", ext = '.Rmd')
 ```
 
 
-
-include_graphics(/content/post/post/jarom.jpg)
-
+knitr::include_graphics("/content/post/post/jarom.jpg")
