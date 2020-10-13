@@ -18,27 +18,49 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "University of Edinburgh"
+  company = "Global Buddies Leader"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Edinburgh, United Kingdom"
+  date_start = "2020-09-01"
+  date_end = "2021-09-01"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Supporting new international exchange students’ transition into a new academic and cultural environment. 
+  * Encouraging the students to get the most out of their exchange, help them find other social experiences and student services.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Assistant"
+  company = "International University of Sarajevo"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Sarajevo, BiH"
+  date_start = "2019-01-01"
+  date_end = "2019-06-30"
+  description = """
+  * Involved in data collection and entry for various projects that are held in the university.
+  * Taught undergraduate students how to use SPSS and analyze data."""
+  
+  [[experience]]
+  title = "Student Volunteer"
+  company = "IUS Student’s Counseling Centre"
+  company_url = ""
+  location = "Sarajevo, BiH"
+  date_start = "2018-10-01"
+  date_end = "2019-06-01"
+  description = """
+  * Responsible from paperwork, informing patients about the procedure and creating appointments."""
+  
+  
+[[experience]]
+  title = "Supervised as Neuropsychologist"
+  company = "Istanbul University Medicine Faculty, Neurology Department"
+  company_url = ""
+  location = "Istanbul, Turkey"
+  date_start = "2018-05-01"
+  date_end = "2018-06-01"
+  description = """
+  * Applied neuropsychological test battery and wrote reports for the patients of neurology department; therefore, contributed to the diagnosing and monitoring process of the diseases."""
 
 +++
