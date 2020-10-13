@@ -14,6 +14,12 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
+ [[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Specialist Techniques"
+  description = "Beginner in fMRI and EEG"
+  
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
@@ -24,13 +30,13 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = ""  
+  description = "Univariate & Multivariate"  
   
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "Coding"
-  description = "Experienced in LaTeX"
+  name = "LaTeX"
+  description = "Experienced"
   
   [[feature]]
   icon = "pen"
