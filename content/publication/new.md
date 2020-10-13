@@ -1,14 +1,15 @@
 +++
 abstract = ""
-authors = ["Bengu Kalo"]
+authors = ["Bengu Kalo", "Ayse Zagli"]
 date = "2020-03-07"
 image_preview = ""
 math = true
-publication_types = ["0"]
-publication = "*Poster*"
+publication_types = ["1"]
+publication = "*Maltepe University International Student Congress on Education*"
 publication_short = ""
 selected = true
-title = "The role of metacognition on the cognitive estimation."
+title = "Effects of Montessori Education on Children’s Executive Functioning and Future
+Academic Achievement."
 url_code = ""
 url_dataset = ""
 url_pdf = ""
