@@ -28,8 +28,8 @@ interests:
 
 education:
   courses:
-  - course: MSc in Cognitive Neuroscience
-    institution: 
+  - course: MSc in Cognitive Neuropsychology
+    institution: University of Edinburgh
     year: 2020
   - course: MA in Clinical Psychology
     institution: International University of Sarajevo
