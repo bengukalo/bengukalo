@@ -22,4 +22,4 @@ When creating a new post, you have to decide whether the post format is Markdown
 ```r
 blogdown::new_post("Post Title", ext = '.Rmd')
 ```
-![Example image](/static/jarom.jpg)
+![Example image](/bengukalo/content/post/images/jarom.jpg)
