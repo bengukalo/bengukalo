@@ -8,9 +8,8 @@ math = true
 publication_types = ["1"]
 publication = "In *Maltepe University International Student Congress on Education*"
 publication_short = ""
-selected = false
-title = "Effects of Montessori Education on Children’s Executive Functioning and Future
-Academic Achievement"
+selected = true
+title = "Effects of Montessori Education on Children’s Executive Functioning and Future Academic Achievement"
 url_code = ""
 url_dataset = ""
 url_pdf = ""
