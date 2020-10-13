@@ -30,7 +30,16 @@ date_format = "Jan 2006"
   * Supporting new international exchange students’ transition into a new academic and cultural environment. 
   * Encouraging the students to get the most out of their exchange, help them find other social experiences and student services.
   """
-
+[[experience]]
+  title = "Science Insights, Neuroscience Outreach Moderator"
+  company = "University of Edinburgh"
+  company_url = ""
+  location = "Edinburgh, United Kingdom"
+  date_start = "2020-08-01"
+  date_end = "2020-08-01"
+  description = """
+  Played a role in informing high school students about Multiple Sclerosis research and was the moderator of the group discussion.
+  """
 [[experience]]
   title = "Research Assistant"
   company = "International University of Sarajevo"
