@@ -23,3 +23,5 @@ When creating a new post, you have to decide whether the post format is Markdown
 blogdown::new_post("Post Title", ext = '.Rmd')
 ```
 ![Example image](https://media.giphy.com/media/v9tIehXauaCbK/giphy.gif)
+
+![Example image](jarom.jpg)
