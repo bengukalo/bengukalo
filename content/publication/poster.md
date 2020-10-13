@@ -17,7 +17,6 @@ url_pdf = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-tags = "Oral Presentation"
 
 
 # Optional featured image (relative to `static/img/` folder).
