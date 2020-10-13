@@ -24,4 +24,4 @@ blogdown::new_post("Post Title", ext = '.Rmd')
 ```
 ![Example image](https://media.giphy.com/media/v9tIehXauaCbK/giphy.gif)
 
-![Example image](https://media.giphy.com/media/VhXNfvVNFSp7uchIJS/giphy.gif)
+![Example image](https://imgur.com/a/qYdUOVp)
