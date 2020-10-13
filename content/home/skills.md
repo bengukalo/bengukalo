@@ -33,7 +33,7 @@ subtitle = ""
   description = "Univariate & Multivariate"  
   
 [[feature]]
-  icon = "code"
+  icon = "file-alt"
   icon_pack = "fas"
   name = "LaTeX"
   description = "Experienced"
