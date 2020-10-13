@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Alumni
+role: Cognitive Neuropsychology PG
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed visual neuroscience, cross-modal plasticity and clinical psychology.
+bio: Visual neuroscience, cross-modal plasticity and clinical psychology enthusiast.
 
 interests:
 - Visual Neuroscience
