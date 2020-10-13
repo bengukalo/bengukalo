@@ -1,8 +1,21 @@
 ---
-date: "2016-12-30T21:49:57-07:00"
-title: A Plain Markdown Post
+title: Deneme
+author: Bengu KALO
+date: '2020-06-02'
+categories: []
+tags:
+  - rmarkdown
+subtitle: ''
+summary: 'Some reflections'
+authors: []
+featured: no
+disable_jquery: no
+image:
+  caption: '[Photo by Bruno Martins on Unsplash](https://unsplash.com/photos/z7QQyvnQDWc)'
+  focal_point: ''
+  preview_only: no
+projects: [tidyml]
 ---
-
 This is a post written in plain Markdown (`*.md`) instead of R Markdown (`*.Rmd`). The major differences are:
 
 1. You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```` ```{r} ````);
@@ -22,6 +35,6 @@ When creating a new post, you have to decide whether the post format is Markdown
 ```r
 blogdown::new_post("Post Title", ext = '.Rmd')
 ```
-![Example image](https://media.giphy.com/media/v9tIehXauaCbK/giphy.gif)
 
-![Example image](/jarom.jpg)
+
+![Example image](jarom.jpg)
