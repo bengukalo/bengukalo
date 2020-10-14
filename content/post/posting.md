@@ -11,9 +11,11 @@ authors: []
 featured: no
 disable_jquery: no
 image:
-  caption: '[Photo by Bruno Martins on Unsplash](https://unsplash.com/photos/z7QQyvnQDWc)'
-  focal_point: ''
-  preview_only: no
+  placement: 1
+  caption: "Photo by [Academic](featured.jpg)"
+  focal_point: "Center"
+  preview_only: false
+  alt_text: An optional description of the image for screen readers.
 projects: [tidyml]
 ---
 This is a post written in plain Markdown (`*.md`) instead of R Markdown (`*.Rmd`). The major differences are:
