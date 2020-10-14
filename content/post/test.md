@@ -19,7 +19,7 @@ image:
   caption: ''
   focal_point: 'Center'
   preview_only: true
-thumbnail: "/post/featured.jpg"
+banner: /post/featured.jpg
 projects: []
 ---
 
