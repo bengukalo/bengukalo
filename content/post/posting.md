@@ -12,7 +12,7 @@ featured: no
 disable_jquery: no
 image:
   placement: 1
-  caption: "Photo by [Academic](featured.jpg)"
+  caption: "Photo by [Academic](featured.jpeg)"
   focal_point: "Center"
   preview_only: false
   alt_text: An optional description of the image for screen readers.
@@ -39,4 +39,4 @@ blogdown::new_post("Post Title", ext = '.Rmd')
 ```
 
 
-![Example image](featured.jpg)
+![Example image](featured.jpeg)
