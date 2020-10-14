@@ -2,8 +2,6 @@
 abstract = ""
 authors = ["Bengu Kalo"]
 date = "2020-02-07"
-tags:
-- Poster
 image_preview = ""
 math = true
 publication_types = ["0"]
@@ -28,3 +26,5 @@ image = ""
 caption = ""
 
 +++
+tags:
+- Poster
