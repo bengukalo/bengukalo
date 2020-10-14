@@ -14,7 +14,7 @@ featured: true
 output:
   blogdown::html_page:
     dev: 'svg'
-image:
+image:"/post/middle.jpg"
   caption: ''
   focal_point: 'Center'
   preview_only: true
