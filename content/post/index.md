@@ -10,14 +10,14 @@ subtitle: 'deniyorum'
 summary: ''
 authors: []
 lastmod: '2020-03-17T14:48:48Z'
-featured: yes
+featured: true
 output:
   blogdown::html_page:
     dev: 'svg'
 image:
   caption: 'Image credit: [**Photo from Ninja Theory**](https://ninjatheory.com/?p=1982)'
-  focal_point: ''
-  preview_only: no
+  focal_point: 'Center'
+  preview_only: false
 projects: []
 ---
 
