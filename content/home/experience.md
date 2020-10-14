@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Edinburgh, United Kingdom"
   date_start = "2020-09-01"
-  date_end = "2021-09-01"
+  date_end = ""
   description = """
   Representing the needs of University of Edinburgh MSc students while discussing diverse issues, papers and ideas about improving science, reproducibility and the Open Science movement.
   """
