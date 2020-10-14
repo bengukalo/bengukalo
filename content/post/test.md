@@ -4,8 +4,10 @@ subtitle: Which learning strategies are more useful than others?
 date: '2020-03-17'
 slug: deneme
 categories:
-  - deneme
+  - Psychology
 tags:
+- Learning
+- Memory
 summary: 'Deciding on a learning strategy without help can be a complex procedure.'
 authors: []
 lastmod: '2020-03-17T14:48:48Z'
