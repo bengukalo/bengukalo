@@ -18,10 +18,6 @@ image:
   caption: ''
   focal_point: 'Center'
   preview_only: true
-  
-  header:
-  caption: ""
-  image: "/post/middle.jpg"
 projects: []
 ---
 
