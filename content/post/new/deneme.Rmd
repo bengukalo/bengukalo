@@ -22,6 +22,6 @@ projects: []
 ---
 
 
-![](/post/middle.jpg)
+![](/post/new/middle.jpg)
 
 
