@@ -1,6 +1,6 @@
 ---
 title: Deneme
-author: Bengu KALO
+author: ['admin']
 date: '2020-06-02'
 categories: []
 tags:
