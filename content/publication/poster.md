@@ -4,6 +4,9 @@ authors = ["Bengu Kalo"]
 date = "2020-02-07"
 image_preview = ""
 math = true
+tags: [
+- Poster 
+]
 publication_types = ["0"]
 publication = "*Poster*"
 publication_short = ""
