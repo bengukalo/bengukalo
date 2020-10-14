@@ -20,11 +20,7 @@ image:
   preview_only: no
 projects: []
 ---
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(collapse = TRUE)
-options(knitr.table.format = "html") 
-library(tidyverse)
-```
+
 
 deneme deneme
 
