@@ -19,7 +19,7 @@ image:
   caption: ''
   focal_point: 'Center'
   preview_only: true
-banner: /media/jarom.jpg
+featuredImage: '/post/caravaggio.jpg'
 projects: []
 ---
 
