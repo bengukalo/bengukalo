@@ -24,5 +24,5 @@ projects: []
 
 deneme deneme
 
-![](/post/single_case.png)
+![](/post/middle.png)
 
