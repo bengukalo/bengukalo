@@ -15,7 +15,7 @@ output:
   blogdown::html_page:
     dev: 'svg'
 image:
-  caption: 'Image credit: [**Photo from Ninja Theory**](https://ninjatheory.com/?p=1982)'
+  caption: ''
   focal_point: 'Center'
   preview_only: false
 projects: []
