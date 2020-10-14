@@ -11,6 +11,7 @@ summary: ''
 authors: []
 lastmod: '2020-03-17T14:48:48Z'
 featured: true
+featuredImage = "post/middle.jpg"
 output:
   blogdown::html_page:
     dev: 'svg'
