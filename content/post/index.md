@@ -28,5 +28,5 @@ library(tidyverse)
 
 deneme deneme
 
-![](/post/single_case.png)
+![](single_case.png)
 
