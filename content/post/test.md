@@ -1,7 +1,7 @@
 ---
 title: Struggling to Learn? Take a Test to Boost Your Memory
 subtitle: Which learning strategies are more useful than others?
-date: '2020-03-17'
+date: '2020-10-14'
 slug: boost-your-memory
 categories:
   - Psychology
