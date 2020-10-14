@@ -39,4 +39,4 @@ blogdown::new_post("Post Title", ext = '.Rmd')
 ```
 
 
-![Example image](jarom.jpg)
+![Example image](featured.jpg)
