@@ -19,7 +19,7 @@ image:
   caption: ''
   focal_point: 'Center'
   preview_only: true
-featured: '/post/caravaggio.jpg'
+featured: '/content/post/caravaggio.jpg'
 projects: []
 ---
 
