@@ -26,5 +26,4 @@ image = ""
 caption = ""
 
 +++
-tags:
 - Poster
