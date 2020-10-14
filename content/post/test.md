@@ -62,7 +62,7 @@ By receiving tests regularly, students gain experience about how difficult these
 
 Forward learning effect can be seen in learning abstract concepts as well. Shanks and his team explored if this effect is limited to low-level learning like ‘facts’, or is it also extending to high-level ones like ‘inductive learning’. This is a type of learning in which individuals generalise their prior experiences when making inferences about anything that cannot benefit from direct experience. The same experimental design with prior studies was used, with anaddition of Re-study Group to the Interim and No-Interim groups. Also, this time the material was Renaissance paintings, which requires abstract thinking unlike word pairs. Participants were asked to study 20 paintings and their artists, like Botticelli and Caravaggio.
 
-![](/post/caravaggio.jpg)
+![](/post/images/caravaggio.jpg)
 *Saint Jerome Writing - [incomplete work of Caravaggio](https://borghese.gallery/collection/paintings/saint-jerome-writing.html) (1605-6)*
 
 Later on, they were shown different paintings, and were asked to classify these according to which artist they belong to. In the cumulative test, Interim group scored higher than both No-Interim and Re-study group.
