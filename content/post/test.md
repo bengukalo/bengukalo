@@ -10,7 +10,7 @@ tags:
 - Memory
 summary: 'Deciding on a learning strategy without help can be a complex procedure.'
 authors: []
-lastmod: '2020-03-17T14:48:48Z'
+lastmod: ''
 featured: true
 output:
   blogdown::html_page:
