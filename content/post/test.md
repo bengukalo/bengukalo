@@ -1,6 +1,6 @@
 ---
 title: Struggling to Learn? Take a Test to Boost Your Memory
-subtitle: An actually useful strategy.
+subtitle: Here is an actually useful strategy.
 date: '2020-10-14'
 slug: boost-your-memory
 categories:
