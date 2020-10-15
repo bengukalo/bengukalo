@@ -8,7 +8,6 @@ categories:
 tags:
 - Learning
 - Memory
-summary: 'Deciding on a learning strategy without help can be a complex procedure.'
 authors: []
 lastmod: ''
 featured: true
