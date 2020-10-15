@@ -19,7 +19,8 @@ image:
   focal_point: 'Center'
   preview_only: true
 featured: '/content/post/caravaggio.jpg'
-twImage: '/content/post/caravaggio.jpg'
+images:
+- /content/post/caravaggio.jpg
 projects: []
 ---
 
