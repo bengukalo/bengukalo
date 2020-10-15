@@ -19,6 +19,9 @@ image:
   focal_point: 'Center'
   preview_only: true
 featured: '/content/post/caravaggio.jpg'
+twitter:
+- card: "summary_large_image"
+- image: "/content/post/caravaggio.jpg"
 projects: []
 ---
 
