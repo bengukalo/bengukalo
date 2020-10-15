@@ -14,6 +14,7 @@ interests:
 - Cross-modal Plasticity
 - Multisensory Integration
 - Clinical Psychology
+- 'Psychopharmacology '
 education:
   courses:
   - course: MSc in Cognitive Neuropsychology
