@@ -17,7 +17,7 @@ output:
 image:
   caption: ''
   focal_point: 'Center'
-  preview_only: true
+  preview_only: false
 featured: '/content/post/caravaggio.jpg'
 projects: []
 ---
