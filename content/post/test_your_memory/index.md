@@ -14,11 +14,12 @@ featured: true
 output:
   blogdown::html_page:
     dev: 'svg'
-image: /content/post/caravaggio.jpg
+image: 
   caption: ''
   focal_point: 'Center'
   preview_only: true
 featured: '/content/post/caravaggio.jpg'
+twitterImg: /content/post/caravaggio.jpg
 projects: []
 ---
 
