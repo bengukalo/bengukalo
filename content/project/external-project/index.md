@@ -2,7 +2,8 @@
 title: My Success Story was Featured in International University of Sarajevo's Career Blog
 summary: 
 tags:
-- Demo
+- Success Story
+- Autobiography
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
