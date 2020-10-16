@@ -1,10 +1,9 @@
 ---
-title: My Success Story is Featured in the International University of Sarajevo's Careers Blog
-summary: Go through the path to my Neuropsychology journey in United Kingdom.
+title: My Success Story was Featured in International University of Sarajevo's Career Blog
+summary: 
 tags:
-- Success Story
-- Autobiography
-date: "2020-16-11"
+- Demo
+date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://scc.ius.edu.ba/content/beng-kalo-journey-my-dreams
