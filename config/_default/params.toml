@@ -23,7 +23,7 @@ day_night = true
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = "https://fonts.googleapis.com/css?family=Lora:400,400i&display=swap"
+font-family: 'Lora', serif;
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
