@@ -12,8 +12,8 @@ authors: []
 lastmod: ''
 featured: "/content/post/caravaggio.jpg"
 output:
-  blogdown::html_page:
-    dev: svg
+  html_document:
+    css: style.css
 image:
   caption: ''
   focal_point: Center
@@ -75,3 +75,7 @@ Other studies demonstrated that when students are very confident on their wrong 
 # Take Home Message
 
 > Dr. Shanks concludes his talk by stating that testing memory and making mistakes in the process are one of the best learning strategies for students. Tests help students to monitor their learning and assess their current understanding while errors make the correct information more memorable by raising the level of attention.
+
+:::puzzle
+My content goes in here!
+:::
