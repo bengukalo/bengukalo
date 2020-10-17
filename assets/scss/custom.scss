@@ -101,6 +101,31 @@ body {
     color: #DCA0B2;
   }
   
+  /* -------About/Home Section-------- */
+  
+  .home-section.wg-about {
+    padding-top: 0;
+    margin-top: -30px;
+    box-shadow: 0px -50px 50px 50px rgba(252, 252, 252, 1);
+  
+  }
+  
+  
+  #about h1 {
+    margin-bottom: 50px;
+  }
+  
+  #about h3 {
+    margin-top: 50px;
+  }
+  
+  #about .portrait-title h2 {
+    margin-top: 50px;
+    margin-bottom: 30px;
+  }
+
+  #about .col-12.col-lg-8 {
+    padding-left: 70px !important;
   }
   
   /* Evenly spaces bio text on mobile */
