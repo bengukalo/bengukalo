@@ -128,7 +128,13 @@ body {
     padding-left: 70px !important;
   }
   
-
+  /* Evenly spaces bio text on mobile */
+  
+    @media screen and (max-width: 768px) {
+        #about .col-12.col-lg-8 {
+        padding-left: 15px !important;
+      }
+    }
   
   /* HELLO image */
   
@@ -154,7 +160,13 @@ body {
     background-repeat: no-repeat;
   }
   
-
+  @media screen and (max-width: 768px) {
+    .home-section.bg-image {
+      background-position-x: 39%;
+      background-size: 200%;
+      padding: 330px 0 275px 0;
+    }
+  }
   
   
   
