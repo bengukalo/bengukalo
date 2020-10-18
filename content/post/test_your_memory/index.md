@@ -12,8 +12,8 @@ authors: []
 lastmod: ''
 featured: "/content/post/caravaggio.jpg"
 output:
-  blogdown::html_page:
-    dev: svg
+  bookdown::gitbook:
+    css: style.css
 image:
   caption: ''
   focal_point: Center
