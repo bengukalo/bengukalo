@@ -63,8 +63,8 @@ Later on, they were shown different paintings, and were asked to classify these 
 Forward testing effect is also seen in ‘transfer of learning’, where participants study English-Swahili word pairs and are tested on something completely different like face-name pairs.
 
 # Learning from the Mistakes
+&nbsp;
 
-\newline
 
 Research that is conducted by Shanks and his colleagues related to errorful generation provides some evidence that people learn better by trial and error. Participants were either asked to read and memorise word translations or presented with a Swahili-word and asked to make a guess right away. As result, the group who made wrong guesses and got corrected afterwards scored higher than the group who only studied the material.
 
