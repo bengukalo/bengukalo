@@ -13,7 +13,7 @@ lastmod: ''
 featured: "/content/post/caravaggio.jpg"
 output:
   html_document:
-    css: style.css
+    css: custom.css
 image:
   caption: ''
   focal_point: Center
