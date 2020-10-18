@@ -28,17 +28,17 @@ projects: []
 Deciding on a learning strategy without help can be a complex procedure. Efficient learning is only viable if the learner has the skills to initiate the learning autonomusly, and afterwards manage its processing and storage. These are known as learning strategies in the education field. An efficient learning strategy is the single most important possession in our academic life. But how do we decide which strategy is better to use? Not surprisingly, there is a growing body of research on this question.
 
 Positive effects of testing the memory is studied for exactly a century now. These researches predominantly agree on testing actually help us learn better by keeping us motivated. Yet, many people believe over-testing children can have detrimental effects like anxiety. According to Dr. David Shanks, these complaints are based on the assumption that the main reason of testing is to assess the knowledge. Deputy Dean of the Faculty of Brain Sciences at University College London, Dr. Shanks have dedicated his life in human learning and memory research. [**During an invited talk at University of Edinburgh**](https://www.youtube.com/watch?v=HWCWnqLmTuo), he explained why regularly testing ourselves is a better learning strategy than others, such as  reading the material over and over again.
+
 &nbsp;
 
 
 # Why testing help us learn better?
-&nbsp;
-
 
 Expectation of interim tests simply help us maintain our focus and motivation while studying. For the first experiment of Dr. Shank, participants were asked to study Swahili translations of English words. Participants decided how much time they will allocate for studying the material. Both Interim and No-Interim groups knew that they will receive a final test, however they didn't know if they will receive an interim exam after studying each material.
 
 ![](/post/images/graph.png)
 _Figure 1 Illustrates the general design of the studies. Students were divided into two groups. In the first study, first group only studied the material while the second group received a test at the end of their study session. Math tests are used as control condition in all experiments._
+
 &nbsp;
 
 
@@ -46,6 +46,7 @@ In the beginning, both Interim and No-Interim groups allocated the same amount o
 
 ![](/post/images/time.png)
 _Figure 2 Depicts the results of the first study. Interim group maintains their motivation while No-Interim group loses the motivation over time._
+
 &nbsp;
 
 
@@ -55,6 +56,7 @@ In his next study, Dr. Shanks and his colleagues used face and name pairs while 
 
 ![](/post/images/stimuli.png)
 _Figure 3 Representation of face-name pair design. This task consisted memorizing pictures of different faces and their names. In the interim test students were expected to provide correct names for each face._
+
 &nbsp;
 
 
@@ -62,6 +64,7 @@ Increase in time allocation is just an effect of the material. When we meet some
 
 ![](/post/images/results.png)
 _Figure 4 Shows the results of face-name pair study. Interim group remembered twice as much pairs than No-Interim group in the final test._
+
 &nbsp;
 
 
@@ -71,8 +74,6 @@ By receiving tests regularly, students gain experience about how difficult these
 
 
 # Which other types of learning are susceptible to forward learning effect?
-&nbsp;
-
 
 Forward learning effect can be seen in learning abstract concepts as well. Shanks and his team explored if this effect is limited to low-level learning like ‘facts’, or is it also extending to high-level ones like ‘inductive learning’. This is a type of learning in which individuals generalise their prior experiences when making inferences about anything that cannot benefit from direct experience. The same experimental design with prior studies was used, with anaddition of Re-study Group to the Interim and No-Interim groups. Also, this time the material was Renaissance paintings, which requires abstract thinking unlike word pairs. Participants were asked to study 20 paintings and their artists, like Botticelli and Caravaggio.
 
@@ -81,20 +82,25 @@ _Saint Jerome Writing -_ [_incomplete work of Caravaggio_](https://borghese.gall
 
 Later on, they were shown different paintings, and were asked to classify these according to which artist they belong to. In the cumulative test, Interim group scored higher than both No-Interim and Re-study group.
 Forward testing effect is also seen in ‘transfer of learning’, where participants study English-Swahili word pairs and are tested on something completely different like face-name pairs.
+
 &nbsp;
 
 
 # Learning from the Mistakes
-&nbsp;
-
 
 Research that is conducted by Shanks and his colleagues related to errorful generation provides some evidence that people learn better by trial and error. Participants were either asked to read and memorise word translations or presented with a Swahili-word and asked to make a guess right away. As result, the group who made wrong guesses and got corrected afterwards scored higher than the group who only studied the material.
 
 ![](/post/images/figure.png)
 _Figure 5 Shows the grade that groups received in Generate and Read conditions. Participants who generated an errorful answer instead of studying the material scored higher in the final test._
 
+&nbsp;
+
+
 Interestingly, participants do not seem to get confused by the error that they generate. Rather than remembering their incorrect reply, they are able to provide the actual answer.
 Other studies demonstrated that when students are very confident on their wrong answer, they are more likely to remember the correct answer after they have been corrected. Researchers theorized that when the students strongly believe that their answer is correct, they pay more attention to corrective feedbacks. Element of surprise might also be effective in remembering such moments. A well-known phenomenon in cognitive psychology claims that we remember events better if it consists novel moments.
+
+&nbsp;
+
 
 # Take Home Message
 
