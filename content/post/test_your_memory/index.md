@@ -132,7 +132,7 @@ div.try { background-color:#e6f0ff; padding: 1em;
     background-repeat: no-repeat;
     background-position: 15px center;
     min-height: 120px;
-    border: none none none solid 4px #afc6e3;}
+    border: none, none, none, solid 4px #afc6e3;}
 </style>
 
 </style>
