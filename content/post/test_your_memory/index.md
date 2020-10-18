@@ -136,7 +136,7 @@ div.try { background-color:#e6f0ff; padding: 1em;
 </style>
 
 </style>
-<div class = "blue">
+<div class = "try">
 
 try try
 
