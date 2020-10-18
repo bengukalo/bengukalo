@@ -112,9 +112,9 @@ div.blue { background-color:#e6f0ff; padding: 1em;
     background-repeat: no-repeat;
     background-position: 15px center;
     min-height: 120px;
-    border: dashed 5px #afc6e3;}
+    border: dashed 4px #afc6e3;}
 div.blue {
-  background-image: url("Lightbulb.png");
+  background-image: url("lightbulb.png");
 }
 
 </style>
