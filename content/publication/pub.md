@@ -10,6 +10,7 @@ publication = "In *Scandinavian Journal of Psychology*"
 publication_short = ""
 selected = false
 title = "The relationship between dysfunctional metacognitive beliefs and problematic social networking sites use"
+doi = " https://doi.org/10.1111/sjop.12634'
 url_code = ""
 url_dataset = ""
 url_pdf = ""
