@@ -125,14 +125,14 @@ Dr. Shanks concludes his talk by stating that testing memory and making mistakes
 
 
 <style>
-div.warning { background-color:#FCF3CF ; padding: 1em;
+div.warning { background-color: #F2D7D5  ; padding: 1em;
     margin: 1em 0;
     padding-left: 100px;
     background-size: 70px;
     background-repeat: no-repeat;
     background-position: 15px center;
     min-height: 120px;
-    border: dashed 4px #F9E79F;}
+    border: dashed 4px #D98880;}
 div.warning {
   background-image: url("warning.png");
 }
