@@ -123,3 +123,20 @@ div.blue {
 Dr. Shanks concludes his talk by stating that testing memory and making mistakes in the process are one of the best learning strategies for students. Tests help students to monitor their learning and assess their current understanding while errors make the correct information more memorable by raising the level of attention.
 </div>
 
+
+<style>
+div.warning { background-color:#FCF3CF ; padding: 1em;
+    margin: 1em 0;
+    padding-left: 100px;
+    background-size: 70px;
+    background-repeat: no-repeat;
+    background-position: 15px center;
+    min-height: 120px;
+    border: dashed 4px #F9E79F;}
+div.warning {
+  background-image: url("warning.png");
+}
+</style>
+<div class = "blue">
+Dr. Shanks concludes his talk by stating that testing memory and making mistakes in the process are one of the best learning strategies for students. Tests help students to monitor their learning and assess their current understanding while errors make the correct information more memorable by raising the level of attention.
+</div>
