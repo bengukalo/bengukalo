@@ -73,6 +73,8 @@ When fMRI is coupled with TMS, it is possible to map the brain areas that are in
 
 &nbsp;
 
+
+___
 ## References
 
 1.	Hölig, C., Föcker, J., Best, A., Röder, B. & Büchel, C. Crossmodal plasticity in the fusiform gyrus of late blind individuals during voice recognition. Neuroimage (2014) doi:10.1016/j.neuroimage.2014.09.050.
