@@ -11,7 +11,7 @@ tags:
 - fMRI
 authors: []
 lastmod: ''
-featured: true
+featured: '(/post/paper_review/featured.jpg)'
 output:
   blogdown::html_page:
     dev: svg
@@ -24,7 +24,7 @@ projects: []
 ---
 &nbsp;
 
-![](/post/paper_review/featured.png)
+![](/post/paper_review/featured.jpg)
 
 
 # Summary of the Study
