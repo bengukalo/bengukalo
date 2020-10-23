@@ -24,6 +24,8 @@ projects: []
 ---
 &nbsp;
 
+![](/post/paper_review/featured.png)
+
 
 # Summary of the Study
 
