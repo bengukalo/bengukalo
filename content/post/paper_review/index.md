@@ -11,7 +11,7 @@ tags:
 - fMRI
 authors: []
 lastmod: ''
-featured: '(/post/paper_review/featured.jpg)'
+featured: '/post/paper_review/featured.jpg'
 output:
   blogdown::html_page:
     dev: svg
