@@ -1,5 +1,5 @@
 ---
-title: Paper Review$:$ Crossmodal plasticity in the fusiform gyrus of late blind individuals during voice recognition
+title: 'Paper Review: Crossmodal plasticity in the fusiform gyrus of late blind individuals during voice recognition'
 subtitle: How fMRI is used in the visual perception studies?
 date: 2020-10-14
 slug: how-fmri-is-used
