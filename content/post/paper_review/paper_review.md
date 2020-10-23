@@ -1,5 +1,5 @@
 ---
-title: Paper Review$:$ Crossmodal plasticity in the fusiform gyrus of late blind individuals during voice recognition<sup>1</sup>
+title: Paper Review$:$ Crossmodal plasticity in the fusiform gyrus of late blind individuals during voice recognition
 subtitle: How fMRI is used in the visual perception studies?
 date: 2020-10-14
 slug: how-fmri-is-used
@@ -27,7 +27,7 @@ projects: []
 
 ## Summary of the Study
 
-Main purpose of this study was to reveal if late blind individuals activates fusiform gyrus and occipital cortex as congenitally blind subjects while performing voice recognition task.
+Main purpose of this study was to reveal if late blind individuals activates fusiform gyrus and occipital cortex as congenitally blind subjects while performing voice recognition task. <sup>1</sup>
 
 Researchers recruited 9 late blind and 7 gender and age matched sighted individuals. For the purpose of the study, only blind individuals with an onset above 14 years and who were blind for at least 7 years were selected. 
 
