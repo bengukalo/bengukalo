@@ -25,7 +25,7 @@ projects: []
 &nbsp;
 
 
-## Summary of the Study
+# Summary of the Study
 
 Main purpose of this study was to reveal if late blind individuals activates fusiform gyrus and occipital cortex as congenitally blind subjects while performing voice recognition task. <sup>1</sup> Researchers recruited 9 late blind and 7 gender and age matched sighted individuals. For the purpose of the study, only blind individuals with an onset above 14 years and who were blind for at least 7 years were selected. 
 
@@ -69,5 +69,23 @@ While working with fMRI, an important question should be taken into consideratio
 Transcranial Magnetic Stimulation (TMS) technique is usually referred as _virtual lesions_<sup>8</sup> since stimulation of cortical activity disrupts task performance in a similar manner to brain lesions. Mechanism underlying TMS is to cause changes in the firing rate of neurons which normally is coherent with surrounding neurons, by increasing their activity<sup>9</sup>. When disruption of activity causes impairment in a function, it means that stimulated region is necessary to utilize the function normally. A good example of using TMS in crossmodal plasticity in case of visual deprivation was conducted by Cohen et al. (1997), assessing the role of visual cortex over the course of Braille reading in blind participants. Prior to this study, fMRI studies of congenitally and early blind individuals documented activation of primary visual cortex while performing Braille reading. However, this activation might have been associated with an epiphenomenon of tactile input processing as well as compensatory crossmodal plasticity. Therefore, Cohen et al. applied TMS to the occipital cortex (V1) of blind and sighted subjects while they are reading Braille with their index fingers. As a result, applying TMS to V1 found to be disruptive to the tactile perception and caused errors in reading in blind subjects but not in the sighted. Supporting data comes from a study which involves an early blind subject with suffered from occipital damage bilaterally<sup>10</sup>. MRI scan revealed that there was no lesion on the sensory motor cortices or language centres of the subject. However, she has been reported to become incapable of Braille reading. Further to that, crossmodal occupation of visual cortices was strengthen when other researchers found that stimulation of that area induces phantom tactile sensations of proficient Braille readers<sup>11,12</sup>. This was documented in both hands, when both occipital cortices were stimulated. 
 
 When fMRI is coupled with TMS, it is possible to map the brain areas that are involved in a particular task. In this case, fusiform gyrus of the subjects might be stimulated to see whether subjects’ voice recognition skills will be disrupted. Effects of TMS on local neuronal activity can be explored by comparing BOLD response prior and afterwards TMS.
+
+
+&nbsp;
+
+## References
+
+1.	Hölig, C., Föcker, J., Best, A., Röder, B. & Büchel, C. Crossmodal plasticity in the fusiform gyrus of late blind individuals during voice recognition. Neuroimage (2014) doi:10.1016/j.neuroimage.2014.09.050.
+2.	Hölig, C., Föcker, J., Best, A., Röder, B. & Büchel, C. Brain systems mediating voice identity processing in blind humans. Hum. Brain Mapp. (2014) doi:10.1002/hbm.22498.
+3.	Watanabe, T., Sasaki, Y., Shibata, K. & Kawato, M. Advances in fMRI Real-Time Neurofeedback. Trends in Cognitive Sciences (2017) doi:10.1016/j.tics.2017.09.010.
+4.	Huettel, S. A. & McCarthy, G. What is odd in the oddball task? Prefrontal cortex is activated by dynamic changes in response strategy. Neuropsychologia (2004) doi:10.1016/j.neuropsychologia.2003.07.009.
+5.	Garavan, H., Ross, T. J., Murphy, K., Roche, R. A. P. & Stein, E. A. Dissociable executive functions in the dynamic control of behavior: Inhibition, error detection, and correction. Neuroimage (2002) doi:10.1006/nimg.2002.1326.
+6.	Faro, S. H. & Mohamed, F. B. BOLD fMRI: A guide to functional imaging for neuroscientists. BOLD fMRI: A Guide to Functional Imaging for Neuroscientists (2010). doi:10.1007/978-1-4419-1329-6.
+7.	Friston, K. J., Harrison, L. & Penny, W. Dynamic causal modelling. Neuroimage (2003) doi:10.1016/S1053-8119(03)00202-7.
+8.	Pascual-Leone, A., Bartres-Faz, D. & Keenan, J. P. Transcranial magnetic stimulation: Studying the brain-behaviour relationship by induction of ‘virtual lesions’. Philos. Trans. R. Soc. B Biol. Sci. (1999) doi:10.1098/rstb.1999.0476.
+9.	Fox, M. D., Halko, M. A., Eldaief, M. C. & Pascual-Leone, A. Measuring and manipulating brain connectivity with resting state functional connectivity magnetic resonance imaging (fcMRI) and transcranial magnetic stimulation (TMS). NeuroImage (2012) doi:10.1016/j.neuroimage.2012.03.035.
+10.	Hamilton, R., Keenan, J. P., Catala, M. & Pascual-Leone, A. Alexia for Braille following bilateral occipital stroke in an early blind woman. Neuroreport (2000) doi:10.1097/00001756-200002070-00003.
+11.	Cohen, L. G. et al. Functional relevance of cross-modal plasticity in blind humans. Nature (1997) doi:10.1038/38278.
+12.	Ptito, M. et al. TMS of the occipital cortex induces tactile sensations in the fingers of blind Braille readers. Exp. Brain Res. (2008) doi:10.1007/s00221-007-1091-0.
 
 
