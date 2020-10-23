@@ -1,6 +1,6 @@
 ---
-title: Paper Review$:$ Crossmodal plasticity in the fusiform gyrus of late blind individuals during voice recognition 
-subtitle: How fMRI is used in the visual perception studies.
+title: Paper Review$:$ Crossmodal plasticity in the fusiform gyrus of late blind individuals during voice recognition<sup>1</sup>
+subtitle: How fMRI is used in the visual perception studies?
 date: 2020-10-14
 slug: how-fmri-is-used
 categories:
@@ -35,6 +35,7 @@ As the stimuli, researchers used pseudowords which were vocalized by 12 actors. 
 
 ![](/post/paper_review/design.png)
 _Figure 1. Scheme of the experimental design._
+
 __Note.__ _Reprinted from Crossmodal plasticity in the fusiform gyrus of late blind individuals during voice recognition, by Hölig et al., Copyright 2014 by Elsevier_
 
 &nbsp;
