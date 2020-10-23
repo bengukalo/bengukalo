@@ -89,7 +89,7 @@ div.blue {
 When fMRI is coupled with TMS, it is possible to map the brain areas that are causally involved in a particular task within the cortex. However, with the current technology it is not possible for TMS to reach some regions like fusiform gyrus.
 </div>
 
-![](https://commons.wikimedia.org/wiki/File:Gray727_fusiform_gyrus.png#/media/File:Gray727_fusiform_gyrus.png)
+![Image Credit: Wikipedia](/post/paper_review/fusiform.png)
 
 
 &nbsp;
