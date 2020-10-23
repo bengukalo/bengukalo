@@ -22,9 +22,10 @@ image:
 projects: []
 
 ---
-&nbsp;
 
 ![](/post/paper_review/featured.jpg)
+
+&nbsp;
 
 
 # Summary of the Study
