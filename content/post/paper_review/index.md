@@ -78,20 +78,20 @@ TMS technique is usually referred as _virtual lesions_<sup>8</sup> since stimula
 
 
 <style>
-div.blue { background-color: #FDEDEC; padding: 1em;
+div.forbidden { background-color: #FDEDEC; padding: 1em;
     margin: 1em 0;
     padding-left: 100px;
     background-size: 70px;
     background-repeat: no-repeat;
     background-position: 15px center;
     min-height: 120px;
-    border: dashed 4px ##CD6155;}
-div.blue {
+    border: dashed 4px #CD6155;}
+div.forbidden {
   background-image: url("forbidden.png");
 }
 
 </style>
-<div class = "blue">
+<div class = "forbidden">
 When fMRI is coupled with TMS, it is possible to map the brain areas that are causally involved in a particular task within the cortex. However, with the current technology it is not possible for TMS to reach some regions like fusiform gyrus.
 </div>
 
