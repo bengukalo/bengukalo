@@ -80,7 +80,7 @@ div.blue { background-color: #FDEDEC; padding: 1em;
     background-repeat: no-repeat;
     background-position: 15px center;
     min-height: 120px;
-    border: dashed 4px #C0392B;}
+    border: dashed 4px ##CD6155;}
 div.blue {
   background-image: url("forbidden.png");
 }
