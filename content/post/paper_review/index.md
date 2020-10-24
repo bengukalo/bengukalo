@@ -99,7 +99,7 @@ When fMRI is coupled with TMS, it is possible to map the brain areas that are ca
 
 
 ![Image Credit: Wikimedia](fusiform.png)
-<div align="center"> _Image Credit: Wikimedia_ </div>
+<div align="center"> <i>Image Credit: Wikimedia</i> </div>
 
 &nbsp;
 
