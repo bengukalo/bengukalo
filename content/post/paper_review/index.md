@@ -75,7 +75,7 @@ On the other hand, blocked-design is considered as superior to event-related des
 <style>
 div.block { background-color:#e6f0ff; padding: 1em;
     margin: 1em 0;
-    padding-left: 100px;
+    padding-left: 50px;
     background-size: 70px;
     background-repeat: no-repeat;
     background-position: 15px center;
