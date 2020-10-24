@@ -72,22 +72,21 @@ On the other hand, blocked-design is considered as superior to event-related des
 
 ## What We Can Do and What We Cannot Do with fMRI
 
-> The limitations of fMRI are not related to physics or poor engineering,
-and are unlikely to be resolved by increasing the sophistication and power of
-the scanners; they are instead due to the circuitry and functional
-organization of the brain, as well as to inappropriate experimental
-protocols that ignore this organization. The fMRI signal cannot easily
-differentiate between function-specific processing and
-neuromodulation, between bottom-up and top-down signals, and it may
-potentially confuse excitation and inhibition. The magnitude of the fMRI
-signal cannot be quantified to reflect accurately differences between
-brain regions, or between tasks within the same region. The origin of
-the latter problem is not due to our current inability to estimate accurately
-cerebral metabolic rate of oxygen (CMRO2) from the BOLD signal, but to the
-fact that haemodynamic responses are sensitive to the size of the
-activated population, which may change as the sparsity of neural
-representations varies spatially and temporally.
+<style>
+div.block { background-color:#e6f0ff; padding: 1em;
+    margin: 1em 0;
+    padding-left: 100px;
+    background-size: 70px;
+    background-repeat: no-repeat;
+    background-position: 15px center;
+    min-height: 120px;
+    border-left: 0.5em solid #afc6e3;}
+</style>
+
+<div class = "block">
+The limitations of fMRI are not related to physics or poor engineering, and are unlikely to be resolved by increasing the sophistication and power of the scanners; they are instead due to the circuitry and functional organization of the brain, as well as to inappropriate experimental protocols that ignore this organization. The fMRI signal cannot easily differentiate between function-specific processing and neuromodulation, between bottom-up and top-down signals, and it may potentially confuse excitation and inhibition. The magnitude of the fMRI signal cannot be quantified to reflect accurately differences between brain regions, or between tasks within the same region. The origin of the latter problem is not due to our current inability to estimate accurately cerebral metabolic rate of oxygen (CMRO2) from the BOLD signal, but to the fact that haemodynamic responses are sensitive to the size of the activated population, which may change as the sparsity of neural representations varies spatially and temporally.
 Logothetis, Nature, 2008
+</div>
 
 While working with fMRI, an important question should be taken into consideration. Does observing activation in an area means that it is related with the task? fMRI diverges from lesion method or Transcranial Magnetic Stimulation (TMS) since it does not only identify the brain regions that are necessary in performing a particular task, but it also marks the areas that are involved in that task anyway. Meaning that activated areas might not be critical at all. When interpreting the outcomes of fMRI, it is assumed that a cognitive process activates hemodynamic response of a particular region. That is, it might be anticipated that if the activated region happens to get damaged, corresponding process also disappears. However, while the data of this experiment can tell us that during a voice recognition task occipital cortex is activated in late blinds, it cannot tell us if the activation is an epiphenomenon related to the loss of visual input or is it indeed task related. In other words, using solely fMRI to search for evidence of crossmodal plasticity in occipital cortex of late blinds may lead researchers to make inaccurate inferences since fMRI is unable to demonstrate causal relationship. A possible way to examine whether or not blindness causes reorganization in the occipital cortex by assigning other modalities like auditory input, may be using interference methods like TMS when the area is up to 6 cm into the cortical surface. 
 
