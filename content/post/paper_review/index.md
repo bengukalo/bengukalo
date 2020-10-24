@@ -85,6 +85,7 @@ div.block { background-color:#e6f0ff; padding: 1em;
 
 <div class = "block">
 The limitations of fMRI are not related to physics or poor engineering, and are unlikely to be resolved by increasing the sophistication and power of the scanners; they are instead due to the circuitry and functional organization of the brain, as well as to inappropriate experimental protocols that ignore this organization. 
+
 <div align="right"> Logothetis, Nature, 2008 </div>
 </div>
 
