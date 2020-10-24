@@ -28,7 +28,7 @@ projects: []
 &nbsp;
 
 
-To explain what kind of experimental designs are used in fMRI studies and what is the technique's potential limitation, I choose a quite recent paper which is exploring whether or not fusiform gyrus activates while late blind individuals are performing a voice recognition task<sup>1</sup>. First part of this essay will briefly summarise the study while second and third divisions are going to focus on explaining the choice of experimental design and possible ways to overcome causality problem that we face while using fMRI.
+For the purpose of this essay, I choose a quite recent paper which is exploring whether or not fusiform gyrus activates while late blind individuals are performing a voice recognition task<sup>1</sup>, one of my favorite topics. First part of this essay will briefly summarise the study while second and third divisions are going to focus on explaining the choice of experimental design and possible ways to overcome causality problem that we face while using fMRI.
 
 &nbsp;
 
@@ -95,7 +95,7 @@ div.blue {
 When fMRI is coupled with TMS, it is possible to map the brain areas that are causally involved in a particular task within the cortex. However, with the current technology it is not possible for TMS to reach some regions like fusiform gyrus.
 </div>
 
-
+![](fusiform.jpg)
 
 
 
