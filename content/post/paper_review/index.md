@@ -95,16 +95,13 @@ div.forbidden {
 When fMRI is coupled with TMS, it is possible to map the brain areas that are causally involved in a particular task within the cortex. However, with the current technology it is not possible for TMS to reach some regions.
 </div>
 
-As seen below, a large portion of fusiform gyrus lies outside of the range for TMS application. For the purpose of overcoming the causality limitation some researchers developed mathematical models like Dynamic Causal Modelling<sup>11</sup>.
-
 &nbsp;
 
 
-![Image Credit: Wikimedia](fusiform.png)
-<div align="center"> <i>Image Credit: Wikimedia</i> </div>
+| ![Image Credit: Wikimedia](fusiform.png)
+<div align="center"> <i>Image Credit: Wikimedia</i> </div> | As seen below, a large portion of fusiform gyrus lies outside of the range for TMS application. For the purpose of overcoming the causality limitation some researchers developed mathematical models like Dynamic Causal Modelling<sup>11</sup>. |
 
 &nbsp;
-
 
 
 
