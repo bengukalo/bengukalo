@@ -28,7 +28,7 @@ projects: []
 &nbsp;
 
 
-# Summary of the Study
+## Summary of the Study
 
 To explain what kind of experimental designs are used in fMRI studies and what is the technique's potential limitation, I choose a quite recent paper which is exploring whether or not fusiform gyrus activates while late blind individuals are performing a voice recognition task. <sup>1</sup> Researchers recruited 9 late blind and 7 gender and age matched sighted individuals. For the purpose of the study, only blind individuals with an onset above 14 years and who were blind for at least 7 years were selected. 
 
@@ -54,7 +54,7 @@ Researchers aimed to reveal if voice identification is changed in late blindness
 &nbsp;
 
 
-# Blocked vs. Event Related Design
+## Blocked vs. Event Related Design
 
 Researchers’ main concern was dissociating the effects of voice identity from automated responses, which in turn could generate neater results. Event related design is considered particularly useful when it comes to implementing oddball paradigm and construct a temporally unpredictable series of stimuli<sup>3</sup>. This is an experimental design in which the sequence of repetetive stimuli are irregularly and infrequently interrupted by deviant stimuli<sup>4</sup> in order to keep participants focused.
 
@@ -65,7 +65,7 @@ On the other hand, blocked-design is considered as superior to event-related des
 &nbsp;
 
 
-# What We Can Do and What We Cannot Do with fMRI
+## What We Can Do and What We Cannot Do with fMRI
 
 While working with fMRI, an important question should be taken into consideration. Does observing activation in an area means that it is related with the task? fMRI diverges from lesion method or TMS since it does not only identify the brain regions that are necessary in performing a particular task, but it also marks the areas that are involved in that task anyway. Meaning that activated areas might not be critical at all. When interpreting the outcomes of fMRI, it is assumed that a cognitive process activates hemodynamic response of a particular region. That is, it might be anticipated that if the activated region happens to get damaged, corresponding process also disappears. However, while the data of this experiment can tell us that during a voice recognition task occipital cortex is activated in late blinds, it cannot tell us if the activation is an epiphenomenon related to the loss of visual input or is it indeed task related. In other words, using solely fMRI to search for evidence of crossmodal plasticity in occipital cortex of late blinds may lead researchers to make inaccurate inferences since fMRI is unable to demonstrate causal relationship. For the purpose of overcoming this limitation some researchers developed mathematical models like Dynamic Causal Modelling<sup>7</sup>, yet this is only able to offer a probability of causation rather than empirical evidence. A possible way to examine whether or not blindness causes reorganization in the occipital cortex by assigning other modalities like auditory input, may be using interference methods like Transcranial Magnetic Stimulation (TMS) when the area is up to 6 cm into the cortical surface. 
 
@@ -73,14 +73,14 @@ TMS technique is usually referred as _virtual lesions_<sup>8</sup> since stimula
 
 
 <style>
-div.blue { background-color:#e6f0ff; padding: 1em;
+div.blue { background-color: #FADBD8; padding: 1em;
     margin: 1em 0;
     padding-left: 100px;
     background-size: 70px;
     background-repeat: no-repeat;
     background-position: 15px center;
     min-height: 120px;
-    border: dashed 4px #afc6e3;}
+    border: dashed 4px #C0392B;}
 div.blue {
   background-image: url("forbidden.png");
 }
