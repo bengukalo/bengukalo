@@ -73,14 +73,14 @@ On the other hand, blocked-design is considered as superior to event-related des
 ## What We Can Do and What We Cannot Do with fMRI
 
 <style>
-div.block { background-color:#e6f0ff; padding: 1em;
+div.block { background-color:#FEF5E7; padding: 1em;
     margin: 1em 0;
     padding-left: 50px;
     background-size: 70px;
     background-repeat: no-repeat;
     background-position: 15px center;
     min-height: 120px;
-    border-left: 0.5em solid #afc6e3;}
+    border-left: 0.5em solid #FAD7A0 ;}
 </style>
 
 <div class = "block">
