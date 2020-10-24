@@ -73,7 +73,7 @@ TMS technique is usually referred as _virtual lesions_<sup>8</sup> since stimula
 
 
 <style>
-div.blue { background-color: #FADBD8; padding: 1em;
+div.blue { background-color: #FDEDEC; padding: 1em;
     margin: 1em 0;
     padding-left: 100px;
     background-size: 70px;
