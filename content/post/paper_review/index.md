@@ -23,7 +23,7 @@ projects: []
 
 ---
 
-![](/post/paper_review/featured.jpg)
+![](featured.jpg)
 
 &nbsp;
 
@@ -39,7 +39,7 @@ To explain what kind of experimental designs are used in fMRI studies and what i
 
 As the stimuli, researchers used pseudowords which were vocalized by 12 actors. Purpose of using pseudowords was isolating the effect of voice identity effect from confounders like semantic associations etc. Each trial consisted two voice stimuli (S1 - S2), in which stimuli 2 (S2) was either person congruent (50%) or person incongruent (50%). Among these, %50 were gender congruent and %50 were gender incongruent. In addition, researchers stated that age congruent trials were at the same time response congruent (S1 primed response to S2) and age incongruent trials were at the same time response incongruent (S1 did not prime response to S2). To measure the effects, two separate event-related designs for person congruent and person incongruent trials was administered. Researchers also noted that in order to ensure attention to S1, oddball paradigm has been used. 
 
-![](/post/paper_review/design.png)
+![](design.png)
 _Figure 1. Scheme of the experimental design._
 
 __Note.__ _Reprinted from Crossmodal plasticity in the fusiform gyrus of late blind individuals during voice recognition, by Hölig et al., Copyright 2014 by Elsevier_
