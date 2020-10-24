@@ -59,7 +59,7 @@ Researchers aimed to reveal if voice identification is changed in late blindness
 &nbsp;
 
 
-## Blocked vs. Event Related Design
+## The Choice of Weapon: Blocked vs. Event Related Design
 
 Researchers’ main concern was dissociating the effects of voice identity from automated responses, which in turn could generate neater results. Event related design is considered particularly useful when it comes to implementing oddball paradigm and construct a temporally unpredictable series of stimuli<sup>3</sup>. This is an experimental design in which the sequence of repetetive stimuli are irregularly and infrequently interrupted by deviant stimuli<sup>4</sup> in order to keep participants focused.
 
