@@ -85,7 +85,7 @@ div.forbidden { background-color: #FDEDEC; padding: 1em;
     background-repeat: no-repeat;
     background-position: 15px center;
     min-height: 120px;
-    border: dashed 4px #CD6155;}
+    border: dotted 4px #CD6155;}
 div.forbidden {
   background-image: url("forbidden.png");
 }
