@@ -104,20 +104,8 @@ When fMRI is coupled with TMS, it is possible to map the brain areas that are ca
 &nbsp;
 
 
-<style>
-div.red { background-color: #FDEDEC; padding: 1em;
-    margin: 1em 0;
-    padding-left: 100px;
-    background-size: 70px;
-    background-repeat: no-repeat;
-    background-position: 15px center;
-    min-height: 120px;
-    border: dashed 4px ##CD6155;}
+******
 
-</style>
-
-
-<div class = "red">
 ## References
 
 1.	Hölig, C., Föcker, J., Best, A., Röder, B. & Büchel, C. Crossmodal plasticity in the fusiform gyrus of late blind individuals during voice recognition. Neuroimage (2014) doi:10.1016/j.neuroimage.2014.09.050.
@@ -133,4 +121,4 @@ div.red { background-color: #FDEDEC; padding: 1em;
 11.	Cohen, L. G. et al. Functional relevance of cross-modal plasticity in blind humans. Nature (1997) doi:10.1038/38278.
 12.	Ptito, M. et al. TMS of the occipital cortex induces tactile sensations in the fingers of blind Braille readers. Exp. Brain Res. (2008) doi:10.1007/s00221-007-1091-0.
 
-</div>
+
