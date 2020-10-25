@@ -95,10 +95,10 @@ The limitations of fMRI are not related to physics or poor engineering, and are 
 
 While working with fMRI, an important question should be taken into consideration. Does observing activation in an area means that it is related with the task? fMRI diverges from lesion method or Transcranial Magnetic Stimulation (TMS) since it does not only identify the brain regions that are necessary in performing a particular task, but it also marks the areas that are involved in that task anyway. Meaning that activated areas might not be critical at all. When interpreting the outcomes of fMRI, it is assumed that a cognitive process activates hemodynamic response of a particular region. That is, it might be anticipated that if the activated region happens to get damaged, corresponding process also disappears. However, while the data of this experiment can tell us that during a voice recognition task occipital cortex is activated in late blinds, it cannot tell us if the activation is an epiphenomenon related to the loss of visual input or is it indeed task related. In other words, using solely fMRI to search for evidence of crossmodal plasticity in occipital cortex of late blinds may lead researchers to make inaccurate inferences since fMRI is unable to demonstrate causal relationship. A possible way to examine whether or not blindness causes reorganization in the occipital cortex by assigning other modalities like auditory input, may be using interference methods like TMS when the area is up to 6 cm into the cortical surface. 
 
-TMS technique is usually referred as _virtual lesions_<sup>6</sup> since stimulation of cortical activity disrupts task performance in a similar manner to brain lesions. Mechanism underlying TMS is to cause changes in the firing rate of neurons which normally is coherent with surrounding neurons, by increasing their activity<sup>7</sup>. When disruption of activity causes impairment of a function, it means that stimulated region is necessary to utilize the function normally. Some great advantages of using TMS instead of lesion cases are that; 
+TMS technique is usually referred as _virtual lesion_<sup>6</sup> since stimulation of cortical activity disrupts task performance in a similar manner to brain lesions, only temporarily. Mechanism underlying TMS is to cause changes in the firing rate of neurons which normally is coherent with surrounding neurons, by increasing their activity<sup>7</sup>. When disruption of activity causes impairment of a function, it means that stimulated region is necessary to utilize the function normally. Some great advantages of using TMS instead of lesion cases are that; 
 
 * Patients are likely to go through a brain re-organization after a traumatic injury, which is not the case for virtual lesions.
-* Visual lesions are controlled and relatively more precise in terms of location and size.  
+* Visual lesions are controlled and **relatively** more precise in terms of location and size.  
 
 A good example of using TMS in crossmodal plasticity in case of visual deprivation was conducted by Cohen et al. (1997), assessing the role of visual cortex over the course of Braille reading in blind participants. Prior to this study, fMRI studies of congenitally and early blind individuals documented activation of primary visual cortex while performing Braille reading. However, this activation might have been associated with an epiphenomenon of tactile input processing as well as compensatory crossmodal plasticity. Therefore, Cohen et al. applied TMS to the occipital cortex (V1) of blind and sighted subjects while they are reading Braille with their index fingers. As a result, applying TMS to V1 found to be disruptive to the tactile perception and caused errors in reading in blind subjects but not in the sighted. 
 
@@ -130,10 +130,13 @@ When fMRI is coupled with TMS, it is possible to map the brain areas that are ca
 &nbsp;
 
 
-
-
+As seen above, a large portion of fusiform gyrus lies outside of the range for TMS applications. In this case researchers cannot make a reliable causal inference without resorting to a single case lesion study. However, both TMS and lesion studies come with some shared (precision) and some unique (brain re-organisation and statistical power) disadvantages which is a whole another topic.
 
 &nbsp;
+
+
+## Temporal Resolution Problem
+
 
 
 *****
