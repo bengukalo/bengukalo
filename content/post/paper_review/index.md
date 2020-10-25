@@ -130,12 +130,13 @@ When fMRI is coupled with TMS, it is possible to map the brain areas that are ca
 &nbsp;
 
 
-As seen above, a large portion of fusiform gyrus lies outside of the range for TMS applications. In this case researchers cannot make a reliable causal inference without resorting to a single case lesion study. However, both TMS and lesion studies come with some shared (precision) and some unique (brain re-organisation and statistical power) disadvantages which is a whole another topic.
+As seen above, a large portion of fusiform gyrus lies outside of the range for TMS applications. In this case researchers cannot make a reliable causal inference without resorting to a single case lesion study. However, both TMS and lesion studies come with some shared (precision) and some unique (brain re-organisation and statistical power) disadvantages, and some problems are unlikely to be solved any time soon (inability to inspect a region isolated from its connections with other areas). But that's a whole nother story.
 
 &nbsp;
 
 
 ## Temporal Resolution Problem
+
 
 
 
