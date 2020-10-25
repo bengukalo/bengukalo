@@ -135,7 +135,7 @@ As seen above, a large portion of fusiform gyrus lies outside of the range for T
 &nbsp;
 
 
-## Temporal Resolution Problem
+### Temporal Resolution Problem
 
 
 
