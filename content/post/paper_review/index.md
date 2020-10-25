@@ -1,6 +1,6 @@
 ---
 title: How fMRI is Used in the Visual Perception Studies?
-subtitle: What neuroscientists use to overcome its most important limitation?
+subtitle: Its experimental designs and limitations.
 date: 2020-10-14
 slug: how-fmri-is-used
 categories:
@@ -54,7 +54,7 @@ Priori to the experiment, participants were familiarized with voices of the acto
 
 ### Findings
 
-Researchers aimed to reveal if voice identification is changed in late blindness as it changes in congenital blindness<sup>2</sup>. They found that blind individuals learn voice identities faster than sighted participants, yet the groups did not perform significantly better in the voice matching task after the training phase. However, blind participants’ occipital cortex showed grater BOLD response while performing voice identification task. In addition, only in late-blind group anterior fusiform gyrus was activated by this task. Researchers concluded that late blindness causes the same changes as congenital blindness, as both groups activated the same part of fusiform gyrus. In addition, it was concluded that this indicates a reorganization in the occipital lobe of blind individuals. These results were also similar to significant amount of studies that revealed crossmodal activation in V1 in late blind subjects.
+Researchers aimed to reveal if voice identification changes in late blindness as it changes in congenital blindness<sup>2</sup>. They found that blind individuals learn voice identities faster than sighted participants, yet the groups did not perform significantly better in the voice matching task after the training phase. However, blind participants’ occipital cortex showed grater BOLD response while performing voice identification task. In addition, only in late-blind group anterior fusiform gyrus was activated by this task. Researchers concluded that late blindness causes the same changes as congenital blindness, as both groups activated the same part of fusiform gyrus. In addition, it was concluded that this indicates a reorganization in the occipital lobe of blind individuals. These results were also similar to significant amount of studies that revealed crossmodal activation in V1 in late blind subjects.
 
 &nbsp;
 
@@ -65,7 +65,7 @@ Researchers’ main concern was dissociating the effects of voice identity from 
 
  It also has the advantage of enabling the categorization of events<sup>3</sup>, by making it possible to sort the times when participant recognized the voice stimulus and when they did not. This categorization is essential considering the study’s aim is to localize the region which is involved in voice *recognition*. In addition, event-related design enables isolating related cognitive processes. While comparing 2 groups, researchers are able to equate the performances of two groups by comparing only correct trials. That is, it is possible to compare correct trials of the first group to the correct trials of the second group, even if the number of correct trials is not equal. This way, data will be clear from irrelevant activations caused by incorrect trials. Another preferable feature of event-related design is that it measures signal change related to a single stimulus. This allows researchers to assign a signal change to a particular event, as well as correlating a behaviour with neural responses and randomising the stimuli<sup>5</sup>.
 
-On the other hand, blocked-design is considered as superior to event-related design because it provides with a larger BOLD signal in addition to offering a high detection power<sup>3</sup>. Yet, it has a non-negligible disadvantage; it allows participants to predict the order of the stimuli and type of trials, which makes it impossible to run oddball paradigm. It would also disable the categorization of events by presenting stimuli continuously in single trial. Moreover, block design averages brain activation over a prolonged period of time; therefore, is quite inefficient when regressors are temporally proximal. Consequently, it is unable to isolate cognitive events as well<sup>3</sup>. However, researchers in this case needed a design which allows isolation of the primed response from voice recognition and this was achieved by creating a random series of age-congruent and age-incongruent trials, which would not be possible with blocked design. 
+On the other hand, blocked-design is considered as superior to event-related design because it provides with a larger BOLD signal in addition to offering a high detection power<sup>3</sup>. This is an especially important advantage as the fMRI signal is inherently noisy. Yet, it has a non-negligible disadvantage; it allows participants to predict the order of the stimuli and type of trials, which makes it impossible to run oddball paradigm. It would also disable the categorization of events by presenting stimuli continuously in single trial. Moreover, block design averages brain activation over a prolonged period of time; therefore, is quite inefficient when regressors are temporally proximal. Consequently, it is unable to isolate cognitive events as well<sup>3</sup>. However, researchers in this case needed a design which allows isolation of the primed response from voice recognition and this was achieved by creating a random series of age-congruent and age-incongruent trials, which would not be possible with blocked design. 
 
 &nbsp;
 
@@ -130,14 +130,14 @@ When fMRI is coupled with TMS, it is possible to map the brain areas that are ca
 &nbsp;
 
 
-As seen above, a large portion of fusiform gyrus lies outside of the range for TMS applications. In this case researchers cannot make a reliable causal inference without resorting to a single case lesion study. However, both TMS and lesion studies come with some shared (precision) and some unique (brain re-organisation and statistical power) disadvantages, and some problems are unlikely to be solved any time soon (inability to inspect a region isolated from its connections with other areas). But that's a whole nother story.
+As seen above, a large portion of fusiform gyrus lies outside of the range (6cm) for TMS applications. In this case researchers cannot make a reliable causal inference without resorting to a single case lesion study. However, both TMS and lesion studies come with some shared (precision) and some unique (brain re-organisation and statistical power) disadvantages, and some problems of the neuropsychological methods are unlikely to be solved any time soon (inability to inspect a region isolated from its connections with other areas). But that's a whole nother story.
 
 &nbsp;
 
 
 ### Temporal Resolution Problem
 
-
+It is well-known that fMRI comes with a great spatial resolution while it has a quite low temporal resolution and that the electroencephalography (EEG) possesses a reversed pattern.
 
 
 *****
