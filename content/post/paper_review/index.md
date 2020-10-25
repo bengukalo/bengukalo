@@ -137,7 +137,7 @@ As seen above, a large portion of fusiform gyrus lies outside of the range (6cm)
 
 ### Temporal Resolution Problem
 
-It is well-known that fMRI comes with a great spatial resolution while it has a quite low temporal resolution and that the electroencephalography (EEG) possesses a reversed pattern.
+
 
 
 *****
