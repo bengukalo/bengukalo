@@ -72,6 +72,8 @@ On the other hand, blocked-design is considered as superior to event-related des
 
 ## What We Can Do and What We Cannot Do with fMRI
 
+### The Causality Problem
+
 <style>
 div.block { background-color:#FEF5E7; padding: 1em;
     margin: 1em 0;
@@ -93,7 +95,7 @@ The limitations of fMRI are not related to physics or poor engineering, and are 
 
 While working with fMRI, an important question should be taken into consideration. Does observing activation in an area means that it is related with the task? fMRI diverges from lesion method or Transcranial Magnetic Stimulation (TMS) since it does not only identify the brain regions that are necessary in performing a particular task, but it also marks the areas that are involved in that task anyway. Meaning that activated areas might not be critical at all. When interpreting the outcomes of fMRI, it is assumed that a cognitive process activates hemodynamic response of a particular region. That is, it might be anticipated that if the activated region happens to get damaged, corresponding process also disappears. However, while the data of this experiment can tell us that during a voice recognition task occipital cortex is activated in late blinds, it cannot tell us if the activation is an epiphenomenon related to the loss of visual input or is it indeed task related. In other words, using solely fMRI to search for evidence of crossmodal plasticity in occipital cortex of late blinds may lead researchers to make inaccurate inferences since fMRI is unable to demonstrate causal relationship. A possible way to examine whether or not blindness causes reorganization in the occipital cortex by assigning other modalities like auditory input, may be using interference methods like TMS when the area is up to 6 cm into the cortical surface. 
 
-TMS technique is usually referred as _virtual lesions_<sup>6</sup> since stimulation of cortical activity disrupts task performance in a similar manner to brain lesions. Mechanism underlying TMS is to cause changes in the firing rate of neurons which normally is coherent with surrounding neurons, by increasing their activity<sup>7</sup>. When disruption of activity causes impairment of a function, it means that stimulated region is necessary to utilize the function normally. A good example of using TMS in crossmodal plasticity in case of visual deprivation was conducted by Cohen et al. (1997), assessing the role of visual cortex over the course of Braille reading in blind participants. Prior to this study, fMRI studies of congenitally and early blind individuals documented activation of primary visual cortex while performing Braille reading. However, this activation might have been associated with an epiphenomenon of tactile input processing as well as compensatory crossmodal plasticity. Therefore, Cohen et al. applied TMS to the occipital cortex (V1) of blind and sighted subjects while they are reading Braille with their index fingers. As a result, applying TMS to V1 found to be disruptive to the tactile perception and caused errors in reading in blind subjects but not in the sighted. Supporting data comes from a study which involves an early blind subject with suffered from occipital damage bilaterally<sup>8</sup>. MRI scan revealed that there was no lesion on the sensory motor cortices or language centres of the subject. However, she has been reported to become incapable of Braille reading. The idea of a crossmodal reorganisation became stronger when other researchers found that stimulation of the area induces phantom tactile sensations of proficient Braille readers<sup>9,10</sup>. This was documented in both hands, when both occipital cortices were stimulated with TMS. 
+TMS technique is usually referred as _virtual lesions_<sup>6</sup> since stimulation of cortical activity disrupts task performance in a similar manner to brain lesions. Mechanism underlying TMS is to cause changes in the firing rate of neurons which normally is coherent with surrounding neurons, by increasing their activity<sup>7</sup>. When disruption of activity causes impairment of a function, it means that stimulated region is necessary to utilize the function normally. A good example of using TMS in crossmodal plasticity in case of visual deprivation was conducted by Cohen et al. (1997), assessing the role of visual cortex over the course of Braille reading in blind participants. Prior to this study, fMRI studies of congenitally and early blind individuals documented activation of primary visual cortex while performing Braille reading. However, this activation might have been associated with an epiphenomenon of tactile input processing as well as compensatory crossmodal plasticity. Therefore, Cohen et al. applied TMS to the occipital cortex (V1) of blind and sighted subjects while they are reading Braille with their index fingers. As a result, applying TMS to V1 found to be disruptive to the tactile perception and caused errors in reading in blind subjects but not in the sighted. 
 
 
 <style>
@@ -123,7 +125,7 @@ When fMRI is coupled with TMS, it is possible to map the brain areas that are ca
 &nbsp;
 
 
-As seen below, a large portion of fusiform gyrus lies outside of the range for TMS application. For the purpose of overcoming the causality limitation some researchers developed mathematical models like Dynamic Causal Modelling<sup>11</sup>.
+
 
 
 &nbsp;
@@ -140,8 +142,12 @@ As seen below, a large portion of fusiform gyrus lies outside of the range for T
 5.  Faro, S. H. & Mohamed, F. B. BOLD fMRI: A guide to functional imaging for neuroscientists. BOLD fMRI: A Guide to Functional Imaging for Neuroscientists (2010). doi:10.1007/978-1-4419-1329-6.
 6.  Pascual-Leone, A., Bartres-Faz, D. & Keenan, J. P. Transcranial magnetic stimulation: Studying the brain-behaviour relationship by induction of ‘virtual lesions’. Philos. Trans. R. Soc. B Biol. Sci. (1999) doi:10.1098/rstb.1999.0476.
 7.  Fox, M. D., Halko, M. A., Eldaief, M. C. & Pascual-Leone, A. Measuring and manipulating brain connectivity with resting state functional connectivity magnetic resonance imaging (fcMRI) and transcranial magnetic stimulation (TMS). NeuroImage (2012) doi:10.1016/j.neuroimage.2012.03.035.
-8.  Hamilton, R., Keenan, J. P., Catala, M. & Pascual-Leone, A. Alexia for Braille following bilateral occipital stroke in an early blind woman. Neuroreport (2000) doi:10.1097/00001756-200002070-00003.
-9. Cohen, L. G. et al. Functional relevance of cross-modal plasticity in blind humans. Nature (1997) doi:10.1038/38278.
-10. Ptito, M. et al. TMS of the occipital cortex induces tactile sensations in the fingers of blind Braille readers. Exp. Brain Res. (2008) doi:10.1007/s00221-007-1091-0.
-11. Friston, K. J., Harrison, L. & Penny, W. Dynamic causal modelling. Neuroimage (2003) doi:10.1016/S1053-8119(03)00202-7.
 
+
+
+&nbsp;
+
+
+## Further Reading
+
+Logothetis, N. K. What we can do and what we cannot do with fMRI. Nature (2008) doi:10.1038/nature06976.
