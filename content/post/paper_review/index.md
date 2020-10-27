@@ -131,7 +131,7 @@ div.forbidden {
 
 </style>
 <div class = "forbidden">
-One should keep in mind that all of the neuroimaging techniques has limitations, one way or another. However, as Logothetis stated; most of the problems in neuroscience arises not due to the technique itself, but because of the way our brain is wired.
+One should keep in mind that all of the neuroimaging techniques has limitations, one way or another. However, as Logothetis stated; most of the problems in neuroscience arises not due to the technique itself, but because of the way that our brain is wired.
 </div>
 
 &nbsp;
