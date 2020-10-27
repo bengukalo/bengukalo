@@ -125,7 +125,7 @@ div.warn { background-color: #FDEDEC; padding: 1em;
     background-position: 15px center;
     min-height: 120px;
     border: dashed 2px #CD6155;}
-div.forbidden {
+div.warn {
   background-image: url("warn.png");
 }
 
