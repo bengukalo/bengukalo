@@ -133,14 +133,14 @@ In this case, researchers can answer which areas of the brain are involved in vo
 
 
 <style>
-div.warn { background-color: #FDEDEC; padding: 1em;
+div.warn { background-color: #FDF2E9; padding: 1em;
     margin: 1em 0;
     padding-left: 100px;
     background-size: 70px;
     background-repeat: no-repeat;
     background-position: 15px center;
     min-height: 120px;
-    border: dashed 2px #CD6155;}
+    border: solid 2px #F0B27A;}
 div.warn {
   background-image: url("warn.png");
 }
