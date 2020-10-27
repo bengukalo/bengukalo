@@ -129,7 +129,6 @@ padding: 1rem;
 #about .portrait-title h3 {
   font-family: "Open Sans";
   margin-top: 10px;
-  text-align: left;
 }
 
 #about .col-12.col-lg-8 {
@@ -202,6 +201,7 @@ iframe {
   -webkit-overflow-scrolling: touch;
   border: #ddd 0 solid;
   margin: 0 auto;
+  text-align: justify;
 }
 
 .iframe-container > iframe {
@@ -242,6 +242,5 @@ div.note {
   padding: 0 20px 0 20px;
   margin: 0 auto 0 auto;
   font-size: 17px;
-  text-align: justify;
 } 
 
