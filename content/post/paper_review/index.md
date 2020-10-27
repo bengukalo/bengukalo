@@ -102,6 +102,19 @@ TMS technique is usually referred as _virtual lesion_<sup>6</sup> since stimulat
 
 A good example of using TMS in crossmodal plasticity in case of visual deprivation was conducted by Cohen et al. (1997), assessing the role of visual cortex over the course of Braille reading in blind participants. Prior to this study, fMRI studies of congenitally and early blind individuals documented activation of primary visual cortex while performing Braille reading. However, this activation might have been associated with an epiphenomenon of tactile input processing as well as compensatory crossmodal plasticity. Therefore, Cohen et al. applied TMS to the occipital cortex (V1) of blind and sighted subjects while they are reading Braille with their index fingers. As a result, applying TMS to V1 found to be disruptive to the tactile perception and caused errors in reading in blind subjects but not in the sighted. 
 
+<style>
+div.forbidden { background-color: #FDEDEC; padding: 1em;
+    margin: 1em 0;
+    padding-left: 100px;
+    background-size: 70px;
+    background-repeat: no-repeat;
+    background-position: 15px center;
+    min-height: 120px;
+    border: dashed 2px #CD6155;}
+div.forbidden {
+  background-image: url("forbidden.png");
+}
+
 <div class = "forbidden">
 It should be noted that a large portion of fusiform gyrus lies outside of the range for TMS applications and this may lead to a false negative result. Therefore, TMS cannot be the definite solution for the causation problem in cases like this.
 </div>
