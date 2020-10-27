@@ -130,7 +130,6 @@ body {
   #about .portrait-title h3 {
     font-family: "Open Sans";
     margin-top: 10px;
-    text-align: left;
   }
   
   #about .col-12.col-lg-8 {
@@ -246,3 +245,7 @@ body {
     margin: 0 auto 0 auto;
     font-size: 17px;
   }
+
+h3 {
+	text-align: left;
+}
