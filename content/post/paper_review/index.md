@@ -28,7 +28,7 @@ projects: []
 &nbsp;
 
 
-For the purpose of this essay, I choose a quite recent paper which is exploring whether or not fusiform gyrus activates while late blind individuals are performing a voice recognition task<sup>1</sup>, one of my favorite topics. First part of this essay will briefly summarise the study while second and third divisions are going to focus on explaining the choice of experimental design and possible ways to overcome causality problem that we face while using fMRI.
+For the purpose of this essay, I choose a quite recent paper from one of my favorite topics. The article is exploring whether or not fusiform gyrus activates while late blind individuals are performing a voice recognition task<sup>1</sup>. First part of this piece will briefly summarise the study while second and third divisions are going to focus on explaining the choice of experimental design and possible ways to overcome causality problem that we face while using fMRI.
 
 &nbsp;
 
@@ -59,7 +59,7 @@ Researchers aimed to reveal if voice identification changes in late blindness as
 &nbsp;
 
 
-## The Choice of Weapon: Blocked vs. Event Related Design
+## Blocked vs. Event Related Design
 
 Researchers’ main concern was dissociating the effects of voice identity from automated responses, which in turn could generate neater results. Event related design is considered particularly useful when it comes to implementing oddball paradigm and construct a temporally unpredictable series of stimuli<sup>3</sup>. This is an experimental design in which the sequence of repetetive stimuli are irregularly and infrequently interrupted by deviant stimuli<sup>4</sup> in order to keep participants focused.
 
@@ -137,7 +137,7 @@ As seen above, a large portion of fusiform gyrus lies outside of the range (6cm)
 
 ### Temporal Resolution Problem
 
-
+It is well-known that fMRI comes with a great spatial resolution while it has a quite low temporal resolution and that the electroencephalography (EEG) possesses a reversed pattern.
 
 
 *****
