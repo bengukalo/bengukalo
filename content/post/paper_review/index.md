@@ -156,7 +156,7 @@ One should keep in mind that all of the neuroimaging techniques has limitations,
 
 ## References
 
-<div style = "text-align: right">
+<div style = "text-align: left">
 
 1.  Hölig, C., Föcker, J., Best, A., Röder, B. & Büchel, C. Crossmodal plasticity in the fusiform gyrus of late blind individuals during voice recognition. Neuroimage (2014) doi:10.1016/j.neuroimage.2014.09.050.
 2.  Hölig, C., Föcker, J., Best, A., Röder, B. & Büchel, C. Brain systems mediating voice identity processing in blind humans. Hum. Brain Mapp. (2014) doi:10.1002/hbm.22498.
@@ -175,7 +175,7 @@ One should keep in mind that all of the neuroimaging techniques has limitations,
 
 ## Further Reading
 
-<div style = "text-align: right">
+<div style = "text-align: left">
 
 Logothetis, N. K. What we can do and what we cannot do with fMRI. Nature (2008) doi:10.1038/nature06976.
 
