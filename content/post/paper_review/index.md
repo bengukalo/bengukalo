@@ -102,42 +102,14 @@ TMS technique is usually referred as _virtual lesion_<sup>6</sup> since stimulat
 
 A good example of using TMS in crossmodal plasticity in case of visual deprivation was conducted by Cohen et al. (1997), assessing the role of visual cortex over the course of Braille reading in blind participants. Prior to this study, fMRI studies of congenitally and early blind individuals documented activation of primary visual cortex while performing Braille reading. However, this activation might have been associated with an epiphenomenon of tactile input processing as well as compensatory crossmodal plasticity. Therefore, Cohen et al. applied TMS to the occipital cortex (V1) of blind and sighted subjects while they are reading Braille with their index fingers. As a result, applying TMS to V1 found to be disruptive to the tactile perception and caused errors in reading in blind subjects but not in the sighted. 
 
-
-<style>
-div.forbidden { background-color: #FDEDEC; padding: 1em;
-    margin: 1em 0;
-    padding-left: 100px;
-    background-size: 70px;
-    background-repeat: no-repeat;
-    background-position: 15px center;
-    min-height: 120px;
-    border: dashed 2px #CD6155;}
-div.forbidden {
-  background-image: url("forbidden.png");
-}
-
-</style>
-<div class = "forbidden">
-When fMRI is coupled with TMS, it is possible to map the brain areas that are causally involved in a particular task within the cortex. However, with the current technology it is not possible for TMS to reach some regions.
-</div>
-
-&nbsp;
-
-
-![Image Credit: Wikimedia](fusiform.png)
-<div align="center"> <i>Image Credit: Wikimedia</i> </div>
-
-&nbsp;
-
-
-As seen above, a large portion of fusiform gyrus lies outside of the range (6cm) for TMS applications. In this case researchers cannot make a reliable causal inference without resorting to a single case lesion study. However, both TMS and lesion studies come with some shared (precision) and some unique (brain re-organisation and statistical power) disadvantages, and some problems of the neuropsychological methods are unlikely to be solved any time soon (inability to inspect a region isolated from its connections with other areas). But that's a whole nother story.
-
 &nbsp;
 
 
 ### Temporal Resolution Problem
 
-It is well-known that fMRI comes with a great spatial resolution while it has a quite low temporal resolution and that the electroencephalography (EEG) possesses a reversed pattern.
+For many research questions, it is essential to measure the timing of the neuronal activity with high accuracy, in other words with hight *temporal resolution*. It can be argued that fMRI has an intermediate temporal resolution compare to other techniques such as PET. It can distinguish events that occur with a few seconds of intervals, and this can be improved to a certain extent (e.g. using an interleaved stimulus presentation). However, this technique still isn’t suitable for testing time-related hypotheses. Therefore, researchers sometimes use a complementary technique with high temporal resolution which is called Event Related Potential, or ERP. 
+
+Previous research revealed that blind individuals process auditory input faster than sighted<sup>8</sup>. However, in our case researchers cannot single out the sub-processes of voice recognition which differs in blind and makes them superior to sighted participants by solely using fMRI. 
 
 
 *****
