@@ -28,7 +28,7 @@ projects: []
 &nbsp;
 
 
-For the purpose of this essay, I choose a quite recent paper from one of my favorite topics. The article is exploring whether or not fusiform gyrus activates while late blind individuals are performing a voice recognition task<sup>1</sup>. First part of this piece will briefly summarise the study while second and third divisions are going to focus on explaining the choice of experimental design and possible ways to overcome causality problem that we face while using fMRI.
+For the purpose of this essay, I choose a quite recent paper from one of my favorite topics. The article is exploring whether or not fusiform gyrus activates while late blind individuals are performing a voice recognition task<sup>1</sup>. First part of this piece will briefly summarise the study while second and third divisions are going to focus on explaining the choice of experimental design and possible ways to overcome the limitations that researchers face while using fMRI.
 
 &nbsp;
 
