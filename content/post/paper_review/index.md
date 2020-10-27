@@ -1,5 +1,7 @@
 ---
-title: How fMRI is Used in the Visual Perception Studies?
+title: How fMRI is Used in the Visual
+
+Perception Studies?
 subtitle: An overview of its experimental designs and ways to compensate the limitations.
 date: 2020-10-14
 slug: how-fmri-is-used
