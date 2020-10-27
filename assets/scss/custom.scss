@@ -8,12 +8,6 @@ body {
     min-height: 75px !important;
   }
   
-  h1, h2, h3, h4, h5, h6 {
-      font-weight: 400;
-    letter-spacing: 0.04em;
-    color: #172A3A;
-  }
-  
   /* Make mobile navbar skinnier */
   
     @media screen and (max-width: 768px) {
@@ -242,7 +236,7 @@ body {
   }
   
   .article-container {
-    max-width: 850px;
+    max-width: 900px;
     padding: 0 20px 0 20px;
     margin: 0 auto 0 auto;
     font-size: 17px;
