@@ -116,45 +116,24 @@ body {
   #about h1 {
     margin-top: 50px;
     margin-bottom: 30px;
-    text-align: center;
-  }
-
-  #about h2 {
-    text-align: center;
   }
   
   #about h3 {
     margin-top: 100px;
-    text-align: center;
   }
-
-  #about h4 {
-    text-align: center;
-  }
-
-  #about h5 {
-    text-align: center;
-  }
-
+  
   #about .portrait-title h2 {
     margin-top: 50px;
     margin-bottom: 20px;
-    text-align: center;
   }
   
   #about .portrait-title h3 {
     font-family: "Open Sans";
     margin-top: 10px;
-    text-align: center;
   }
   
-  #about .portrait-title h4 {
-    text-align: center;
-  }
-
   #about .col-12.col-lg-8 {
     padding-left: 70px !important;
-    text-align: center;
   }
   
   /* Evenly spaces bio text on mobile */
@@ -267,6 +246,6 @@ body {
     font-size: 17px;
   }
 
-  h1, h2, h3, h4 {
+h4 {
 	text-align: left;
 }
