@@ -117,7 +117,7 @@ In this case, researchers can answer which areas of the brain are involved in vo
 
 
 <style>
-div.forbidden { background-color: #FDEDEC; padding: 1em;
+div.warn { background-color: #FDEDEC; padding: 1em;
     margin: 1em 0;
     padding-left: 100px;
     background-size: 70px;
@@ -126,11 +126,11 @@ div.forbidden { background-color: #FDEDEC; padding: 1em;
     min-height: 120px;
     border: dashed 2px #CD6155;}
 div.forbidden {
-  background-image: url("forbidden.png");
+  background-image: url("warn.png");
 }
 
 </style>
-<div class = "forbidden">
+<div class = "warn">
 One should keep in mind that all of the neuroimaging techniques has limitations, one way or another. However, as Logothetis stated; most of the problems in neuroscience arises not due to the techniques themselves, but because of the way that our brain is wired.
 </div>
 
