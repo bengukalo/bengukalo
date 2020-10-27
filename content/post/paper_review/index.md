@@ -156,6 +156,8 @@ One should keep in mind that all of the neuroimaging techniques has limitations,
 
 ## References
 
+<div style = "text-align: right">
+
 1.  Hölig, C., Föcker, J., Best, A., Röder, B. & Büchel, C. Crossmodal plasticity in the fusiform gyrus of late blind individuals during voice recognition. Neuroimage (2014) doi:10.1016/j.neuroimage.2014.09.050.
 2.  Hölig, C., Föcker, J., Best, A., Röder, B. & Büchel, C. Brain systems mediating voice identity processing in blind humans. Hum. Brain Mapp. (2014) doi:10.1002/hbm.22498.
 3.  Garavan, Hugh, and Kevin Murphy. "Experimental design." fMRI techniques and protocols. (2016). 137-153.
@@ -165,7 +167,7 @@ One should keep in mind that all of the neuroimaging techniques has limitations,
 7.  Fox, M. D., Halko, M. A., Eldaief, M. C. & Pascual-Leone, A. Measuring and manipulating brain connectivity with resting state functional connectivity magnetic resonance imaging (fcMRI) and transcranial magnetic stimulation (TMS). NeuroImage (2012) doi:10.1016/j.neuroimage.2012.03.035.
 1.	Föcker, J., Best, A., Hölig, C. & Röder, B. The superiority in voice processing of the blind arises from neural plasticity at sensory processing stages. Neuropsychologia (2012) doi:10.1016/j.neuropsychologia.2012.05.006.
   
-
+</div>
 
 
 &nbsp;
@@ -173,4 +175,8 @@ One should keep in mind that all of the neuroimaging techniques has limitations,
 
 ## Further Reading
 
+<div style = "text-align: right">
+
 Logothetis, N. K. What we can do and what we cannot do with fMRI. Nature (2008) doi:10.1038/nature06976.
+
+</div>
