@@ -102,6 +102,10 @@ TMS technique is usually referred as _virtual lesion_<sup>6</sup> since stimulat
 
 A good example of using TMS in crossmodal plasticity in case of visual deprivation was conducted by Cohen et al. (1997), assessing the role of visual cortex over the course of Braille reading in blind participants. Prior to this study, fMRI studies of congenitally and early blind individuals documented activation of primary visual cortex while performing Braille reading. However, this activation might have been associated with an epiphenomenon of tactile input processing as well as compensatory crossmodal plasticity. Therefore, Cohen et al. applied TMS to the occipital cortex (V1) of blind and sighted subjects while they are reading Braille with their index fingers. As a result, applying TMS to V1 found to be disruptive to the tactile perception and caused errors in reading in blind subjects but not in the sighted. 
 
+<div class = "forbidden">
+It should be noted that a large portion of fusiform gyrus lies outside of the range for TMS applications and this may lead to a false negative result. Therefore, TMS cannot be the definite solution for the causation problem in cases like this.
+</div>
+
 &nbsp;
 
 
@@ -110,6 +114,27 @@ A good example of using TMS in crossmodal plasticity in case of visual deprivati
 For many research questions, it is essential to measure the timing of the neuronal activity with high accuracy, in other words with hight *temporal resolution*. It can be argued that fMRI has an intermediate temporal resolution compare to other techniques such as PET. It can distinguish events that occur with a few seconds of intervals, and this can be improved to a certain extent (e.g. using an interleaved stimulus presentation). However, this technique still isn’t suitable for testing time-related hypotheses because the hemodynamic response is a lot slower than the neuronal activity. Therefore, researchers sometimes use a complementary technique with high temporal resolution which is called Event Related Potential, or ERP. 
 
 In this case, researchers can answer which areas of the brain are involved in voice recognition in blind, but exploring how sub-processes of voice recognition may contribute to the superiority of blind participants would require a better temporal resolution. Indeed, the same researchers conducted an ERP study to answer this question as well<sup>8</sup>. Using the exact same experimental design, they were able to compare how fast the participants are in processing and correctly classifying person-congruent and person-incongruent stimulus. As a result, they found that blind participants were significantly faster in processing person-incongruent stimuli as well as achieving a higher number of correct classification. Thus, they were able to conclude that blind individuals are more efficient in recognizing voices overall since they are faster and better at recognizing person-incongruent trials.
+
+
+<style>
+div.forbidden { background-color: #FDEDEC; padding: 1em;
+    margin: 1em 0;
+    padding-left: 100px;
+    background-size: 70px;
+    background-repeat: no-repeat;
+    background-position: 15px center;
+    min-height: 120px;
+    border: dashed 2px #CD6155;}
+div.forbidden {
+  background-image: url("forbidden.png");
+}
+
+</style>
+<div class = "forbidden">
+One should keep in mind that all of the neuroimaging techniques has limitations, one way or another. However, as Logothetis stated; most of the problems in neuroscience arises not due to the technique itself, but because of the way our brain is wired.
+</div>
+
+&nbsp;
 
 *****
 
