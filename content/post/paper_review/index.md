@@ -153,6 +153,11 @@ One should keep in mind that all of the neuroimaging techniques has limitations,
 
 &nbsp;
 
+</style>
+<div class = "puzzle">
+It should be noted that a large portion of fusiform gyrus lies outside of the range for TMS applications and this may lead to a false negative result. Therefore, TMS cannot be the definite solution for the causation problem in cases like this.
+</div>
+
 *****
 
 ## References
