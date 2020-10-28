@@ -150,8 +150,15 @@ body {
     }
 
     @media screen and (max-width: 768px) {
-        #about h1, h2, h3, h4 {
-    margin-top: 10px !important;
+        #about h1, h2, h3 {
+    margin-top: 20px !important;
+    margin-bottom: 10px !important;
+      }
+    }
+
+    @media screen and (max-width: 768px) {
+        #about .portrait-title h3 {
+    margin-top: 20px !important;
     margin-bottom: 10px !important;
       }
     }
