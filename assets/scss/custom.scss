@@ -273,7 +273,7 @@ h1 {
   /*------ fixes the mobile blog post margins */
 @media screen and (max-width: 768px) {
     .article-container {
-      max-width: 768px
+      max-width: 768px !important;
     }
   }
 
