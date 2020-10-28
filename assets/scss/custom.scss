@@ -148,6 +148,12 @@ body {
         padding-left: 15px !important;
       }
     }
+
+    @media screen and (max-width: 768px) {
+        #about h3 {
+        padding-right: 30px !important;
+      }
+    }
     
   
   /* HELLO image */
