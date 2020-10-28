@@ -254,3 +254,11 @@ body {
 h1 {
 	text-align: left;
 }
+
+@media screen and (max-width: 768px) {
+    .article-container {
+      background-position-x: 39%;
+      background-size: 200%;
+      padding: 330px 0 275px 0;
+    }
+  }
