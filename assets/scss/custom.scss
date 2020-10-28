@@ -138,18 +138,18 @@ body {
   }
   
   #about .col-12.col-lg-8 {
-    padding-left: 70px !important;
+    padding-left: 40px !important;
   }
   
   /* Evenly spaces bio text on mobile */
   
     @media screen and (max-width: 768px) {
         #about .col-12.col-lg-8 {
-        padding-left: 5px !important;
+        padding-left: 15px !important;
       }
     }
     
-
+  
   /* HELLO image */
   
   .parallax {
