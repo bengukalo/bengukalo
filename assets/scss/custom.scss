@@ -95,6 +95,10 @@ body {
     text-align: left;
   }
   
+  .article-style .section.level2 h1 {
+      text-align: left;
+  }
+
   /* Links within blog posts */
   
   .article-style .section a {
@@ -247,3 +251,6 @@ body {
     font-size: 17px;
   }
 
+h1 {
+	text-align: left;
+}
