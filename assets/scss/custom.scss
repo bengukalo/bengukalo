@@ -243,7 +243,7 @@ body {
   
 
  
-
+  /*------ configure width of the blog posts */
   .article-container {
     max-width: 850px;
     padding: 0 20px 0 20px;
@@ -255,6 +255,7 @@ h1 {
 	text-align: left;
 }
 
+  /*------ fixes the mobile blog post margins */
 @media screen {
     .article-container {
       max-width: 768px
