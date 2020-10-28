@@ -149,7 +149,8 @@ body {
       }
     }
   
-    @media screen { #about .portrait-title h3 {
+    @media screen { 
+        .home-section.wg-about {
         padding-left: 20px !important;
       }
 
