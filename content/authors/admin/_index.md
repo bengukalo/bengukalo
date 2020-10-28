@@ -36,6 +36,9 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://instagram.com/bengukalo
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4641-544X
 email: bengukalo@gmail.com
 highlight_name: false
 user_groups:
