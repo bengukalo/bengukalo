@@ -148,14 +148,13 @@ body {
         padding-left: 15px !important;
       }
     }
-  
-    @media screen and (max-width: 768px) { 
-       #about .portrait-title h3,  #about .portrait-title h2
-        padding-left: 20px !important;
+
+    @media screen and (max-width: 768px) {
+       #about .portrait-title h3 {
+        padding-left: 15px !important;
       }
-
     }
-
+    
   /* HELLO image */
   
   .parallax {
