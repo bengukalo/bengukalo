@@ -11,5 +11,5 @@ external_link: https://bit.ly/357Qaor
 
 image:
   caption: 
-  focal_point: Center
+  focal_point: Smart
 ---

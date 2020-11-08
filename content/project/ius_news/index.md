@@ -12,7 +12,7 @@ external_link: https://news.ius.edu.ba/news/ten-fass-students-participated-malte
 
 image:
   caption: 
-  focal_point: Center
+  focal_point: Smart
 ---
 
 
