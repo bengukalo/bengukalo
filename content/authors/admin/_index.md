@@ -48,4 +48,4 @@ user_groups:
 - Visitors
 
 ---
-Bengü Kalo is a Cognitive Neuropsychology MSc postgraduate from University of Edinburgh. She holds an undergraduate Psychology degree and a Clinical Psychology MA degree. Her research interests mainly include visual perception and cross-modal plasticity. 
+I am a Clinical & Neuropsychologist who is a supporter of science communication. If you are lucky, you may find a post or two.
