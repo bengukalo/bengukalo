@@ -62,17 +62,6 @@ date_format = "Jan 2006"
   * Involved in data collection and entry for various projects that are held in the university.
   * Taught undergraduate students how to use SPSS and analyze data."""
   
-  [[experience]]
-  title = "Student Volunteer"
-  company = "IUS Student’s Counseling Centre"
-  company_url = ""
-  location = "Sarajevo, BiH"
-  date_start = "2018-10-01"
-  date_end = "2019-06-01"
-  description = """
-  * Responsible from paperwork, informing patients about the procedure and creating appointments."""
-  
-  
 [[experience]]
   title = "Supervised as Neuropsychologist"
   company = "Istanbul University Medicine Faculty, Neurology Department"
