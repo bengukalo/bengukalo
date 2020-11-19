@@ -27,8 +27,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   """
-
-
 [[experience]]
   title = "Working Group Member"
   company = "Edinburgh ReproducibiliTea, University of Edinburgh"
@@ -46,7 +44,6 @@ date_format = "Jan 2006"
   date_start = "2020-09-01"
   date_end = "2021-09-01"
   description = """
-  
   """
 [[experience]]
   title = "Science Insights, Neuroscience Outreach Moderator"
@@ -66,7 +63,6 @@ date_format = "Jan 2006"
   date_end = "2019-06-30"
   description = """
 """
-  
 [[experience]]
   title = "Supervised as Neuropsychologist"
   company = "Istanbul University Medicine Faculty, Neurology Department"
