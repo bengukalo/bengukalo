@@ -27,6 +27,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   """
+  
 [[experience]]
   title = "Working Group Member"
   company = "Edinburgh ReproducibiliTea, University of Edinburgh"
@@ -36,6 +37,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   """
+  
 [[experience]]
   title = "Global Buddies Group Leader"
   company = "University of Edinburgh"
@@ -45,6 +47,7 @@ date_format = "Jan 2006"
   date_end = "2021-09-01"
   description = """
   """
+  
 [[experience]]
   title = "Science Insights, Neuroscience Outreach Moderator"
   company = "University of Edinburgh"
@@ -54,6 +57,7 @@ date_format = "Jan 2006"
   date_end = "2020-08-01"
   description = """
   """
+  
 [[experience]]
   title = "Research Assistant"
   company = "International University of Sarajevo"
@@ -63,6 +67,7 @@ date_format = "Jan 2006"
   date_end = "2019-06-30"
   description = """
 """
+
 [[experience]]
   title = "Supervised as Neuropsychologist"
   company = "Istanbul University Medicine Faculty, Neurology Department"
