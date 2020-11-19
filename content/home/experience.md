@@ -19,6 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Research Assistant"
+  company = "Middle East Technical University"
+  company_url = ""
+  location = "Ankara, Turkey"
+  date_start = "2020-11-01"
+  date_end = ""
+  description = """
+  """
+
+
+[[experience]]
   title = "Working Group Member"
   company = "Edinburgh ReproducibiliTea, University of Edinburgh"
   company_url = ""
@@ -26,7 +37,6 @@ date_format = "Jan 2006"
   date_start = "2020-09-01"
   date_end = ""
   description = """
-  Representing the needs of University of Edinburgh MSc students while discussing diverse issues, papers and ideas about improving science, reproducibility and the Open Science movement.
   """
 [[experience]]
   title = "Global Buddies Group Leader"
@@ -36,10 +46,7 @@ date_format = "Jan 2006"
   date_start = "2020-09-01"
   date_end = "2021-09-01"
   description = """
-  Responsibilities include:
   
-  * Supporting new international exchange students’ transition into a new academic and cultural environment. 
-  * Encouraging the students to get the most out of their exchange, help them find other social experiences and student services.
   """
 [[experience]]
   title = "Science Insights, Neuroscience Outreach Moderator"
@@ -49,7 +56,6 @@ date_format = "Jan 2006"
   date_start = "2020-08-01"
   date_end = "2020-08-01"
   description = """
-  Played a role in informing high school students about Multiple Sclerosis research and was the moderator of the group discussion.
   """
 [[experience]]
   title = "Research Assistant"
@@ -59,8 +65,7 @@ date_format = "Jan 2006"
   date_start = "2019-01-01"
   date_end = "2019-06-30"
   description = """
-  * Involved in data collection and entry for various projects that are held in the university.
-  * Taught undergraduate students how to use SPSS and analyze data."""
+"""
   
 [[experience]]
   title = "Supervised as Neuropsychologist"
@@ -70,6 +75,6 @@ date_format = "Jan 2006"
   date_start = "2018-05-01"
   date_end = "2018-06-01"
   description = """
-  * Applied neuropsychological test battery and wrote reports for the patients of neurology department; therefore, contributed to the diagnosing and monitoring process of the diseases."""
+"""
 
 +++
