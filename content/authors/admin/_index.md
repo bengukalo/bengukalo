@@ -48,4 +48,4 @@ user_groups:
 - Visitors
 
 ---
-I am a Clinical Psychologist & Neuropsychologist who is a supporter of science communication. I am hoping to be a visual neuroscientist one day.
+I am a Clinical Psychologist & Neuropsychologist who is a supporter of science communication. I am hoping to build a career as a visual neuroscientist.
