@@ -48,4 +48,4 @@ user_groups:
 - Visitors
 
 ---
-I am a Clinical & Neuropsychologist who is a supporter of science communication. If you are lucky, you may find a post or two.
+I am a Clinical Psychologist & Neuropsychologist who is a supporter of science communication. I am hoping to be a visual neuroscientist one day.
