@@ -18,7 +18,7 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "Specialist Techniques"
-  description = "Beginner in fMRI and EEG"
+  description = "<h4>Beginner in fMRI and EEG</h4>"
   
 [[feature]]
   icon = "r-project"
