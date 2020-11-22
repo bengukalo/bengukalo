@@ -48,4 +48,4 @@ user_groups:
 - Visitors
 
 ---
-   <p style="text-align:left;"> I am a Clinical Psychologist & Neuropsychologist who is a supporter of science communication. I am hoping to build a career as a visual neuroscientist. </p>
+   <p style="text-align:left;"> I am a neurodivergent Clinical Psychologist & Neuropsychologist. Cuurrently I work as a research assistant at Middle East Technical University. My research interest focuses on the sensory perceptions, vision in particular. I am hoping to explore visual cortex of visually impaired people in the future. </p>
