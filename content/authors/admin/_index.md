@@ -48,4 +48,4 @@ user_groups:
 - Visitors
 
 ---
-   <p style="text-align:left;"> I am a neurodivergent Clinical Psychologist & Neuropsychologist. Cuurrently I work as a research assistant at Middle East Technical University. My research interest focuses on the sensory perceptions, vision in particular. I am hoping to explore the visual cortex of visually impaired people in the future. </p>
+   <p style="text-align:left;"> I am a Clinical Psychologist & Neuropsychologist. Currently I work as a research assistant at Middle East Technical University. I am interested in exploring the ways we utilize our sensory system to perceive the world, vision in particular. I am hoping to explore the visual cortex of visually impaired people in the future. </p>
