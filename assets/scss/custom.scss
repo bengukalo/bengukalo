@@ -241,9 +241,14 @@ body {
 h1 {
 	text-align: left;
 }
-  #publications {
+  #publications h1, h2, h3 {
 	text-align: left;
 }
+
+#publications h4, h5, h6 {
+	text-align: justify;
+}
+
   #projects {
 	text-align: left;
 }
