@@ -241,9 +241,6 @@ body {
 h1 {
 	text-align: left;
 }
-  #publications h2 {
-  text-align: left !important;
-}
   #projects {
 	text-align: left;
 }
@@ -255,3 +252,6 @@ h1 {
 }
 
 .home-section.wg-publications h3, h4, h5 { text-align: justify !important;}
+.home-section.wg-publications h1, h2 {
+  text-align: left !important;
+}
