@@ -8,6 +8,6 @@ Montserrat:ital,wght@0,500;1,500|Cinzel:wght@400;500|Raleway|Playfair+Display"
 
 # Font families
 heading_font = "Montserrat"
-body_font = "Playfair"
+body_font = "Playfair Display"
 nav_font = "Montserrat"
 mono_font = "Roboto Mono"
