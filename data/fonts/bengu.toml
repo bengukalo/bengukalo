@@ -2,9 +2,7 @@
 name = "bengu"
 
 # Optional Google font URL
-google_fonts = "Lora:400,400i|Karla:400,400i,700,700i|Roboto+Mono|
-Source+Sans+Pro:wght@300|Open+Sans:ital,wght@0,300;0,700;1,300;1,700|
-Montserrat:ital,wght@0,500;1,500|Cinzel:wght@400;500|Raleway|Playfair+Display"
+google_fonts = "Lora:400,400i|Karla:400,400i,700,700i|Roboto+Mono|Source+Sans+Pro:wght@300|Open+Sans:ital,wght@0,300;0,700;1,300;1,700|Montserrat:ital,wght@0,500;1,500|Cinzel:wght@400;500|Raleway|Playfair+Display"
 
 # Font families
 heading_font = "Montserrat"
