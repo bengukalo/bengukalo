@@ -1,7 +1,5 @@
 ---
 title: Bengü Kalo
-output:
-  postcards::jolla
 authors:
 - admin
 superuser: true
