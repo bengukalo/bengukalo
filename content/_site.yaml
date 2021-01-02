@@ -1,4 +1,3 @@
----
 name: "cars"
 output_dir: "docs"
 navbar:
@@ -33,4 +32,3 @@ output:
     toc_float: true
     theme: cosmo
     number_sections: false
----
