@@ -1,5 +1,8 @@
 ---
 title: Bengü Kalo
+site: distill::distill_website
+output:
+  postcards::jolla
 authors:
 - admin
 superuser: true
@@ -40,9 +43,6 @@ social:
   icon_pack: fab
   link: https://instagram.com/bengukalo
 
-site: distill::distill_website
-output:
-  postcards::jolla
 
 email: bengukalo@gmail.com
 highlight_name: false
