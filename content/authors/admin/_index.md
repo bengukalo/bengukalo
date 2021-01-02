@@ -1,6 +1,5 @@
 ---
 title: Bengü Kalo
-site: distill::distill_website
 output:
   postcards::jolla
 authors:
