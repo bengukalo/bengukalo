@@ -40,12 +40,16 @@ social:
   icon_pack: fab
   link: https://instagram.com/bengukalo
 
+site: distill::distill_website
+output:
+  postcards::jolla
 
 email: bengukalo@gmail.com
 highlight_name: false
 user_groups:
 - Researchers
 - Visitors
+
 
 ---
    <p style="text-align:left;"> I am a Clinical Psychologist & Neuropsychologist. Currently I work as a research assistant at Middle East Technical University. I am interested in exploring the ways we utilize our sensory system to perceive the world, vision in particular. I am hoping to explore the visual cortex of visually impaired people in the future. </p>
