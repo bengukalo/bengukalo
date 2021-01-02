@@ -16,6 +16,8 @@ url_project = ""
 url_slides = ""
 url_video = ""
 
+label = Poster
+
 [[url_custom]]
 name = ""
 url = ""
