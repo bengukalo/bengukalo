@@ -49,5 +49,5 @@ user_groups:
 
 
 ---
-   <p style="text-align:left;"> Bengü Kalo is a Cognitive Neuropsychology MSc Alumna of the University of Edinburgh. She also has an MA in Clinical Psychology and a BA in Psychology. Currently, she is working as a research assistant at <a href="https://twitter.com/metusense" target="_blank">Middle East Technical University, Sensory Processes Lab</a>. Her research interest includes exploring the ways we utilize our sensory system to perceive the world; vision in particular.
+   <p style="text-align: justify;"> Bengü Kalo is a Cognitive Neuropsychology MSc Alumna of the University of Edinburgh. She also has an MA in Clinical Psychology and a BA in Psychology. Currently, she is working as a research assistant at <a href="https://twitter.com/metusense" target="_blank">Middle East Technical University, Sensory Processes Lab</a>. Her research interest includes exploring the ways we utilize our sensory system to perceive the world; vision in particular.
    When she is not working on a project, she is occupied with exploring interesting R functions. </p>
