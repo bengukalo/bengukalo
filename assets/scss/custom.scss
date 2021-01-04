@@ -11,7 +11,7 @@ body {
   
   /* Make mobile navbar skinnier */
   
-    @media screen and (max-width: 768px) {
+    @media screen and (max-width: 100% height auto) {
       body {
         margin-top: 75px !important;
       }
