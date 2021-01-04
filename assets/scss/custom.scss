@@ -63,13 +63,12 @@ body {
     width: 0%;
     content: '.'; /* make invisible, dot beneath links */
     color: transparent;
-    background: #999999;
+    background: #E28413;
     height: 2px;
   }
   
   a.nav-link:hover:after {
     width: 70%;
-    color: #E28413;
   }
   
   /*----------------------------------*/
