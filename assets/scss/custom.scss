@@ -264,8 +264,8 @@ h1 {
 }
 
 
-body.level1,
-body.level2,
-body.level3 {
+body h1,
+body h2,
+body h3 {
   text-align: left;
 }
