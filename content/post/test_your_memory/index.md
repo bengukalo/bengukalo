@@ -24,7 +24,7 @@ projects: []
 ---
 &nbsp;
 
-
+ <div align="justify"> 
 Deciding on a learning strategy without help can be a complex procedure. Efficient learning is only viable if the learner has the skills to initiate the learning autonomusly, and afterwards manage its processing and storage. These are known as learning strategies in the education field. An efficient learning strategy is the single most important possession in our academic life. But how do we decide which strategy is better to use? Not surprisingly, there is a growing body of research on this question.
 
 
@@ -122,3 +122,5 @@ div.blue {
 <div class = "blue">
 Dr. Shanks concludes his talk by stating that testing memory and making mistakes in the process are one of the best learning strategies for students. Tests help students to monitor their learning and assess their current understanding while errors make the correct information more memorable by raising the level of attention.
 </div>
+
+ </div> 
