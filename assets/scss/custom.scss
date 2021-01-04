@@ -261,7 +261,7 @@ body {
 
 p:first-child img{
   height: auto;
-  width: 1500px !important; 
+  max-width: none !important; 
   margin:0 auto; 
   padding: 0;
   display: block;
