@@ -5,7 +5,7 @@ name = "custom"
 light = true
 
 # Primary
-primary ="#12263A"
+primary ="#E28413"
 primary_light = "#ee5863"
 primary_dark = "#ee5863"
 
