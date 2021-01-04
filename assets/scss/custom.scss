@@ -260,8 +260,8 @@ body {
 }
 
 p:first-child img{
-  height: 100% ;
-  max-width: 100% height auto !important; 
+  height: auto;
+  width: 100%; 
   margin:0 auto; 
   padding: 0;
   display: block;
