@@ -260,7 +260,7 @@ body {
 }
 
 p:first-child img{
-  height: auto;
+  max-height: none;
   max-width: none !important; 
   margin:0 auto; 
   padding: 0;
