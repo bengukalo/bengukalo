@@ -263,6 +263,8 @@ h1 {
   text-align: justify;
 }
 
-h1 h2 h3 h4 {
+.section.level1 h1,
+.section.level2 h2,
+.section.level3 h3 {
   text-align: left;
 }
