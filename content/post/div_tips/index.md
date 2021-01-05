@@ -61,7 +61,7 @@ Now we will add our custom div tips to the custom.scss file. Go ahead and paste 
 
 ```r
 
-/* Div Tips*/
+/* Div Tips */
 
 div.yellow { 
   background-color: #FEF5E7; padding: 1em;
@@ -75,3 +75,7 @@ div.yellow {
   }
 
 ```
+I named this box as <mark>yellow</mark> (see the part after 'div.') so that I can easily remember and find the yellow box CSS when I need to. You can change the name however you like. Accordingly, you may create as many different div tips as you like by changing the properties above. Make sure that you give each one a unique name as we will be using those later on.
+
+
+![](example.jpg)
