@@ -92,6 +92,8 @@ Especially four lines in our CSS will come in handy while customising our boxes.
 - <mark>color:</mark> This spesifically refers to the color of your text. 
 - <mark>background-color:</mark> You can use any color of your liking, both HTML and RGB color codes work.
 
+&nbsp;
+
 
 ## The Background Image
 
