@@ -27,7 +27,7 @@ projects: []
 &nbsp;
 
 
-A few months ago, I started to learn how to create a blog using R Markdown from scracth. Initially, I knew very little about Markdown, and I had absolutely no idea about HTML or CSS. Right after launching my own blog, I came across with the [**bookdown website of Mine Çetinkaya-Rundel**](https://datasciencebox.org/hello-world.html) and saw some really cute colorful boxes there. It seemed like a great way to highlight important information, so I started searching for the code of these colorful boxes.
+A few months ago, I started to learn how to create a blog using R Markdown from scracth. Initially, I knew very little about Markdown, and I had absolutely no idea about HTML or CSS. Right after launching my own blog, I came across with the [**bookdown website of Yihui**](https://bookdown.org/yihui/blogdown/output-format.html) and saw some really cute colorful boxes there. It seemed like a great way to highlight important information, so I started searching for the code of these colorful boxes.
 
 
 
@@ -42,3 +42,12 @@ An example note box.
 </div>
 
 Then, I found the [**website of Desirée de Leon**](https://desiree.rbind.io/post/2019/making-tip-boxes-with-bookdown-and-rmarkdown/). I recommend that you check it out on her website as well. She mentions that these div tips don't work on blogdown <mark> .md </mark> posts; but I'm quite stubborn and I really liked these so I struggled for a few days trying to make it work.
+
+&nbsp;
+
+
+## Steps for Creating the Custom Boxes
+
+Most of the steps will be the same with Desirée's but we'll take some additional steps while using the colorful boxes in our blog posts to make it compatible with <mark> .md </mark> extensions.
+
+First of all, you will need to create a CSS file if you do not already have it. If you are using blogdown with Hugo Academic theme, you need to follow the steps [**over here**](https://wowchemy.com/docs/customization/). All you need to do is to create an <mark>assets/scss/</mark> file in your root directory
