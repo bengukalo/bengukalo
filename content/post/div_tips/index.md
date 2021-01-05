@@ -48,7 +48,7 @@ Then, I found the [**website of Desirée de Leon**](https://desiree.rbind.io/pos
 
 ## Steps for Creating the Custom Boxes
 
-Most of the steps will be the same with Desirée's but we'll take some additional steps while using the colorful boxes in our blog posts to make it compatible with <mark> .md </mark> extensions.
+Most of the steps will be the same with Dr. Desirée's but we'll take some additional steps while using the colorful boxes in our blog posts to make it compatible with <mark> .md </mark> extensions.
 
 First of all, you will need to create a CSS file if you do not already have it. If you are using blogdown with Hugo Academic theme, you need to follow the steps [**over here**](https://wowchemy.com/docs/customization/). All you need to do is;
  
