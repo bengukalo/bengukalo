@@ -103,6 +103,6 @@ This is where our paths are seperated with Dr. Desirée. If you, for whatever re
 
 ```r
 div.yellow {
-  background-image: url("your_icon.png");
+  background-image: url("your_icon_name.png");
 }
 ```
