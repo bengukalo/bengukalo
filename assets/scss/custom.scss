@@ -260,15 +260,51 @@ body {
   text-align: justify;
 }
 
-div.puzzle, div.fyi, div.demo, div.note {
-  padding: 1em;
-  margin: 1em 0;
-  padding-left: 100px;
-  background-size: 70px;
-  background-repeat: no-repeat;
-  background-position: 15px center;
-  min-height: 120px;
-  color: #1f5386;
-  background-color: #bed3ec;
-  border: solid 5px #dfedff;
-}
+/* Custom Div Boxes */
+
+div.block { background-color:#FEF5E7; padding: 1em;
+    margin: 1em 0;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-size: 70px;
+    background-repeat: no-repeat;
+    background-position: 15px center;
+    min-height: 120px;
+    border-left: 0.5em solid #FAD7A0 ;}
+
+ div.forbidden { background-color: #FDEDEC; padding: 1em;
+      margin: 1em 0;
+      padding-left: 100px;
+      background-size: 70px;
+      background-repeat: no-repeat;
+      background-position: 15px center;
+      min-height: 120px;
+      border: solid 2px #CD6155;}
+      div.forbidden{
+        background-image: url("forbidden.png");
+      }
+
+div.warn { background-color: #FDF2E9; padding: 1em;
+        margin: 1em 0;
+        padding-left: 100px;
+        background-size: 70px;
+        background-repeat: no-repeat;
+        background-position: 15px center;
+        min-height: 120px;
+        border: solid 2px #F0B27A;}
+        div.warn {
+          background-image: url("warn.png");
+        }
+
+div.idea { background-color:#e6f0ff; padding: 1em;
+          margin: 1em 0;
+          padding-left: 100px;
+          background-size: 70px;
+          background-repeat: no-repeat;
+          background-position: 15px center;
+          min-height: 120px;
+          border: dashed 4px #afc6e3;}
+          div.idea {
+            background-image: url("lightbulb.png");
+          }
+
