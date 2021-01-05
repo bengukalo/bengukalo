@@ -75,7 +75,16 @@ div.yellow {
   }
 
 ```
-I named this box as <mark>yellow</mark> (see the part after 'div.') so that I can easily remember and find the yellow box CSS when I need to. You can change the name however you like. Accordingly, you may create as many different div tips as you like by changing the properties above. Make sure that you give each one a unique name as we will be using those later on.
+I named this box as <mark>yellow</mark> (see the word after 'div.') so that I can easily remember and find the yellow box CSS when I need to. You can change the name however you like. Accordingly, you may create as many different div tips as you like by changing the properties above. Make sure that you give each one a unique name as we will be using those later on.
+
+## How to Customise the Boxes
 
 
 ![](example.jpg)
+
+Four lines in our CSS will come in handy while customising our boxes. These are;
+
+- <mark>background-image:</mark> which we will be learning how to use in a minute.
+- <mark>border:</mark> you can set this property to dotted, dashed, solid and so on. Check your options [**here**](https://www.w3schools.com/css/css_border.asp). You can also set the thickness (2px) and color of it (#FAD7A0).
+- <mark>color:</mark> This refers to the color of your text. 
+- <mark>background-color:</mark> You can use any color of your liking, with html or rgb color codes.
