@@ -40,3 +40,5 @@ div.yellow {
 <div class = "yellow">
 An example note box.
 </div>
+
+Then, I found the [**website of Desirée de Leon**](https://desiree.rbind.io/post/2019/making-tip-boxes-with-bookdown-and-rmarkdown/). I recommend that you check it out on her website as well. She mentions that these div tips don't work on blogdown <mark> .md </mark>
