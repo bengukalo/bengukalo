@@ -106,11 +106,7 @@ Other studies demonstrated that when students are very confident on their wrong 
 
 ## Take Home Message
 
-<style>
-div.blue {
-  background-image: url("lightbulb.png");
-}
-</style>
+
 
 
 <div class = "blue">
