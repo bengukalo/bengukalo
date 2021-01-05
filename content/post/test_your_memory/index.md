@@ -108,7 +108,10 @@ Other studies demonstrated that when students are very confident on their wrong 
 
 <style>
 div.blue {
-  background-image: url("content/post/test_your_memory/lightbulb.png");
+  background-image: url("lightbulb.png");
+}
+div.blue {
+  background-image: url("lightbulb.png");
 }
 </style>
 
