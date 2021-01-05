@@ -74,19 +74,8 @@ On the other hand, blocked-design is considered as superior to event-related des
 ## What We Can Do and What We Cannot Do with fMRI
 
 
-<style>
-div.block { background-color:#FEF5E7; padding: 1em;
-    margin: 1em 0;
-    padding-left: 50px;
-    padding-right: 50px;
-    background-size: 70px;
-    background-repeat: no-repeat;
-    background-position: 15px center;
-    min-height: 120px;
-    border-left: 0.5em solid #FAD7A0 ;}
-</style>
 
-<div class = "block">
+<div class = "yellow">
 The limitations of fMRI are not related to physics or poor engineering, and are unlikely to be resolved by increasing the sophistication and power of the scanners; they are instead due to the circuitry and functional organization of the brain, as well as to inappropriate experimental protocols that ignore this organization. 
 
 <div align="right"> Logothetis, Nature, 2008 </div>
@@ -105,22 +94,12 @@ TMS technique is usually referred as _virtual lesion_<sup>6</sup> since stimulat
 A good example of using TMS in crossmodal plasticity in case of visual deprivation was conducted by Cohen et al. (1997), assessing the role of visual cortex over the course of Braille reading in blind participants. Prior to this study, fMRI studies of congenitally and early blind individuals documented activation of primary visual cortex while performing Braille reading. However, this activation might have been associated with an epiphenomenon of tactile input processing as well as compensatory crossmodal plasticity. Therefore, Cohen et al. applied TMS to the occipital cortex (V1) of blind and sighted subjects while they are reading Braille with their index fingers. As a result, applying TMS to V1 found to be disruptive to the tactile perception and caused errors in reading in blind subjects but not in the sighted. 
 
 <style>
-div.forbidden { background-color: #FDEDEC; padding: 1em;
-    margin: 1em 0;
-    padding-left: 100px;
-    background-size: 70px;
-    background-repeat: no-repeat;
-    background-position: 15px center;
-    min-height: 120px;
-    border: solid 2px #CD6155;}
-div.forbidden {
-  background-image: url("forbidden.png");
-}
-div.forbidden{
+div.red {
   background-image: url("forbidden.png");
 }
 </style>
-<div class = "forbidden">
+
+<div class = "red">
 It should be noted that a large portion of fusiform gyrus lies outside of the range for TMS applications and this may lead to a false negative result. Therefore, TMS cannot be the definite solution for the causation problem in cases like this.
 </div>
 
@@ -135,20 +114,12 @@ In this case, researchers can answer which areas of the brain are involved in vo
 
 
 <style>
-div.warn { background-color: #FDF2E9; padding: 1em;
-    margin: 1em 0;
-    padding-left: 100px;
-    background-size: 70px;
-    background-repeat: no-repeat;
-    background-position: 15px center;
-    min-height: 120px;
-    border: solid 2px #F0B27A;}
-div.warn {
+div.orange {
   background-image: url("warn.png");
 }
-
 </style>
-<div class = "warn">
+
+<div class = "orange">
 One should keep in mind that all of the neuroimaging techniques has limitations, one way or another. However, as Logothetis stated; most of the problems in neuroscience arises not due to the techniques themselves, but because of the way that our brain is wired.
 </div>
 
