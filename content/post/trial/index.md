@@ -24,6 +24,6 @@ projects: []
 ---
 
 
-:::puzzle
+<div class = "puzzle">
 My content goes in here!
-:::
+</div>
