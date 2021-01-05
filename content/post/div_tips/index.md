@@ -1,6 +1,6 @@
 ---
 
-title: How to Make Cute Note Boxes for MD Files?
+title: How to Make Custom Note Boxes for MD Files?
 subtitle: Using the custom div tip method for the files with .md extention.
 date: 2021-01-05
 slug: how-to-make-note-boxes
