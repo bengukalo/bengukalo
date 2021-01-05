@@ -104,12 +104,14 @@ This is where our paths are seperated with Dr. Desirée. If you, for whatever re
 3. Open up your .md file and paste the CSS below.
 
 ```r
+<style>
 div.yellow {
   background-image: url("your_icon_name.png");
 }
+</style>
 ```
 
-Now we can use our cute custom div tips by typing this;
+Now we can use our cute custom div tips by typing this on our post;
 
 ```r
 <div class = "yellow">
