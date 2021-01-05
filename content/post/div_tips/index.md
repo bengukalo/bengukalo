@@ -31,11 +31,6 @@ A few months ago, I started to learn how to create a blog using R Markdown from 
 
 
 
-<style>
-div.yellow {
-    background-image: url("note.png");
-}
-</style>
 
 <div class = "yellow">
 An example note box.
@@ -97,11 +92,11 @@ Especially four lines in our CSS will come in handy while customising our boxes.
 
 ## The Background Image
 
-This is where our paths are seperated with Dr. Desirée. If you, for whatever reason, couldn't add your icon in the box, try these steps instead;
+This is where our paths are seperated with Dr. Desirée. If you, for whatever reason, fail to add your icon in the box, try these steps instead;
 
 - Choose an [**icon**](https://www.flaticon.com) of your liking and save it as .png or .jpg (make sure that it has a transparent background).
 - Add this image in the same file as your .md blog post.
-- Open up your blog post and paste this CSS
+- Open up your .md file and paste this CSS.
 
 ```r
 div.yellow {
