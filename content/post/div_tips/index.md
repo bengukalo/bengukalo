@@ -91,3 +91,18 @@ Especially four lines in our CSS will come in handy while customising our boxes.
 - <mark>border:</mark> you can set this property to dotted, dashed, solid and so on. Check your other options [**here**](https://www.w3schools.com/css/css_border.asp). You can also change the thickness (2px) and color with this one (#FAD7A0).
 - <mark>color:</mark> This spesifically refers to the color of your text. 
 - <mark>background-color:</mark> You can use any color of your liking, both HTML and RGB color codes work.
+
+
+## The Background Image
+
+This is where our paths are seperated with Dr. Desirée. If you, for whatever reason, couldn't add your icon in the box, try these steps instead;
+
+- Choose an [**icon**](https://www.flaticon.com) of your liking and save it as png or jpg format (make sure that it has a transparent background).
+- Add this image in the same file as your .md blog post.
+- Open up your blog post and paste this CSS
+
+```r
+div.yellow {
+  background-image: url("your_icon.png");
+}
+```
