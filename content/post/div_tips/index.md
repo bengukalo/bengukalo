@@ -77,6 +77,9 @@ div.yellow {
 ```
 I named this box as <mark>yellow</mark> (see the word after 'div.') so that I can easily remember and find the yellow box CSS when I need to. You can change the name however you like. Accordingly, you may create as many different div tips as you like by changing the properties above. Make sure that you give each one a unique name as we will be using those later on.
 
+&nbsp;
+
+
 ## How to Customise the Boxes
 
 
