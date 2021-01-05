@@ -50,4 +50,28 @@ Then, I found the [**website of Desirée de Leon**](https://desiree.rbind.io/pos
 
 Most of the steps will be the same with Desirée's but we'll take some additional steps while using the colorful boxes in our blog posts to make it compatible with <mark> .md </mark> extensions.
 
-First of all, you will need to create a CSS file if you do not already have it. If you are using blogdown with Hugo Academic theme, you need to follow the steps [**over here**](https://wowchemy.com/docs/customization/). All you need to do is to create an <mark>assets/scss/</mark> file in your root directory
+First of all, you will need to create a CSS file if you do not already have it. If you are using blogdown with Hugo Academic theme, you need to follow the steps [**over here**](https://wowchemy.com/docs/customization/). All you need to do is;
+ 
+ - Create an <mark>assets/scss/</mark> file in your root directory. 
+ - Create a <mark>custom.scss</mark> file on your scss folder.
+ 
+So far so good.
+
+Now we will add our custom div tips to the custom.scss file. Go ahead and paste the CSS below into your file.
+
+```r
+
+/* Div Tips*/
+
+div.yellow { 
+  background-color: #FEF5E7; padding: 1em;
+  margin: 1em 0;
+  padding-left: 100px;
+  background-size: 70px;
+  background-repeat: no-repeat;
+  background-position: 15px center;
+  min-height: 120px;
+  border: solid 2px #FAD7A0;
+  }
+
+```
