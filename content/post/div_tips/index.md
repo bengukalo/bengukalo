@@ -112,9 +112,7 @@ div.yellow {
 Now we can use our cute custom div tips by typing this;
 
 ```r
-
 <div class = "yellow">
 An example note box.
 </div>
-
 ```
