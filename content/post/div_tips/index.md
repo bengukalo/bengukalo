@@ -118,3 +118,5 @@ Now we can use our cute custom div tips by typing this on our post;
 An example note box.
 </div>
 ```
+
+Note that we will need to paste the last two code chunks into each of our blog post. This isn't the most efficient way to use the pretty boxes, however, it gives us the freedom of changing the icons any time we want without affecting the other blog posts.
