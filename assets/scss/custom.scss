@@ -279,13 +279,9 @@ div.red { background-color: #FDEDEC; padding: 1em;
       background-repeat: no-repeat;
       background-position: 15px center;
       min-height: 120px;
-      border: solid 2px #CD6155;}
-      div.forbidden{
-        background-image: url("forbidden.png");
-      }
-div.red {
-  background-image: url("forbidden.png");
-}
+      border: solid 2px #CD6155;
+      background-image: url("forbidden.png");}
+
 
 div.orange { background-color: #FDF2E9; padding: 1em;
         margin: 1em 0;
@@ -295,9 +291,7 @@ div.orange { background-color: #FDF2E9; padding: 1em;
         background-position: 15px center;
         min-height: 120px;
         border: solid 2px #F0B27A;}
-        div.warn {
-          background-image: url("warn.png");
-        }
+ 
 
 div.blue { background-color:#e6f0ff; padding: 1em;
           margin: 1em 0;
