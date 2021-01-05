@@ -31,6 +31,11 @@ A few months ago, I started to learn how to create a blog using R Markdown from 
 
 
 
+<style>
+div.yellow {
+    background-image: url("note.png");
+}
+</style>
 
 <div class = "yellow">
 An example note box.
