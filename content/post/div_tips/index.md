@@ -61,7 +61,7 @@ Now we will add our custom div tips to the custom.scss file. Go ahead and paste 
 
 ```r
 
-/* Div Tips */
+/* Div Tip */
 
 div.yellow { 
   background-color: #FEF5E7; padding: 1em;
