@@ -12,7 +12,7 @@ tags:
 - CSS
 authors: [admin]
 lastmod: ''
-featured: '/post/div_tips/featured.png'
+featured: 'https://www.mediaclick.com.tr/uploads/2019/10/css-nedir.jpg'
 output:
   blogdown::html_page:
     dev: svg
