@@ -95,7 +95,8 @@ A good example of using TMS in crossmodal plasticity in case of visual deprivati
 
 <style>
   div.red{
-background-image: url("forbidden.png");}
+background-image: url("forbidden.png");
+}
 </style>
 
 <div class = "red">
