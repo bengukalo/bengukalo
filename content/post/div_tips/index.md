@@ -101,10 +101,20 @@ This is where our paths are seperated with Dr. Desirée. If you, for whatever re
 
 1. Choose an [**icon**](https://www.flaticon.com) of your liking and save it as .png or .jpg (make sure that it has a transparent background).
 2. Add this image in the same file as your .md blog post.
-3. Open up your .md file and paste this CSS.
+3. Open up your .md file and paste the CSS below.
 
 ```r
 div.yellow {
   background-image: url("your_icon_name.png");
 }
+```
+
+Now we can use our cute custom div tips by typing this;
+
+```r
+
+<div class = "yellow">
+An example note box.
+</div>
+
 ```
