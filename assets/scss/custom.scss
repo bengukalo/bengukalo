@@ -262,7 +262,7 @@ body {
 
 /* Custom Div Boxes */
 
-div.block { background-color:#FEF5E7; padding: 1em;
+div.yellow { background-color:#FEF5E7; padding: 1em;
     margin: 1em 0;
     padding-left: 50px;
     padding-right: 50px;
@@ -272,7 +272,7 @@ div.block { background-color:#FEF5E7; padding: 1em;
     min-height: 120px;
     border-left: 0.5em solid #FAD7A0 ;}
 
-div.forbidden { background-color: #FDEDEC; padding: 1em;
+div.red { background-color: #FDEDEC; padding: 1em;
       margin: 1em 0;
       padding-left: 100px;
       background-size: 70px;
@@ -284,7 +284,7 @@ div.forbidden { background-color: #FDEDEC; padding: 1em;
         background-image: url("forbidden.png");
       }
 
-div.warn { background-color: #FDF2E9; padding: 1em;
+div.orange { background-color: #FDF2E9; padding: 1em;
         margin: 1em 0;
         padding-left: 100px;
         background-size: 70px;
