@@ -119,4 +119,4 @@ An example note box.
 </div>
 ```
 
-Note that we will need to paste the last two code chunks into each of our blog post. This may not be the most efficient way to use the pretty boxes. However, it gives us the freedom of changing the icons at any given time without affecting the other blog posts.
+Note that we will need to paste the last two code chunks into each of our blog post. This may not be the most efficient way to use the pretty boxes. However, it gives us the freedom of changing the icons at any given time without affecting the boxes in other blog posts.
