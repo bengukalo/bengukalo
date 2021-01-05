@@ -85,9 +85,9 @@ I named this box as <mark>yellow</mark> (see the word after 'div.') so that I ca
 
 ![](example.jpg)
 
-Four lines in our CSS will come in handy while customising our boxes. These are;
+Especially four lines in our CSS will come in handy while customising our boxes. These are;
 
 - <mark>background-image:</mark> which we will be learning how to use in a minute.
 - <mark>border:</mark> you can set this property to dotted, dashed, solid and so on. Check your other options [**here**](https://www.w3schools.com/css/css_border.asp). You can also change the thickness (2px) and color with this one (#FAD7A0).
-- <mark>color:</mark> This refers to the color of your text. 
+- <mark>color:</mark> This spesifically refers to the color of your text. 
 - <mark>background-color:</mark> You can use any color of your liking, both HTML and RGB color codes work.
