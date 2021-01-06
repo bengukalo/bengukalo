@@ -97,7 +97,7 @@ Especially four lines in our CSS will come in handy while customising our boxes.
 
 ## The Background Image
 
-This is where our paths are seperated with Dr. Desirée. If you, for whatever reason, fail to add your icon in the box, try these steps instead;
+This is where our paths are seperated with Dr. Desirée. If you fail to add your icon in the box and use your div tips as instructed on her blog, try these steps instead;
 
 1. Choose an [**icon**](https://www.flaticon.com) of your liking and save it as .png or .jpg (make sure that it has a transparent background).
 2. Add this image in the same file as your .md blog post.
