@@ -90,7 +90,7 @@ Especially four lines in our CSS will come in handy while customising our boxes.
 - <mark>background-image:</mark> which we will be learning how to use in a minute.
 - <mark>border:</mark> you can set this property to dotted, dashed, solid and so on. Check your other options [**here**](https://www.w3schools.com/css/css_border.asp). You can also change the thickness (2px) and colour with this line (#FAD7A0).
 - <mark>color:</mark> This spesifically refers to the colour of your text. 
-- <mark>background-color:</mark> You can use any colour of your liking for the background, both HTML and RGB colour codes work.
+- <mark>background-color:</mark> You can use any colour of your liking for the background, both HTML and RGB colour codes would work.
 
 &nbsp;
 
