@@ -48,7 +48,7 @@ div.blue {
 </style>
 
 <div class = "blue">
-You can use these boxes to customise yor blog, and draw attention to important parts of your posts!
+You can use these boxes to customise yor blog and draw attention to important parts of your posts!
 </div>
 
 
