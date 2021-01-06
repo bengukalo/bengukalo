@@ -27,7 +27,7 @@ projects: []
 &nbsp;
 
 
-A few months ago, I started to learn how to create a blog using R Markdown from scracth. Initially, I knew very little about Markdown, and I had absolutely no idea about CSS. Right after launching my own blog, I came across with the [**bookdown website of Yihui**](https://bookdown.org/yihui/blogdown/output-format.html) and saw some really cute colorful boxes there. It seemed like a great way to highlight important information, so I started searching for the code of these colorful boxes.
+A few months ago, I started to learn how to create a blog using R Markdown from scracth. Initially, I knew very little about Markdown, and I had absolutely no idea about CSS. Right after launching my own blog, I came across with the [**bookdown website of Yihui**](https://bookdown.org/yihui/blogdown/output-format.html) and saw some really cute colourful boxes there. It seemed like a great way to highlight important information, so I started searching for the code of these colourful boxes.
 
 
 
@@ -48,7 +48,7 @@ Then, I found the [**website of Desirée de Leon**](https://desiree.rbind.io/pos
 
 ## Steps for Creating the Custom Boxes
 
-Most of the steps will be the same with Dr. Desirée's but we'll take some additional steps while using the colorful boxes in our blog posts to make it compatible with <mark> .md </mark> extensions.
+Most of the steps will be the same with Dr. Desirée's but we'll take some additional steps while using the colourful boxes in our blog posts to make it compatible with <mark> .md </mark> extensions.
 
 First of all, you will need to create a CSS file if you do not already have it. If you are using blogdown with Hugo Academic theme, you need to follow the steps [**over here**](https://wowchemy.com/docs/customization/). Basically, all you need to do is;
  
@@ -75,7 +75,7 @@ div.yellow {
   }
 
 ```
-I named this box as <mark>yellow</mark> (see the word after 'div.') so that I can easily remember and find the yellow box CSS when I need to. You can change the name however you like. Accordingly, you may create as many different div tips as you like by changing the properties above. Make sure that you give each one a unique name as we will be using those later on.
+I named this box as <mark>yellow</mark> (see the word after 'div.') so that I can easily remember and find the yellow box when I need to. You can change the name however you like. Accordingly, you may create as many different div tips as you like by changing the properties above. Make sure that you give each one a unique name as we will be using those later on.
 
 &nbsp;
 
@@ -88,9 +88,9 @@ I named this box as <mark>yellow</mark> (see the word after 'div.') so that I ca
 Especially four lines in our CSS will come in handy while customising our boxes. These are;
 
 - <mark>background-image:</mark> which we will be learning how to use in a minute.
-- <mark>border:</mark> you can set this property to dotted, dashed, solid and so on. Check your other options [**here**](https://www.w3schools.com/css/css_border.asp). You can also change the thickness (2px) and color with this one (#FAD7A0).
-- <mark>color:</mark> This spesifically refers to the color of your text. 
-- <mark>background-color:</mark> You can use any color of your liking, both HTML and RGB color codes work.
+- <mark>border:</mark> you can set this property to dotted, dashed, solid and so on. Check your other options [**here**](https://www.w3schools.com/css/css_border.asp). You can also change the thickness (2px) and colour with this one (#FAD7A0).
+- <mark>color:</mark> This spesifically refers to the colour of your text. 
+- <mark>background-color:</mark> You can use any colour of your liking, both HTML and RGB colour codes work.
 
 &nbsp;
 
