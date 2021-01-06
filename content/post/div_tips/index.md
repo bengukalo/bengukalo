@@ -101,7 +101,7 @@ This is where our paths are seperated with Dr. Desirée. If you fail to add your
 
 1. Choose an [**icon**](https://www.flaticon.com) of your liking and save it as .png or .jpg (flaticon has many great options but if you want to use another website for this, just make sure that the icon has a transparent background).
 2. Add this image in the same file as your .md blog post.
-3. Open up your .md file and paste the inline style below.
+3. Open up your <mark>.md</mark> file and paste the inline style below.
 
 ```r
 <style>
