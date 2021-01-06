@@ -52,7 +52,7 @@ You can use these boxes to customise your blog and draw attention to important p
 </div>
 
 
-Then, I found the [**website of Desirée de Leon**](https://desiree.rbind.io/post/2019/making-tip-boxes-with-bookdown-and-rmarkdown/). I recommend that you check it out on her website as well. She mentions that these div tips don't work on blogdown <mark> .md </mark> posts; but I'm quite stubborn and I really liked these so I struggled for a few days trying to make it work.
+Then, I found the [**website of Desirée de Leon**](https://desiree.rbind.io/post/2019/making-tip-boxes-with-bookdown-and-rmarkdown/). I recommend that you check it out on her website as well. She mentions that these div tips don't work on blogdown <mark> .md </mark> posts; but I'm quite stubborn and I really liked these, so I struggled for a few days trying to make it work.
 
 &nbsp;
 
