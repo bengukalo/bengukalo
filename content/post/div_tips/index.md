@@ -12,7 +12,7 @@ tags:
 - CSS
 authors: [admin]
 lastmod: ''
-featured: 'featured.jpg'
+featured: 'featured.png'
 output:
   blogdown::html_page:
     dev: svg
