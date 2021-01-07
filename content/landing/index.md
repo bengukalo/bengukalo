@@ -16,3 +16,6 @@ output:
 date: "2021-01-07T00:00:00Z"  # Add today's date.
 type: "widget_page"  # Page type is a Widget Page
 ---
+
+
+I am a Clinical Psychologist & Neuropsychologist. Currently I work as a research assistant at Middle East Technical University. I am interested in exploring the ways we utilize our sensory system to perceive the world, vision in particular. I am hoping to explore the visual cortex of visually impaired people in the future. 
