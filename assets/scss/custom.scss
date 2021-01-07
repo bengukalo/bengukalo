@@ -7,9 +7,12 @@ body {
   
   .navbar {
     min-height: 75px !important;
-    transition: top 0.3s;
+    transition: top 0.5s ease;
   }
-  
+  .navbar-hide {
+    top: -56px;
+}
+
   /* Make mobile navbar skinnier */
   
     @media screen and (max-width: 100% height auto) {
@@ -313,14 +316,3 @@ div.yellow { background-color: #FEF5E7; padding: 1em;
 
 
 
-/* When the user scrolls down, hide the navbar. When the user scrolls up, show the navbar */
-var prevScrollpos = window.pageYOffset;
-window.onscroll = function() {
-  var currentScrollPos = window.pageYOffset;
-  if (prevScrollpos > currentScrollPos) {
-    document.getElementById("navbar").style.top = "0";
-  } else {
-    document.getElementById("navbar").style.top = "-50px";
-  }
-  prevScrollpos = currentScrollPos;
-}
