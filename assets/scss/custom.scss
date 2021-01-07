@@ -311,7 +311,11 @@ div.yellow { background-color: #FEF5E7; padding: 1em;
             border: solid 2px #FAD7A0;}
 
 
+/* Custom Spacing for the Home Page Widgets */
 
 .home-section {
   padding: 70px 0 70px 0;
             }
+.home-section.wg-about {
+  padding-top: 50px;
+}
