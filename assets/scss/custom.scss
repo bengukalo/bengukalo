@@ -7,12 +7,6 @@ body {
   
   .navbar {
     min-height: 75px !important;
-    transition: background 0.4s ease-in-out;
-    background: #010101;
-  }
-  .is-hidden {
-    opacity: 0;
-    transition: transform 0.4s, opacity 0.2s;
   }
 
   /* Make mobile navbar skinnier */
