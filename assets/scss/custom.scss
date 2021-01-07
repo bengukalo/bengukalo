@@ -7,6 +7,7 @@ body {
   
   .navbar {
     min-height: 75px !important;
+    transition: top 0.3s;
   }
   
   /* Make mobile navbar skinnier */
