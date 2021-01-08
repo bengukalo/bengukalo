@@ -15,7 +15,6 @@ lastmod: ''
 featured: 'featured.png'
 output:
   blogdown::html_page:
-   toc: true
     dev: svg
 image:
   caption: ''
