@@ -1,7 +1,7 @@
 {{ $ := .root }}
 {{ $page := .page }}
-{{ $columns := $page.Params.design.columns | default "2" }}
 {{ $media_dir := $.Scratch.Get "media_dir" }}
+{{ $columns := $page.Params.design.columns | default "2" }}
 
 <!-- Experience widget -->
 <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
@@ -33,25 +33,31 @@
           <div class="section-subheading card-title exp-company text-muted my-0">
             {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.company | markdownify | emojify}}{{with .company_url}}</a>{{end -}}
           </div>
-          <div class="text-muted exp-meta">
-            {{ (time .date_start).Format ($page.Params.date_format | default "January 2006") }} –
-            {{ if .date_end}}
-              {{ (time .date_end).Format ($page.Params.date_format | default "January 2006") }}
-            {{else}}
-              {{ i18n "present" | default "Present" }}
-            {{end}}
-            {{with .location}}
-              <span class="middot-divider"></span>
-              <span>{{.}}</span>
-            {{end}}
-            {{- if .company_logo}}
-            <div class="d-flex">
-                <img src="{{ printf "%s/%s" $media_dir .company_logo | relURL }}" width="56px" height="56px" alt="{{.company | markdownify | emojify}}">
-              {{if .company_url}}</a>{{end -}}
-              <div class="ml-2">
-            {{end -}}
-            {{- if .company_logo}}
-              </div>
+          {{- if .company_logo}}
+             <div class="d-flex">
+                 <img src="{{ printf "%s/%s" $media_dir .company_logo | relURL }}" width="56px" height="56px" alt="{{.company | markdownify | emojify}}">
+               {{if .company_url}}</a>{{end -}}
+               <div class="ml-2">
+             {{end -}}
+
+                 <h4 class="card-title exp-company text-muted my-0">
+                   {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.company | markdownify | emojify}}{{with .company_url}}</a>{{end -}}
+                 </h4>
+                 <div class="text-muted exp-meta">
+                   {{ (time .date_start).Format ($page.Params.date_format | default "January 2006") }} –
+                   {{ if .date_end}}
+                     {{ (time .date_end).Format ($page.Params.date_format | default "January 2006") }}
+                   {{else}}
+                     {{ i18n "present" | default "Present" }}
+                   {{end}}
+                   {{with .location}}
+                     <span class="middot-divider"></span>
+                     <span>{{.}}</span>
+                   {{end}}
+                 </div>
+
+             {{- if .company_logo}}
+               </div>
           </div>
           {{end -}}
           {{with .description}}<div class="card-text px-0">{{. | markdownify | emojify}}</div>{{end}}
