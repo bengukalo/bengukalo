@@ -15,13 +15,14 @@ lastmod: ''
 featured: 'featured.png'
 output:
   blogdown::html_page:
+   toc: true
     dev: svg
 image:
   caption: ''
   focal_point: Center
   preview_only: true
 projects: []
-toc: true
+
 
 ---
 
