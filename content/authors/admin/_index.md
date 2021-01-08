@@ -37,7 +37,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=iWXRq64AAAAJ&hl=tr
 - icon: github
-  icon_pack: fa
+  icon_pack: fab
   link: https://github.com/kortekss/bengukalo
 - icon: twitter
   icon_pack: fab
