@@ -21,7 +21,6 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Assistant"
   company = "Middle East Technical University"
-  company_logo: "odtu.png"
   company_url = ""
   location = "Ankara, Turkey"
   date_start = "2020-11-01"
