@@ -33,6 +33,12 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-4641-544X
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=iWXRq64AAAAJ&hl=tr
+- icon: github
+  icon_pack: fa
+  link: https://github.com/kortekss/bengukalo
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/BenguKalo
