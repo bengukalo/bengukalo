@@ -30,9 +30,6 @@
       <div class="card">
         <div class="card-body">
           <div class="section-subheading card-title exp-title text-muted mt-0 mb-1">{{.title | markdownify | emojify}}</div>
-          <div class="section-subheading card-title exp-company text-muted my-0">
-            {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.company | markdownify | emojify}}{{with .company_url}}</a>{{end -}}
-          </div>
           {{- if .company_logo}}
              <div class="d-flex">
                  <img src="{{ printf "%s/%s" $media_dir .company_logo | relURL }}" width="56px" height="56px" alt="{{.company | markdownify | emojify}}">
