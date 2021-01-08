@@ -27,7 +27,7 @@ projects: []
 &nbsp;
 
 
-A few months ago, I started to learn how to create a blog using R Markdown from scracth. Initially, I had absolutely no idea about CSS. Right after launching my own blog, I came across with the [**bookdown website of Yihui**](https://bookdown.org/yihui/blogdown/output-format.html) and saw some really cute colourful boxes there. It seemed like a great way to highlight important information, so I started searching for the code of these colourful boxes.
+A few months ago, I started to learn how to create a blog using R Markdown from scracth. Initially, I had absolutely no idea about CSS. Right after launching my own blog, I came across with the [**bookdown website of Yihui**](https://bookdown.org/yihui/blogdown/output-format.html) and saw some really cute colourful boxes there. It seemed like a great way to highlight important information, so I started to search for the code of these colourful boxes.
 
 
 
