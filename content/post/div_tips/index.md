@@ -21,6 +21,7 @@ image:
   focal_point: Center
   preview_only: true
 projects: []
+toc: true
 
 ---
 
