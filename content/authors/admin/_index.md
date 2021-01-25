@@ -42,9 +42,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/BenguKalo
-- icon: instagram
-  icon_pack: fab
-  link: https://instagram.com/bengukalo
 
 
 email: bengukalo@gmail.com
