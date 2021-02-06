@@ -35,6 +35,10 @@ Positive effects of testing the memory is studied for exactly a century now. The
 
 ## Why testing help us learn better?
 
+
+***
+
+
 Expectation of interim tests simply help us maintain our focus and motivation while studying. For the first experiment of Dr. Shank, participants were asked to study Swahili translations of English words. Participants decided how much time they will allocate for studying the material. Both Interim and No-Interim groups knew that they will receive a final test, however they didn't know if they will receive an interim exam after studying each material.
 
 ![](/post/images/graph.png)
@@ -77,6 +81,9 @@ By receiving tests regularly, students gain experience about how difficult these
 ## Which other types of learning are susceptible to forward learning effect?
 
 
+***
+
+
 Forward learning effect can be seen in learning abstract concepts as well. Shanks and his team explored if this effect is limited to low-level learning like ‘facts’, or is it also extending to high-level ones like ‘inductive learning’. This is a type of learning in which individuals generalise their prior experiences when making inferences about anything that cannot benefit from direct experience. The same experimental design with prior studies was used, with anaddition of Re-study Group to the Interim and No-Interim groups. Also, this time the material was Renaissance paintings, which requires abstract thinking unlike word pairs. Participants were asked to study 20 paintings and their artists, like Botticelli and Caravaggio.
 
 ![](/post/images/caravaggio.jpg)
@@ -89,6 +96,10 @@ Forward testing effect is also seen in ‘transfer of learning’, where partici
 
 
 ## Learning from the mistakes
+
+
+***
+
 
 Research that is conducted by Shanks and his colleagues related to errorful generation provides some evidence that people learn better by trial and error. Participants were either asked to read and memorise word translations or presented with a Swahili-word and asked to make a guess right away. As result, the group who made wrong guesses and got corrected afterwards scored higher than the group who only studied the material.
 
