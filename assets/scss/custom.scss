@@ -94,8 +94,7 @@ body {
     padding-top: 2em;
     padding-bottom: 1em;
     font-weight: 700;
-    text-align: left;
-    font-style: bold;
+    text-align: left; 
   }
   
   .article-style .section.level2 h1 {
@@ -245,9 +244,9 @@ body {
  
   /*------ configure width of the blog posts */
   .article-container {
-    max-width: 1140px height auto !important; 
+    max-width: 100% height auto !important; 
     padding: 15px 15px;
-    margin: auto auto;
+    margin: 100% 100%;
     font-size: 18px;
   }
 
