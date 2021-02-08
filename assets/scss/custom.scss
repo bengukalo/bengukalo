@@ -237,14 +237,14 @@ body {
   }
   
   .iframe-container > iframe {
-    border: solid;
+    border: none;
   }
 
 
  
   /*------ configure width of the blog posts */
   .article-container {
-    max-width: 1140px height auto !important; 
+    max-width: 1140px height 1140px !important; 
     padding: 15px 15px;
     margin: -50 auto -50 auto;
     font-size: 18px;
