@@ -1,5 +1,5 @@
 ---
-title: See My Illustraation Portfolio
+title: See My Illustration Portfolio
 summary: 
 tags:
 - Non Academic
