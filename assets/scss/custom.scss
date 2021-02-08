@@ -328,8 +328,7 @@ nav#navbar-main li {
  }
 
 
- p:first-child img{width: 100vw;
-  position: relative;
-  margin-left: -50vw;
-  margin-right: -50vw;
+ p:first-child img{
+  margin-left: calc(-100vw / 2 + 500px / 2);
+  margin-right: calc(-100vw / 2 + 500px / 2);
 }
