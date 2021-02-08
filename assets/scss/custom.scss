@@ -230,6 +230,7 @@ body {
   }
   
   .iframe-container {
+    width: 100%;
     overflow: auto;
     -webkit-overflow-scrolling: touch;
     border: #ddd 0 solid;
@@ -326,9 +327,3 @@ div.yellow { background-color: #FEF5E7; padding: 1em;
 nav#navbar-main li {
   font-size: 16px;
  }
-
-
- p:first-child img{
-  margin-left: calc(-100vw / 2 + 500px / 2);
-  margin-right: calc(-100vw / 2 + 500px / 2);
-}
