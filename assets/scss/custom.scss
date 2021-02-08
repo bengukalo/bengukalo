@@ -244,8 +244,8 @@ body {
  
   /*------ configure width of the blog posts */
   .article-container {
-    max-width: 1140px height 1140px !important; 
-    padding: 15px 15px;
+    max-width: 1140px height auto !important; 
+    padding: 15px 30px 15px 30px;
     margin: -50 auto -50 auto;
     font-size: 18px;
   }
