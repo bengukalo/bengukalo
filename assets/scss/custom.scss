@@ -230,7 +230,6 @@ body {
   }
   
   .iframe-container {
-    max-width: 100%;
     overflow: auto;
     -webkit-overflow-scrolling: touch;
     border: #ddd 0 solid;
@@ -238,7 +237,6 @@ body {
   }
   
   .iframe-container > iframe {
-    max-width: 100%;
     border: none;
   }
 
