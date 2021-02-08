@@ -326,3 +326,12 @@ div.yellow { background-color: #FEF5E7; padding: 1em;
 nav#navbar-main li {
   font-size: 16px;
  }
+
+
+ p:first-child img{width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
