@@ -328,8 +328,4 @@ nav#navbar-main li {
  }
 
 
- @media (min-width: 2400px) {
-  .container {
-      width: 1920px; 
-  }
-}
+ .container { width: 1920px !important; }
