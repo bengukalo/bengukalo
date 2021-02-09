@@ -326,3 +326,10 @@ div.yellow { background-color: #FEF5E7; padding: 1em;
 nav#navbar-main li {
   font-size: 16px;
  }
+
+
+ @media (min-width: 2400px) {
+  .container {
+      width: 1920px; 
+  }
+}
