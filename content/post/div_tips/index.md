@@ -1,7 +1,7 @@
 ---
 
 title: How to Make Custom Note Boxes for MD Files
-subtitle: Using the custom div tip method for the files with .md extension.
+subtitle: Using the custom div for the files with .md extension.
 date: 2021-01-05
 slug: how-to-make-note-boxes
 categories:
@@ -53,7 +53,7 @@ You can use these boxes to customise your blog and draw attention to important p
 </div>
 
 
-Then, I found the [**website of Desirée de Leon**](https://desiree.rbind.io/post/2019/making-tip-boxes-with-bookdown-and-rmarkdown/). I recommend that you check it out on her website as well. She mentions that these div tips don't work on blogdown <mark> .md </mark> posts; but I'm quite stubborn and I really liked these, so I struggled for a few days trying to make it work.
+Then, I found the [**website of Desirée de Leon**](https://desiree.rbind.io/post/2019/making-tip-boxes-with-bookdown-and-rmarkdown/). I recommend that you check it out on her website as well. She mentions that these divs don't work on blogdown <mark> .md </mark> posts; but I'm quite stubborn and I really liked these, so I struggled for a few days trying to make it work.
 
 &nbsp;
 
@@ -69,11 +69,11 @@ First of all, you will need to create a CSS file if you do not already have it. 
  
 So far so good.
 
-Now we will add our custom div tips to the custom.scss file. Go ahead and paste the CSS below into your file.
+Now we will add our custom divs to the custom.scss file. Go ahead and paste the CSS below into your file.
 
 ```r
 
-/* Div Tip */
+/* Divs */
 
 div.yellow { 
   background-color: #FEF5E7; padding: 1em;
@@ -87,7 +87,7 @@ div.yellow {
   }
 
 ```
-I named this box as <mark>yellow</mark> (see the word after 'div.') so that I can easily remember and find the yellow box when I need to. You can change the name however you like. Accordingly, you may create as many different div tips as you like by changing the properties above. Make sure that you give each one a unique name as we will be using those later on.
+I named this box as <mark>yellow</mark> (see the word after 'div.') so that I can easily remember and find the yellow box when I need to. You can change the name however you like. Accordingly, you may create as many different divs as you like by changing the properties above. Make sure that you give each one a unique name as we will be using those later on.
 
 &nbsp;
 
@@ -109,7 +109,7 @@ Especially four lines in our CSS will come in handy while customising our boxes.
 
 ## The Background Image
 
-This is where our paths are seperated with Dr. Desirée. If you fail to add your icon in the box and use your div tips as instructed on her blog, try these steps instead;
+This is where our paths are seperated with Dr. Desirée. If you fail to add your icon in the box and use your divs as instructed on her blog, try these steps instead;
 
 1. Choose an [**icon**](https://www.flaticon.com) of your liking and save it as .png or .jpg (flaticon has many great options but if you want to use another website for this, just make sure that the icon has a transparent background).
 2. Add this image in the same file as your .md blog post.
@@ -125,7 +125,7 @@ div.yellow {
 
 This chunk will add the background image to our custom boxes.
 
-Now we can use our cute custom div tips by typing this on our post;
+Now we can use our cute custom divs by typing this on our post;
 
 ```r
 <div class = "yellow">
