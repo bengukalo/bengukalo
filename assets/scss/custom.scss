@@ -246,7 +246,7 @@ body {
   .article-container {
     max-width: 100% height auto !important; 
     padding: 20px auto auto;
-    margin: auto auto;
+    margin: 20p -80px;
     font-size: 18px;
   }
 
@@ -325,10 +325,4 @@ div.yellow { background-color: #FEF5E7; padding: 1em;
 
 nav#navbar-main li {
   font-size: 16px;
- }
-
-
- @media (min-width: 960px)
- .container {
-     max-width: 1140px;
  }

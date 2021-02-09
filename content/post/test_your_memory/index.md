@@ -24,7 +24,7 @@ projects: []
 ---
 &nbsp;
 
-<div class="container wide">
+
 Deciding on a learning strategy without help can be a complex procedure. Efficient learning is only viable if the learner has the skills to initiate the learning autonomusly, and afterwards manage its processing and storage. These are known as learning strategies in the education field. An efficient learning strategy is the single most important possession in our academic life. But how do we decide which strategy is better to use? Not surprisingly, there is a growing body of research on this question.
 
 
