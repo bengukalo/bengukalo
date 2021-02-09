@@ -4,8 +4,6 @@ body {
     margin-top: 75px !important;
     text-align: left;
     line-height: 1.9;
-    margin-left: -50px;
-    margin-right: -50px;
   }
   
   .navbar {
@@ -329,3 +327,6 @@ div.yellow { background-color: #FEF5E7; padding: 1em;
 nav#navbar-main li {
   font-size: 16px;
  }
+
+ .content {
+  max-width: 1140px; }
