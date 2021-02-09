@@ -328,5 +328,8 @@ nav#navbar-main li {
   font-size: 16px;
  }
 
- .content {
-  max-width: 1140px; }
+
+ .dark .navbar {
+  background-color black;
+  box-shadow: none;  
+}
