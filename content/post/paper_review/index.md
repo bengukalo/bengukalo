@@ -20,8 +20,6 @@ image:
   caption: ''
   focal_point: Center
   preview_only: true
-header:
-  caption: "Yay! It works!"
 projects: []
 
 ---
