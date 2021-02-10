@@ -7449,7 +7449,6 @@ a[data-fancybox] {
  *  Tags/Labels
  **************************************************/
 .badge-light {
-  border: solid;
   color: rgba(0, 0, 0, 0.68);
   background: rgba(0, 0, 0, 0.05);
   font-weight: normal;
@@ -7459,7 +7458,8 @@ a[data-fancybox] {
   margin-bottom: 8px; }
 
 .article-tags > .badge-light:last-child {
-  margin-right: 0; }
+  margin-right: 0;
+  background: rgba(0, 0, 0, 0); }
 
 .badge-light[href]:focus,
 .badge-light[href]:hover {
