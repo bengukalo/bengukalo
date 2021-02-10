@@ -7449,7 +7449,7 @@ a[data-fancybox] {
  *  Tags/Labels
  **************************************************/
 .badge-light {
-  border: none;
+  border: solid;
   color: rgba(0, 0, 0, 0.68);
   background: rgba(0, 0, 0, 0.05);
   font-weight: normal;
@@ -7463,7 +7463,7 @@ a[data-fancybox] {
 
 .badge-light[href]:focus,
 .badge-light[href]:hover {
-  background: rgba(0, 0, 0, 0); }
+  background: rgba(0, 0, 0, 0.1); }
 
 a.badge:focus,
 a.badge:hover {
