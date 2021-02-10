@@ -146,6 +146,7 @@ One should keep in mind that all of the neuroimaging techniques has limitations,
 &nbsp;
 
  </div> 
+ 
 ## Further Reading
 
 <div style = "text-align: left">
