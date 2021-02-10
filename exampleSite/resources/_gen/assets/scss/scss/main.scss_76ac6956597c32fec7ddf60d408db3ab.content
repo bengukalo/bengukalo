@@ -7463,7 +7463,7 @@ a[data-fancybox] {
 
 .badge-light[href]:focus,
 .badge-light[href]:hover {
-  background: rgba(0, 0, 0, 0.1); }
+  background: rgba(0, 0, 0, 0); }
 
 a.badge:focus,
 a.badge:hover {
