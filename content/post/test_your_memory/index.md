@@ -20,7 +20,7 @@ image:
   preview_only: true
 twitterImg: "/content/post/caravaggio.jpg"
 header: 
-  image: "../../static/img/headers/featured.jpg"
+  image: "./../../static/img/headers/featured.jpg"
   caption: "Yay! It works!"
 projects: []
 
