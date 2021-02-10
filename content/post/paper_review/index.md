@@ -21,7 +21,7 @@ image:
   focal_point: Center
   preview_only: true
 header:
-  image: "/post/paper_review/featured.jpg"
+  image: "/static/headers/featured.jpg"
   caption: "Yay! It works!"
 projects: []
 
