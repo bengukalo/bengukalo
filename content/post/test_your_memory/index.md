@@ -14,7 +14,7 @@ featured: "/content/post/caravaggio.jpg"
 output:
   blogdown::html_page:
     dev: svg
-header:
+[header]
   image: "/content/post/caravaggio.jpg"
   caption: ''
   focal_point: Center
