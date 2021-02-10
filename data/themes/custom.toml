@@ -10,13 +10,13 @@ primary_light = "#ee5863"
 primary_dark = "#ee5863"
 
 # Links
-link = "#B3CAD6"
-link_hover = "#4E8098"
+link = "#AFC2CC"
+link_hover = "#214A60"
 
 # Menu
 menu_primary = "#fcfcfc00" 
 menu_text = "#000000"
-menu_text_active = "#B3CAD6"
+menu_text_active = "#AFC2CC"
 menu_title = "#111111"
 
 # Backgrounds
