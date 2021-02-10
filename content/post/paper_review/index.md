@@ -16,7 +16,7 @@ featured: '/post/paper_review/featured.jpg'
 output:
   blogdown::html_page:
     dev: svg
-image:
+header:
   caption: ''
   focal_point: Center
   preview_only: true
