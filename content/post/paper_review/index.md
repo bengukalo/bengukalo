@@ -20,6 +20,9 @@ image:
   caption: ''
   focal_point: Center
   preview_only: true
+header:
+  image: "static/img/headers/featured.jpg"
+  caption: "Yay! It works!"
 projects: []
 
 ---
