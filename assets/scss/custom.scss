@@ -335,7 +335,14 @@ nav#navbar-main li {
   font-family: Montserrat;
 }
 
-.about-border {
+hr {
+  border: 0;
+  margin: 1.35em auto;
+  max-width: 100%;
+  background-position: 50%;
+  box-sizing: border-box;
+}
+.dots {
   width: 200px;
   height: 3px;
   background: #F3C577;
