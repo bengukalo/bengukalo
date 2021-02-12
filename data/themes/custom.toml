@@ -10,8 +10,8 @@ primary_light = "#ee5863"
 primary_dark = "#ee5863"
 
 # Links
-link = "#AFC2CC"
-link_hover = "#214A60"
+link = "#DB7093"
+link_hover = "#DCA0B2"
 
 # Menu
 menu_primary = "#fcfcfc00" 
