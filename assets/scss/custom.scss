@@ -148,10 +148,9 @@ body {
   }
   
   #about .col-12.col-lg-8 {
-
     padding-left: 30px !important;
-    padding-top: -10px;
   }
+
 
   
   /* Evenly spaces bio text on mobile */
@@ -335,3 +334,7 @@ nav#navbar-main li {
   font-size: 28px;
   font-family: Montserrat;
 }
+
+.portrait {
+  margin-top: -20px; !important;
+  }
