@@ -23,8 +23,6 @@ projects: []
 
 ---
 
-&nbsp;
-
 <div class="about-border"></div>
 
 
