@@ -37,7 +37,7 @@ Positive effects of testing the memory is studied for exactly a century now. The
 &nbsp;
 
 
-<span class="half_background"> Why testing help us learn better? </span>
+## Why testing help us learn better?
 
 Expectation of interim tests simply help us maintain our focus and motivation while studying. For the first experiment of Dr. Shank, participants were asked to study Swahili translations of English words. Participants decided how much time they will allocate for studying the material. Both Interim and No-Interim groups knew that they will receive a final test, however they didn't know if they will receive an interim exam after studying each material.
 
