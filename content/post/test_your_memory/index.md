@@ -78,7 +78,7 @@ By receiving tests regularly, students gain experience about how difficult these
 &nbsp;
 
 
-<span class="half_background"> Which other types of learning are susceptible to forward learning effect? </span>
+## Which other types of learning are susceptible to forward learning effect?
 
 
 
@@ -93,7 +93,7 @@ Forward testing effect is also seen in ‘transfer of learning’, where partici
 &nbsp;
 
 
-<span class="half_background"> Learning from the mistakes </span>
+## Learning from the mistakes
 
 
 
