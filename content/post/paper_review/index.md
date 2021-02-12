@@ -34,7 +34,7 @@ For the purpose of this essay, I choose a quite recent paper from one of my favo
 &nbsp;
 
 
-## Summary of the Study
+<span class="half_background"> Summary of the Study </span>
 
  Researchers recruited 9 late blind and 7 gender and age matched sighted individuals. For the purpose of the study, only blind individuals with an onset above 14 years and who were blind for at least 7 years were selected. 
 
@@ -60,7 +60,7 @@ Researchers aimed to reveal if voice identification changes in late blindness as
 &nbsp;
 
 
-## Blocked vs. Event Related Design
+<span class="half_background"> Blocked vs. Event Related Design </span>
 
 Researchers’ main concern was dissociating the effects of voice identity from automated responses, which in turn could generate neater results. Event related design is considered particularly useful when it comes to implementing oddball paradigm and construct a temporally unpredictable series of stimuli<sup>3</sup>. This is an experimental design in which the sequence of repetetive stimuli are irregularly and infrequently interrupted by deviant stimuli<sup>4</sup> in order to keep participants focused.
 
@@ -71,7 +71,7 @@ On the other hand, blocked-design is considered as superior to event-related des
 &nbsp;
 
 
-## What We Can Do and What We Cannot Do with fMRI
+<span class="half_background"> What We Can Do and What We Cannot Do with fMRI </span>
 
 
 

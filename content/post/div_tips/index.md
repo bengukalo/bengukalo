@@ -60,7 +60,7 @@ Then, I found the [**website of Desirée de Leon**](https://desiree.rbind.io/pos
 &nbsp;
 
 
-## Steps for Creating the Custom Boxes
+<span class="half_background"> Steps for Creating the Custom Boxes </span>
 
 Most of the steps will be the same with Dr. Desirée's but we'll take some additional steps while using the colourful boxes in our blog posts to make it compatible with <mark> .md </mark> extensions.
 
@@ -94,7 +94,7 @@ I named this box as <mark>yellow</mark> (see the word after 'div.') so that I ca
 &nbsp;
 
 
-## How to Customise the Boxes
+<span class="half_background"> How to Customise the Boxes </span>
 
 
 ![](example.jpg)
@@ -109,7 +109,7 @@ Especially four lines in our CSS will come in handy while customising our boxes.
 &nbsp;
 
 
-## The Background Image
+<span class="half_background"> The Background Image </span>
 
 This is where our paths are seperated with Dr. Desirée. If you fail to add your icon in the box and use your divs as instructed on her blog, try these steps instead;
 
