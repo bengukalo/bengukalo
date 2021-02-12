@@ -23,7 +23,7 @@ projects: []
 
 ---
 
-<hr class="dots">
+<div class="about-border"></div>
 
 
 &nbsp;
