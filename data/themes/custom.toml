@@ -16,7 +16,7 @@ link_hover = "#214A60"
 # Menu
 menu_primary = "#fcfcfc00" 
 menu_text = "#000000"
-menu_text_active = "#214A60"
+menu_text_active = "#a3a3c9"
 menu_title = "#111111"
 
 # Backgrounds
