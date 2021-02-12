@@ -95,12 +95,10 @@ body {
     padding-bottom: 1em;
     font-weight: bold;
     text-align: left; 
-    background: linear-gradient(to top, #FDE6CB 50%, transparent 50%);
   }
   
   .article-style .section.level2 h1 {
       text-align: left;
-      background: linear-gradient(to top, #FDE6CB 50%, transparent 50%);
   }
 
  
@@ -331,3 +329,7 @@ nav#navbar-main li {
  }
 
 
+ .half_background {
+  background: linear-gradient(to top, yellow 50%, transparent 50%);
+  font-size: 35px;
+}
