@@ -37,7 +37,7 @@ Positive effects of testing the memory is studied for exactly a century now. The
 &nbsp;
 
 
-## Why testing help us learn better?
+<span class="half_background"> Why testing help us learn better? </span>
 
 Expectation of interim tests simply help us maintain our focus and motivation while studying. For the first experiment of Dr. Shank, participants were asked to study Swahili translations of English words. Participants decided how much time they will allocate for studying the material. Both Interim and No-Interim groups knew that they will receive a final test, however they didn't know if they will receive an interim exam after studying each material.
 
@@ -78,7 +78,7 @@ By receiving tests regularly, students gain experience about how difficult these
 &nbsp;
 
 
-## Which other types of learning are susceptible to forward learning effect?
+<span class="half_background"> Which other types of learning are susceptible to forward learning effect? </span>
 
 
 
@@ -93,7 +93,7 @@ Forward testing effect is also seen in ‘transfer of learning’, where partici
 &nbsp;
 
 
-## Learning from the mistakes
+<span class="half_background"> Learning from the mistakes </span>
 
 
 
