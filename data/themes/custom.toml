@@ -5,18 +5,18 @@ name = "custom"
 light = true
 
 # Primary
-primary ="#a79de3"
+primary ="#ADD8E6"
 primary_light = "#ee5863"
 primary_dark = "#ee5863"
 
 # Links
-link = "#a79de3"
+link = "#ADD8E6"
 link_hover = "lavender"
 
 # Menu
 menu_primary = "#fcfcfc00" 
 menu_text = "#000000"
-menu_text_active = "#a79de3"
+menu_text_active = "#ADD8E6"
 menu_title = "#111111"
 
 # Backgrounds
