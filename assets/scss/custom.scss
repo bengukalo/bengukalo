@@ -335,6 +335,9 @@ nav#navbar-main li {
   font-family: Montserrat;
 }
 
-h1 * {
-  background: linear-gradient(to top, Lavender 45%, white 20%, white 70%);
+.about-border {
+  width: 200px;
+  height: 3px;
+  background: #F3C577;
+  margin: 20px auto;
 }
