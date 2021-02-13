@@ -13,8 +13,7 @@ lastmod: ''
 featured: "/content/post/caravaggio.jpg"
 output:
   blogdown::html_page:
-    includes:
-      in_header: assets/test.html
+    dev: svg
 image:
   caption: ''
   focal_point: Center
