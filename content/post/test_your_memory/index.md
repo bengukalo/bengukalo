@@ -62,6 +62,8 @@ In his next study, Dr. Shanks and his colleagues used face and name pairs while 
 
 <i> <img src="/post/images/stimuli.png" align = "left" width = "500" height = "600">
 
+&nbsp;
+
 Figure 3. Representation of face-name pair design. This task consisted memorizing pictures of different faces and their names. In the interim test students were expected to provide correct names for each face. </i>
 
 
