@@ -51,6 +51,7 @@ _Figure 1 Illustrates the general design of the studies. Students were divided i
 In the beginning, both Interim and No-Interim groups allocated the same amount of time to study the material. However, while the participants that has been tested regularly kept their motivation and effort on the same level over time, the group that have not been tested until the List 5 gradually reduced their effort.
 
 <i> <img src="/post/images/time.png" align = "left" width = "500" height = "500">
+<div class="vertical-hr"></div>
 
 <br>
 <br>
@@ -70,6 +71,7 @@ In his next study, Dr. Shanks and his colleagues used face and name pairs while 
 
 <i> <img src="/post/images/stimuli.png" align = "left" width = "500" height = "600">
 <div class="vertical-hr"></div>
+
 <br>
 
 Figure 3. Representation of face-name pair design. This task consisted memorizing pictures of different faces and their names. In the interim test students were expected to provide correct names for each face. </i>
@@ -80,6 +82,7 @@ Figure 3. Representation of face-name pair design. This task consisted memorizin
 <br clear=left>Increase in time allocation is just an effect of the material. When we meet someone new, it is challenging to keep their faces and names in mind. If we anticipate that we will be tested, it is only rational to spare more time for remembering this information. But how can we make sure that obtaining better results is not an effect of simply spending more time to memorise it? Shanks and his colleagues designed another study in order to clear up this question. This time, duration of studying was set the same for both groups. However, Interim group still maintained the amount of recall across the lists. They also remembered twice as much in the cumulative test as No-Interim group. Thus, researchers concluded that getting better results is related to the testing effect rather than the duration of a study session.
 
 <i> <img src="/post/images/results.png" align = "left" width = "500" height = "500">
+<div class="vertical-hr"></div>
 
 <br>
 <br>
@@ -120,6 +123,7 @@ Research that is conducted by Shanks and his colleagues related to errorful gene
 
 
 <i> <img src="/post/images/figure.png" align = "left" width = "500" height = "500">
+<div class="vertical-hr"></div>
 
 <br>
 <br>
