@@ -50,8 +50,13 @@ _Figure 1 Illustrates the general design of the studies. Students were divided i
 
 In the beginning, both Interim and No-Interim groups allocated the same amount of time to study the material. However, while the participants that has been tested regularly kept their motivation and effort on the same level over time, the group that have not been tested until the List 5 gradually reduced their effort.
 
-![](/post/images/time.png)
-_Figure 2 Depicts the results of the first study. Interim group maintains their motivation while No-Interim group loses the motivation over time._
+<i> <img src="/post/images/time.png" align = "left" width = "500" height = "600">
+
+&nbsp;
+
+Figure 2 Depicts the results of the first study. Interim group maintains their motivation while No-Interim group loses the motivation over time.
+
+</i>
 
 &nbsp;
 
@@ -72,8 +77,14 @@ Figure 3. Representation of face-name pair design. This task consisted memorizin
 
 Increase in time allocation is just an effect of the material. When we meet someone new, it is challenging to keep their faces and names in mind. If we anticipate that we will be tested, it is only rational to spare more time for remembering this information. But how can we make sure that obtaining better results is not an effect of simply spending more time to memorise it? Shanks and his colleagues designed another study in order to clear up this question. This time, duration of studying was set the same for both groups. However, Interim group still maintained the amount of recall across the lists. They also remembered twice as much in the cumulative test as No-Interim group. Thus, researchers concluded that getting better results is related to the testing effect rather than the duration of a study session.
 
-![](/post/images/results.png)
-_Figure 4 Shows the results of face-name pair study. Interim group remembered twice as much pairs than No-Interim group in the final test._
+<i> <img src="/post/images/results.png" align = "left" width = "500" height = "600">
+
+&nbsp;
+
+Figure 4 Shows the results of face-name pair study. Interim group remembered twice as much pairs than No-Interim group in the final test.
+
+</i>
+
 
 &nbsp;
 
