@@ -53,6 +53,8 @@ In the beginning, both Interim and No-Interim groups allocated the same amount o
 <i> <img src="/post/images/time.png" align = "left" width = "500" height = "500">
 
 &emsp;
+&ensp;
+&ensp;
 
 
 Figure 2. Depicts the results of the first study. Interim group maintains their motivation while No-Interim group loses the motivation over time.
