@@ -335,7 +335,7 @@ nav#navbar-main li {
   font-family: Montserrat;
 }
 
-.about-border {
+p:first-child::before {
   width: 200px;
   height: 3px;
   background: #97BEC6;
