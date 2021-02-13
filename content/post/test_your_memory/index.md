@@ -14,7 +14,7 @@ featured: "/content/post/caravaggio.jpg"
 output:
   blogdown::html_page:
     includes:
-      in_header: /content/post/caravaggio.jpg
+      in_header: assets/test.html
 image:
   caption: ''
   focal_point: Center
