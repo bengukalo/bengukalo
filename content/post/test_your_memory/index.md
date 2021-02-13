@@ -125,8 +125,8 @@ Dr. Shanks concludes his talk by stating that testing memory and making mistakes
 </div>
 
 
-::: blue
+:::blue
 
  Dr. Shanks concludes his talk by stating that testing memory and making mistakes in the process are one of the best learning strategies for students. Tests help students to monitor their learning and assess their current understanding while errors make the correct information more memorable by raising the level of attention.
- 
+
 :::
