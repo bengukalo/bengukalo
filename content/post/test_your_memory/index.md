@@ -54,7 +54,7 @@ In the beginning, both Interim and No-Interim groups allocated the same amount o
 
 &nbsp;
 
-Figure 2 Depicts the results of the first study. Interim group maintains their motivation while No-Interim group loses the motivation over time.
+Figure 2. Depicts the results of the first study. Interim group maintains their motivation while No-Interim group loses the motivation over time.
 
 </i>
 
@@ -82,7 +82,7 @@ Increase in time allocation is just an effect of the material. When we meet some
 
 &nbsp;
 
-Figure 4 Shows the results of face-name pair study. Interim group remembered twice as much pairs than No-Interim group in the final test.
+Figure 4. Shows the results of face-name pair study. Interim group remembered twice as much pairs than No-Interim group in the final test.
 
 </i>
 
@@ -117,16 +117,20 @@ Forward testing effect is also seen in ‘transfer of learning’, where partici
 Research that is conducted by Shanks and his colleagues related to errorful generation provides some evidence that people learn better by trial and error. Participants were either asked to read and memorise word translations or presented with a Swahili-word and asked to make a guess right away. As result, the group who made wrong guesses and got corrected afterwards scored higher than the group who only studied the material.
 
 
+<i> <img src="/post/images/figure.png" align = "left" width = "650" height = "650">
 
-<div class="item">
-   <p> <img src="/post/images/figure.png"/> 
+&nbsp;
+
+Figure 5. Shows the grade that groups received in Generate and Read conditions. Participants who generated an errorful answer instead of studying the material scored higher in the final test.
+
+</i>
+
+&nbsp;
+&nbsp;
+
+
 Interestingly, participants do not seem to get confused by the error that they generate. Rather than remembering their incorrect reply, they are able to provide the actual answer.
-Other studies demonstrated that when students are very confident on their wrong answer, they are more likely to remember the correct answer after they have been corrected. Researchers theorized that when the students strongly believe that their answer is correct, they pay more attention to corrective feedbacks. Element of surprise might also be effective in remembering such moments. A well-known phenomenon in cognitive psychology claims that we remember events better if it consists novel moments.</p>
-    <span class="caption"> <i>Figure 5. Shows the grade that groups received in Generate and Read conditions. Participants who generated an errorful answer instead of studying the material scored higher in the final test. </i> </span>
-</div>
-
-
-
+Other studies demonstrated that when students are very confident on their wrong answer, they are more likely to remember the correct answer after they have been corrected. Researchers theorized that when the students strongly believe that their answer is correct, they pay more attention to corrective feedbacks. Element of surprise might also be effective in remembering such moments. A well-known phenomenon in cognitive psychology claims that we remember events better if it consists novel moments.
 
 &nbsp;
 

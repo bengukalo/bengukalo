@@ -346,25 +346,3 @@ mark {
    background: linear-gradient(to top, #97BEC6 80%, white 20%, white 20%);
 }
 
-
-
-
-div.item {
-  /* To correctly align image, regardless of content height: */
-  vertical-align: left;
-  display: inline-block;
-  /* To horizontally center images and caption */
-  text-align: center;
-  /* The width of the container also implies margin around the images. */
-  width: 450px;
-}
-
-img {
-  width: 450px;
-  height: 450px;
-}
-
-.caption {
-  /* Make the caption a block so it occupies its own line. */
-  display: block;
-}
