@@ -50,7 +50,7 @@ _Figure 1 Illustrates the general design of the studies. Students were divided i
 
 In the beginning, both Interim and No-Interim groups allocated the same amount of time to study the material. However, while the participants that has been tested regularly kept their motivation and effort on the same level over time, the group that have not been tested until the List 5 gradually reduced their effort.
 
-<i> <img src="/post/images/time.png" align = "left" width = "500" height = "500" style="padding-right: 30px">
+<i> <img src="/post/images/time.png" align = "left" width = "500" height = "500" style="padding-right: 30px; border-right: 2px solid #97BEC6;">
 
 <br>
 <br>
