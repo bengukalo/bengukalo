@@ -117,6 +117,7 @@ Forward testing effect is also seen in ‘transfer of learning’, where partici
 Research that is conducted by Shanks and his colleagues related to errorful generation provides some evidence that people learn better by trial and error. Participants were either asked to read and memorise word translations or presented with a Swahili-word and asked to make a guess right away. As result, the group who made wrong guesses and got corrected afterwards scored higher than the group who only studied the material.
 
 
+<p>
 <div class="item">
     <img src="/post/images/figure.png"/>
     <span class="caption"> Figure 5. Shows the grade that groups received in Generate and Read conditions. Participants who generated an errorful answer instead of studying the material scored higher in the final test. </span>
@@ -130,6 +131,8 @@ Research that is conducted by Shanks and his colleagues related to errorful gene
 
 Interestingly, participants do not seem to get confused by the error that they generate. Rather than remembering their incorrect reply, they are able to provide the actual answer.
 Other studies demonstrated that when students are very confident on their wrong answer, they are more likely to remember the correct answer after they have been corrected. Researchers theorized that when the students strongly believe that their answer is correct, they pay more attention to corrective feedbacks. Element of surprise might also be effective in remembering such moments. A well-known phenomenon in cognitive psychology claims that we remember events better if it consists novel moments.
+
+</p>
 
 &nbsp;
 
