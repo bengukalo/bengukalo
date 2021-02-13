@@ -60,7 +60,7 @@ Additionally, Shanks found out that Interim group was able to remember twice as 
 
 In his next study, Dr. Shanks and his colleagues used face and name pairs while leaving the design as it was on Swahili-English word pairs. Researchers preferred this material in order to confirm that benefits of testing are not limited to one type of study material. This time, they found that Interim group steadily increased their allocation of time instead of keeping it the same across lists. In addition, they had less proactive interference than No-Interim group, which refers to mistakenly recalling words from previous lists. On the other hand, No-Interim group decrease their effort over time. As result, participants who took Interim tests got better results after each test.
 
-<i> <img src="/post/images/stimuli.png" align = "left" width = "500" height = "600">
+<i style = "font-size: 12px"> <img src="/post/images/stimuli.png" align = "left" width = "500" height = "600">
 Figure 3. Representation of face-name pair design. This task consisted memorizing pictures of different faces and their names. In the interim test students were expected to provide correct names for each face. </i>
 
 &nbsp;
