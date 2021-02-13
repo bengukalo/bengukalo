@@ -346,13 +346,8 @@ mark {
    background: linear-gradient(to top, #97BEC6 80%, white 20%, white 20%);
 }
 
-p:first-child:first-letter {
-  color: #5D7B6F;
-  float: left;
-  font-family: Montserrat;
-  font-size: 75px;
-  line-height: 60px;
-  padding-top: 4px;
-  padding-right: 8px;
-  padding-left: 3px;
+
+.subhead {
+  initial-letter: 2;
+  color: orange
 }
