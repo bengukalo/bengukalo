@@ -32,7 +32,7 @@ projects: []
 
 <p class="subhead">Deciding on a learning strategy without help can be a complex procedure. Efficient learning is only viable if the learner has the skills to initiate the learning autonomusly, and afterwards manage its processing and storage. These are known as learning strategies in the education field. An efficient learning strategy is the single most important possession in our academic life. But how do we decide which strategy is better to use? Not surprisingly, there is a growing body of research on this question.</p>
 
-<a id="button" href="https://bengukalo.rbind.io/post/how-fmri-is-used/"> > </a> </div>Read the History of Teacup Giraffes
+<a class="button" href="https://bengukalo.rbind.io/post/how-fmri-is-used/"> > </a> </div>Read the History of Teacup Giraffes
 
 Positive effects of testing the memory is studied for exactly a century now. These researches predominantly agree on testing actually help us learn better by keeping us motivated. Yet, many people believe over-testing children can have detrimental effects like anxiety. According to Dr. David Shanks, these complaints are based on the assumption that the main reason of testing is to assess the knowledge. Deputy Dean of the Faculty of Brain Sciences at University College London, Dr. Shanks have dedicated his life in human learning and memory research. [**During an invited talk at University of Edinburgh**](https://www.youtube.com/watch?v=HWCWnqLmTuo), he explained why regularly testing ourselves is a better learning strategy than others, such as  reading the material over and over again.
 
