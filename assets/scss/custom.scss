@@ -361,11 +361,15 @@ mark {
 
 
 .vertical-hr {
-  margin-top: -20px;
-  margin-left: 10px;
-  margin-right: 10px;
-	width:0.2%;
-	height: 250px;
-	float:left;	
-	background-color:#97BEC6;
+  border-left: #97BEC6 0.3em solid;
+  background-color:transparent;
+  padding: 1em;
+  margin: 1em 0;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-size: 70px;
+  background-repeat: no-repeat;
+  background-position: 15px center;
+  min-height: 120px;
+  font-style: italic;
 }
