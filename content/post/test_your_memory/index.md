@@ -50,17 +50,18 @@ _Figure 1 Illustrates the general design of the studies. Students were divided i
 
 In the beginning, both Interim and No-Interim groups allocated the same amount of time to study the material. However, while the participants that has been tested regularly kept their motivation and effort on the same level over time, the group that have not been tested until the List 5 gradually reduced their effort.
 
-<i> <img src="/post/images/time.png" align = "left" width = "650" height = "650">
+<p> <img src="/post/images/time.png" align = "left" width = "650" height = "650">
 
- <div style='width: 400px; text-align: left;'> Figure 2. Depicts the results of the first study. Interim group maintains their motivation while No-Interim group loses the motivation over time. </div>
-
-</i>
-
-&nbsp;
-&nbsp;
-
+ <div style='width: 400px; text-align: center;'> Figure 2. Depicts the results of the first study. Interim group maintains their motivation while No-Interim group loses the motivation over time. </div>
 
 Additionally, Shanks found out that Interim group was able to remember twice as much of the No-Interim group. This is because anticipating an exam keeps our motivation at a high level. Motivation is a source that governs and maintains our behaviour. It consists goals, thus calls for action. Goals supply us the incentive for action whilst action requires individuals to make effort. In the essence, this is what leads us to maintain our focus for extended period of time. In return, these individuals succeed so they can ‘have some kind of reward or abstain from the punishment’, such as receiving good or bad grades. This is just one example among many similar findings. It is not very surprising that taking tests can enhance the retention of that particular material. What is quite unexpected is that doing so can also enhance the memorising and retention of different information in the same domain. For instance, studying correlation analysis for statistics exam also help us learn regression in the future. Dr. Shanks’s main interest lays on this phenomenon which is called ‘forward testing effect’.
+</p>
+
+&nbsp;
+&nbsp;
+
+
+
 
 In his next study, Dr. Shanks and his colleagues used face and name pairs while leaving the design as it was on Swahili-English word pairs. Researchers preferred this material in order to confirm that benefits of testing are not limited to one type of study material. This time, they found that Interim group steadily increased their allocation of time instead of keeping it the same across lists. In addition, they had less proactive interference than No-Interim group, which refers to mistakenly recalling words from previous lists. On the other hand, No-Interim group decrease their effort over time. As result, participants who took Interim tests got better results after each test.
 
