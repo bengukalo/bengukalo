@@ -13,15 +13,15 @@ lastmod: ''
 featured: "/content/post/caravaggio.jpg"
 output:
   blogdown::html_page:
-    dev: svg
+    includes:
+      in_header: /content/post/caravaggio.jpg
 image:
   caption: ''
   focal_point: Center
   preview_only: true
 twitterImg: "/content/post/caravaggio.jpg"
 projects: []
-includes:
-  in_header: /content/post/caravaggio.jpg
+
 
 ---
 
