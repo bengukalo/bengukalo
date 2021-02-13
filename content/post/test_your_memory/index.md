@@ -55,8 +55,7 @@ In the beginning, both Interim and No-Interim groups allocated the same amount o
 <br>
 <br>
 <br>
-<br>
-<br>
+
 
 Figure 2. Depicts the results of the first study. Interim group maintains their motivation while No-Interim group loses the motivation over time.
 
@@ -82,8 +81,6 @@ Figure 3. Representation of face-name pair design. This task consisted memorizin
 
 <i> <img src="/post/images/results.png" align = "left" width = "500" height = "500">
 
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -124,8 +121,6 @@ Research that is conducted by Shanks and his colleagues related to errorful gene
 
 <i> <img src="/post/images/figure.png" align = "left" width = "500" height = "500">
 
-<br>
-<br>
 <br>
 <br>
 <br>
