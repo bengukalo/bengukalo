@@ -30,7 +30,7 @@ projects: []
 &nbsp;
 
 
-<p class="subhead">A few months ago, I started to learn how to create a blog using R Markdown from scracth.</p> Initially, I had absolutely no idea about CSS. Right after launching my own blog, I came across with the [**bookdown website of Yihui**](https://bookdown.org/yihui/blogdown/output-format.html) and saw some really cute colourful boxes there. It seemed like a great way to highlight important information, so I started to search for the code of these colourful boxes.
+<p class="subhead">A few months ago, I started to learn how to create a blog using R Markdown from scracth.</p> Initially, I had absolutely no idea about CSS. Right after launching my own blog, I came across with the <a href="https://bookdown.org/yihui/blogdown/output-format.html"> <b>bookdown website of Yihui</b></a> and saw some really cute colourful boxes there. It seemed like a great way to highlight important information, so I started to search for the code of these colourful boxes.
 
 
 
