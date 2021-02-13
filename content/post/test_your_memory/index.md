@@ -50,22 +50,19 @@ _Figure 1 Illustrates the general design of the studies. Students were divided i
 
 In the beginning, both Interim and No-Interim groups allocated the same amount of time to study the material. However, while the participants that has been tested regularly kept their motivation and effort on the same level over time, the group that have not been tested until the List 5 gradually reduced their effort.
 
-<figure>
-<i> <img src="/post/images/time.png" align = "left" width = "500" height = "600" alt = ">
-
-<figcaption> Figure 2 Depicts the results of the first study. Interim group maintains their motivation while No-Interim group loses the motivation over time. </figcaption>
+<i> <img src="/post/images/time.png" align = "left" width = "650" height = "650">
 
 &nbsp;
 
-Additionally, Shanks found out that Interim group was able to remember twice as much of the No-Interim group. This is because anticipating an exam keeps our motivation at a high level. Motivation is a source that governs and maintains our behaviour. It consists goals, thus calls for action. Goals supply us the incentive for action whilst action requires individuals to make effort. In the essence, this is what leads us to maintain our focus for extended period of time. In return, these individuals succeed so they can ‘have some kind of reward or abstain from the punishment’, such as receiving good or bad grades. This is just one example among many similar findings. It is not very surprising that taking tests can enhance the retention of that particular material. What is quite unexpected is that doing so can also enhance the memorising and retention of different information in the same domain. For instance, studying correlation analysis for statistics exam also help us learn regression in the future. Dr. Shanks’s main interest lays on this phenomenon which is called ‘forward testing effect’.
+Figure 2 Depicts the results of the first study. Interim group maintains their motivation while No-Interim group loses the motivation over time.
 
 </i>
-</figure>
 
+&nbsp;
 &nbsp;
 
 
-
+Additionally, Shanks found out that Interim group was able to remember twice as much of the No-Interim group. This is because anticipating an exam keeps our motivation at a high level. Motivation is a source that governs and maintains our behaviour. It consists goals, thus calls for action. Goals supply us the incentive for action whilst action requires individuals to make effort. In the essence, this is what leads us to maintain our focus for extended period of time. In return, these individuals succeed so they can ‘have some kind of reward or abstain from the punishment’, such as receiving good or bad grades. This is just one example among many similar findings. It is not very surprising that taking tests can enhance the retention of that particular material. What is quite unexpected is that doing so can also enhance the memorising and retention of different information in the same domain. For instance, studying correlation analysis for statistics exam also help us learn regression in the future. Dr. Shanks’s main interest lays on this phenomenon which is called ‘forward testing effect’.
 
 In his next study, Dr. Shanks and his colleagues used face and name pairs while leaving the design as it was on Swahili-English word pairs. Researchers preferred this material in order to confirm that benefits of testing are not limited to one type of study material. This time, they found that Interim group steadily increased their allocation of time instead of keeping it the same across lists. In addition, they had less proactive interference than No-Interim group, which refers to mistakenly recalling words from previous lists. On the other hand, No-Interim group decrease their effort over time. As result, participants who took Interim tests got better results after each test.
 
@@ -75,13 +72,13 @@ In his next study, Dr. Shanks and his colleagues used face and name pairs while 
 
 Figure 3. Representation of face-name pair design. This task consisted memorizing pictures of different faces and their names. In the interim test students were expected to provide correct names for each face. </i>
 
-
+&nbsp;
 &nbsp;
 
 
 Increase in time allocation is just an effect of the material. When we meet someone new, it is challenging to keep their faces and names in mind. If we anticipate that we will be tested, it is only rational to spare more time for remembering this information. But how can we make sure that obtaining better results is not an effect of simply spending more time to memorise it? Shanks and his colleagues designed another study in order to clear up this question. This time, duration of studying was set the same for both groups. However, Interim group still maintained the amount of recall across the lists. They also remembered twice as much in the cumulative test as No-Interim group. Thus, researchers concluded that getting better results is related to the testing effect rather than the duration of a study session.
 
-<i> <img src="/post/images/results.png" align = "left" width = "500" height = "600">
+<i> <img src="/post/images/results.png" align = "left" width = "650" height = "650">
 
 &nbsp;
 
@@ -89,7 +86,7 @@ Figure 4 Shows the results of face-name pair study. Interim group remembered twi
 
 </i>
 
-
+&nbsp;
 &nbsp;
 
 
@@ -119,9 +116,15 @@ Forward testing effect is also seen in ‘transfer of learning’, where partici
 
 Research that is conducted by Shanks and his colleagues related to errorful generation provides some evidence that people learn better by trial and error. Participants were either asked to read and memorise word translations or presented with a Swahili-word and asked to make a guess right away. As result, the group who made wrong guesses and got corrected afterwards scored higher than the group who only studied the material.
 
-![](/post/images/figure.png)
-_Figure 5 Shows the grade that groups received in Generate and Read conditions. Participants who generated an errorful answer instead of studying the material scored higher in the final test._
+<i> <img src="/post/images/figure.png" align = "left" width = "650" height = "650">
 
+&nbsp;
+
+Figure 5 Shows the grade that groups received in Generate and Read conditions. Participants who generated an errorful answer instead of studying the material scored higher in the final test.
+
+</i>
+
+&nbsp;
 &nbsp;
 
 
