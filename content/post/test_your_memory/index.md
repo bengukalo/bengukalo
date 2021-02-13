@@ -20,6 +20,8 @@ image:
   preview_only: true
 twitterImg: "/content/post/caravaggio.jpg"
 projects: []
+includes:
+  in_header: /content/post/caravaggio.jpg
 
 ---
 
