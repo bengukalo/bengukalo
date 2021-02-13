@@ -120,7 +120,7 @@ Research that is conducted by Shanks and his colleagues related to errorful gene
 <p>
 <div class="item">
     <img src="/post/images/figure.png"/>
-    <span class="caption"> Figure 5. Shows the grade that groups received in Generate and Read conditions. Participants who generated an errorful answer instead of studying the material scored higher in the final test. </span>
+    <span class="caption"> <i>Figure 5. Shows the grade that groups received in Generate and Read conditions. Participants who generated an errorful answer instead of studying the material scored higher in the final test. </i> </span>
 </div>
 
 
