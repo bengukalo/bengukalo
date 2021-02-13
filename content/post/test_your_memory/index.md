@@ -119,11 +119,10 @@ Research that is conducted by Shanks and his colleagues related to errorful gene
 
 
 <div class="item">
-    <img src="/post/images/figure.png"/>
-    <span class="caption"> <i>Figure 5. Shows the grade that groups received in Generate and Read conditions. Participants who generated an errorful answer instead of studying the material scored higher in the final test. </i> </span>
-
+   <p> <img src="/post/images/figure.png"/> 
 Interestingly, participants do not seem to get confused by the error that they generate. Rather than remembering their incorrect reply, they are able to provide the actual answer.
-Other studies demonstrated that when students are very confident on their wrong answer, they are more likely to remember the correct answer after they have been corrected. Researchers theorized that when the students strongly believe that their answer is correct, they pay more attention to corrective feedbacks. Element of surprise might also be effective in remembering such moments. A well-known phenomenon in cognitive psychology claims that we remember events better if it consists novel moments.
+Other studies demonstrated that when students are very confident on their wrong answer, they are more likely to remember the correct answer after they have been corrected. Researchers theorized that when the students strongly believe that their answer is correct, they pay more attention to corrective feedbacks. Element of surprise might also be effective in remembering such moments. A well-known phenomenon in cognitive psychology claims that we remember events better if it consists novel moments.</p>
+    <span class="caption"> <i>Figure 5. Shows the grade that groups received in Generate and Read conditions. Participants who generated an errorful answer instead of studying the material scored higher in the final test. </i> </span>
 </div>
 
 
