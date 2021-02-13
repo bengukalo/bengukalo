@@ -86,6 +86,7 @@ Figure 3. Representation of face-name pair design. This task consisted memorizin
 <br>
 <br>
 <br>
+<br>
 
 Figure 4. Shows the results of face-name pair study. Interim group remembered twice as much pairs than No-Interim group in the final test.
 
