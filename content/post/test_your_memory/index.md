@@ -50,19 +50,16 @@ _Figure 1 Illustrates the general design of the studies. Students were divided i
 
 In the beginning, both Interim and No-Interim groups allocated the same amount of time to study the material. However, while the participants that has been tested regularly kept their motivation and effort on the same level over time, the group that have not been tested until the List 5 gradually reduced their effort.
 
-<i> <img src="/post/images/time.png" align = "left" width = "650" height = "650">
+<i> <img src="/post/images/time.png" align = "left" width = "500" height = "500">
 
-&nbsp;
-&nbsp;
-&nbsp;
+&emsp;
 
 
 Figure 2. Depicts the results of the first study. Interim group maintains their motivation while No-Interim group loses the motivation over time.
 
 </i>
 
-&nbsp;
-&nbsp;
+&ensp;
 
 
 Additionally, Shanks found out that Interim group was able to remember twice as much of the No-Interim group. This is because anticipating an exam keeps our motivation at a high level. Motivation is a source that governs and maintains our behaviour. It consists goals, thus calls for action. Goals supply us the incentive for action whilst action requires individuals to make effort. In the essence, this is what leads us to maintain our focus for extended period of time. In return, these individuals succeed so they can ‘have some kind of reward or abstain from the punishment’, such as receiving good or bad grades. This is just one example among many similar findings. It is not very surprising that taking tests can enhance the retention of that particular material. What is quite unexpected is that doing so can also enhance the memorising and retention of different information in the same domain. For instance, studying correlation analysis for statistics exam also help us learn regression in the future. Dr. Shanks’s main interest lays on this phenomenon which is called ‘forward testing effect’.
@@ -75,13 +72,12 @@ In his next study, Dr. Shanks and his colleagues used face and name pairs while 
 
 Figure 3. Representation of face-name pair design. This task consisted memorizing pictures of different faces and their names. In the interim test students were expected to provide correct names for each face. </i>
 
-&nbsp;
-&nbsp;
+&ensp;
 
 
 Increase in time allocation is just an effect of the material. When we meet someone new, it is challenging to keep their faces and names in mind. If we anticipate that we will be tested, it is only rational to spare more time for remembering this information. But how can we make sure that obtaining better results is not an effect of simply spending more time to memorise it? Shanks and his colleagues designed another study in order to clear up this question. This time, duration of studying was set the same for both groups. However, Interim group still maintained the amount of recall across the lists. They also remembered twice as much in the cumulative test as No-Interim group. Thus, researchers concluded that getting better results is related to the testing effect rather than the duration of a study session.
 
-<i> <img src="/post/images/results.png" align = "left" width = "650" height = "650">
+<i> <img src="/post/images/results.png" align = "left" width = "500" height = "500">
 
 &nbsp;
 
@@ -89,8 +85,7 @@ Figure 4. Shows the results of face-name pair study. Interim group remembered tw
 
 </i>
 
-&nbsp;
-&nbsp;
+&ensp;
 
 
 By receiving tests regularly, students gain experience about how difficult these tests are. Thus, tests prompt students to evaluate their learning strategies and find more efficient ways to learn. This is where **metacognition** comes into the picture. Metacognition refers to knowing when and how to use strategies in order to learn better. Researchers explored if participants are aware that in absence of testing, learning will be reduced at the end of each list. And if they are aware that when tested regularly, they will maintain their rate of learning across the lists. At the end of each list researchers asked all the participants to evaluate how many items they think they can remember if they received a test. Consequently, participants who did not receive interim test diminished their confidence rating much more than those who received tests. This is particularly important because metacognition requires effective control of motivation, therefore it can enhance the persistence at challenging tasks. Utilising a strategy to overcome challenges requires a lot of effort and consumes significant amount of time. Thus, it is known to be a good indicator of students’ engagement in the material and their performances in class. What we know from behavioural studies is that highly motivated students will carry on even the task is very challenging, whilst students with low motivation tend to diminish their effort in the same condition. 
@@ -120,7 +115,7 @@ Forward testing effect is also seen in ‘transfer of learning’, where partici
 Research that is conducted by Shanks and his colleagues related to errorful generation provides some evidence that people learn better by trial and error. Participants were either asked to read and memorise word translations or presented with a Swahili-word and asked to make a guess right away. As result, the group who made wrong guesses and got corrected afterwards scored higher than the group who only studied the material.
 
 
-<i> <img src="/post/images/figure.png" align = "left" width = "650" height = "650">
+<i> <img src="/post/images/figure.png" align = "left" width = "500" height = "500">
 
 &nbsp;
 
@@ -128,8 +123,7 @@ Figure 5. Shows the grade that groups received in Generate and Read conditions. 
 
 </i>
 
-&nbsp;
-&nbsp;
+&ensp;
 
 
 Interestingly, participants do not seem to get confused by the error that they generate. Rather than remembering their incorrect reply, they are able to provide the actual answer.
