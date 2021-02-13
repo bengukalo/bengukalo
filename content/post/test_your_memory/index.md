@@ -56,6 +56,8 @@ In the beginning, both Interim and No-Interim groups allocated the same amount o
 <br>
 <br>
 <br>
+<br>
+<br>
 
 Figure 2. Depicts the results of the first study. Interim group maintains their motivation while No-Interim group loses the motivation over time.
 
@@ -70,7 +72,12 @@ In his next study, Dr. Shanks and his colleagues used face and name pairs while 
 
 <i> <img src="/post/images/stimuli.png" align = "left" width = "500" height = "600">
 
-&nbsp;
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 Figure 3. Representation of face-name pair design. This task consisted memorizing pictures of different faces and their names. In the interim test students were expected to provide correct names for each face. </i>
 
@@ -119,7 +126,12 @@ Research that is conducted by Shanks and his colleagues related to errorful gene
 
 <i> <img src="/post/images/figure.png" align = "left" width = "500" height = "500">
 
-&nbsp;
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 Figure 5. Shows the grade that groups received in Generate and Read conditions. Participants who generated an errorful answer instead of studying the material scored higher in the final test.
 
