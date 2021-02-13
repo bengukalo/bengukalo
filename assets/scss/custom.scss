@@ -362,6 +362,7 @@ mark {
 
 .button {
   background: rgb(151, 190, 198, 0.4);
+  color: white;
   border: none;
   font-family: Montserrat;
   padding: 15px 32px;
@@ -374,13 +375,4 @@ mark {
   width: 60px;
   border-radius: 100%;
   
-}
-a,
-button {
-  font-size: 18px;
-  padding: 10px;
-  color: white;
-  display: inline;
-  border: 0;
-  text-decoration: none;
 }
