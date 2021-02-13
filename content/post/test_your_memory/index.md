@@ -116,13 +116,13 @@ Forward testing effect is also seen in ‘transfer of learning’, where partici
 
 Research that is conducted by Shanks and his colleagues related to errorful generation provides some evidence that people learn better by trial and error. Participants were either asked to read and memorise word translations or presented with a Swahili-word and asked to make a guess right away. As result, the group who made wrong guesses and got corrected afterwards scored higher than the group who only studied the material.
 
-<i> <img src="/post/images/figure.png" align = "left" width = "650" height = "650">
 
-&nbsp;
+<div class="item">
+    <img src="/post/images/figure.png"/>
+    <span class="caption"> Figure 5. Shows the grade that groups received in Generate and Read conditions. Participants who generated an errorful answer instead of studying the material scored higher in the final test. </span>
+</div>
 
-Figure 5 Shows the grade that groups received in Generate and Read conditions. Participants who generated an errorful answer instead of studying the material scored higher in the final test.
 
-</i>
 
 &nbsp;
 &nbsp;
