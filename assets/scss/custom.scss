@@ -39,7 +39,7 @@ body {
   /*----NAV LINK HOVER ANIMATION -----*/
   
   .nav-link:hover {
-    color:#97BEC6 !important;
+    color:#5D7B6F !important;
   }
   
   
@@ -64,7 +64,7 @@ body {
     width: 0%;
     content: '.'; /* make invisible, dot beneath links */
     color: transparent;
-    background:#97BEC6;
+    background:#5D7B6F;
     height: 2px;
   }
   
@@ -343,5 +343,5 @@ nav#navbar-main li {
 }
 
 mark {
-  background-color: #97BEC6;
+   background-color: linear-gradient(to top,#97BEC6 70%, white 20%, white 30%);
 }
