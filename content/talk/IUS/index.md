@@ -11,7 +11,7 @@ location: Zoom
   #postcode: '94305'
   #country: United States
 
-summary: Regularly testing ourselves is a better learning strategy than others, such as reading the material over and over again.
+summary: I will be addressing how regularly testing ourselves is a better learning strategy than others, such as reading the material over and over again.
 abstract: "An efficient learning strategy is the single most important possession in our academic life. But how do we decide which strategy is better to use? Not surprisingly, there is a growing body of research on this question."
 
 # Talk start and end times.
