@@ -46,5 +46,3 @@ url_video: ""
 math: true
 
 ---
-
-{{< figure src="featured.png" >}}
