@@ -31,7 +31,6 @@ featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: Right
-  featured: true
   preview_only: false
 
 links:
