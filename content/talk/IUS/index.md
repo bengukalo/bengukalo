@@ -1,5 +1,5 @@
 ---
-title: A Glipse of the Forward Testing Effect
+title: A Glimpse of the Forward Testing Effect
 event: International Psychology Students Events
 event_url: 
 
