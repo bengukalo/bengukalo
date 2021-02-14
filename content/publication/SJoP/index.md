@@ -33,9 +33,9 @@ tags:
 - Clinical Psychology
 featured: true
 
-links:
- - name: "Article"
-   url: "https://onlinelibrary.wiley.com/doi/full/10.1111/sjop.12634?casa_token=awSo5J4WVuUAAAAA%3AJReYoEIsEda3GwGjYhYCGmboLc2RdKFoflh7mCu9zN4Oq059KxY7A4HQxHPck7rXbXKweCjKOJQu8w"
+#links:
+ #- name: "Article"
+   #url: ""
 
 url_pdf:
 url_code: ''
