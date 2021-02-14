@@ -26,7 +26,7 @@ abstract:
 summary: 
 
 tags:
-- Cognitive Neuropsychology Psychology
+- Cognitive Neuropsychology
 
 featured: true
 

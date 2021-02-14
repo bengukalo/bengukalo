@@ -26,7 +26,7 @@ abstract: Ever since the idea of hierarchy within visual cortex was introduced, 
 summary: 
 
 tags:
-- Cognitive Neuropsychology Psychology
+- Cognitive Neuropsychology
 featured: true
 
 #links:
