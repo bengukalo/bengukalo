@@ -17,6 +17,12 @@ url_project = ""
 url_slides = ""
 url_video = ""
 
+links =
+- icon: twitter
+  icon_pack: fab
+  name: Article
+  url: "https://onlinelibrary.wiley.com/doi/full/10.1111/sjop.12634?casa_token=awSo5J4WVuUAAAAA%3AJReYoEIsEda3GwGjYhYCGmboLc2RdKFoflh7mCu9zN4Oq059KxY7A4HQxHPck7rXbXKweCjKOJQu8w"
+
 [[url_custom]]
 name = "View Journal Article"
 url = "https://onlinelibrary.wiley.com/doi/full/10.1111/sjop.12634?casa_token=awSo5J4WVuUAAAAA%3AJReYoEIsEda3GwGjYhYCGmboLc2RdKFoflh7mCu9zN4Oq059KxY7A4HQxHPck7rXbXKweCjKOJQu8w"
