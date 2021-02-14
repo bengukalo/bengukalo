@@ -69,7 +69,7 @@ Figure 2. Depicts the results of the first study. Interim group maintains their 
 
 In his next study, Dr. Shanks and his colleagues used face and name pairs while leaving the design as it was on Swahili-English word pairs. Researchers preferred this material in order to confirm that benefits of testing are not limited to one type of study material. This time, they found that Interim group steadily increased their allocation of time instead of keeping it the same across lists. In addition, they had less proactive interference than No-Interim group, which refers to mistakenly recalling words from previous lists. On the other hand, No-Interim group decrease their effort over time. As result, participants who took Interim tests got better results after each test.
 
-<i> <img src="/post/images/stimuli.png" align = "left" width = "500" height = "600" style="padding-right: 10px; border-right: 2px solid #97BEC6; margin-right: 20px;">
+<i> <img src="/post/images/stimuli.png" align = "left" width = "500" height = "600" style="border-right: 2px solid #97BEC6; margin-right: 20px;">
 
 <br>
 
