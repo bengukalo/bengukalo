@@ -34,7 +34,7 @@ tags:
 featured: true
 
 links:
- - name: "Journal"
+ - name: "Article"
    url: "https://onlinelibrary.wiley.com/doi/full/10.1111/sjop.12634?casa_token=awSo5J4WVuUAAAAA%3AJReYoEIsEda3GwGjYhYCGmboLc2RdKFoflh7mCu9zN4Oq059KxY7A4HQxHPck7rXbXKweCjKOJQu8w"
 
 url_pdf:
@@ -67,8 +67,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: 
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
 
