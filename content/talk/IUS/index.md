@@ -1,23 +1,23 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
-event_url: https://example.org
+title: A Glipse of the Forward Testing Effect
+event: International Psychology Students Events
+event_url: 
 
-location: Source Themes HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Zoom
+#address:
+  #street: 450 Serra Mall
+  #city: Stanford
+  #region: CA
+  #postcode: '94305'
+  #country: United States
 
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Regularly testing ourselves is a better learning strategy than others, such as reading the material over and over again.
+abstract: "An efficient learning strategy is the single most important possession in our academic life. But how do we decide which strategy is better to use? Not surprisingly, there is a growing body of research on this question."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-03-12T17:00:00Z"
+date_end: "2021-03-12T18:00:00Z"
 all_day: false
 
 publishDate: '2021-02-14'
@@ -29,14 +29,15 @@ tags: []
 featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: Right
+  featured: true
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/BenguKalo
 url_code: ""
 url_pdf: ""
 url_slides: ""
