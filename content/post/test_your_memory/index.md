@@ -20,9 +20,7 @@ image:
   preview_only: true
 twitterImg: "/content/post/caravaggio.jpg"
 projects: []
-links:
-  -name: "Video"
-   url_video: "https://www.youtube.com/watch?v=HWCWnqLmTuo"
+url_video: "https://www.youtube.com/watch?v=HWCWnqLmTuo"
 
 ---
 
