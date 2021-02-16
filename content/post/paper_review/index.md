@@ -21,9 +21,7 @@ image:
   focal_point: Center
   preview_only: true
 projects: []
-links:
- - name: "Article"
-   url: "https://www.sciencedirect.com/science/article/abs/pii/S1053811914007927?via%3Dihub"
+
 
 ---
 
