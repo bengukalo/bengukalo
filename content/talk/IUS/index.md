@@ -46,4 +46,4 @@ math: true
 
 ---
 
-![**IUSPAB**](3D0E814A-8D74-44BA-A660-3B6301654E73.jpeg)
+![**IUSPAB**](featured.jpg)
