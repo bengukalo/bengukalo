@@ -18,8 +18,8 @@ image:
   caption: ''
   focal_point: Center
   preview_only: true
-header: "caravaggio.jpg"
-  caption: "Caravaggio"
+header: 
+  image: "/content/post/header.jpg"
 twitterImg: "/content/post/caravaggio.jpg"
 projects: []
 
