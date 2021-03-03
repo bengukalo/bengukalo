@@ -19,7 +19,7 @@ image:
   focal_point: Center
   preview_only: true
 header: 
-  image: "/content/post/header.jpg"
+  image: "header.jpg"
 twitterImg: "/content/post/caravaggio.jpg"
 projects: []
 
