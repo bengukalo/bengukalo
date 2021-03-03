@@ -33,10 +33,10 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
+- icon: user-plus
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/BenguKalo
+  name: Sign Up
+  url: https://docs.google.com/forms/d/1Gm85oqOksaPnF4PkhpRdXtMRAth2OMbAXUyG8v3k4Sc/viewform?edit_requested=true
 url_code: ""
 url_pdf: ""
 url_slides: ""
