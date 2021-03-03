@@ -34,7 +34,7 @@ image:
 
 links:
 - icon: user
-  icon_pack: fab
+  icon_pack: fas
   name: Sign Up
   url: https://docs.google.com/forms/d/1Gm85oqOksaPnF4PkhpRdXtMRAth2OMbAXUyG8v3k4Sc/viewform?edit_requested=true
 url_code: ""
