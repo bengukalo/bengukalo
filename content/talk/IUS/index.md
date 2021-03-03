@@ -12,7 +12,7 @@ location: Zoom
   #country: United States
 
 summary: I will be addressing how regularly testing ourselves is a better learning strategy than others, such as reading the material over and over again.
-abstract: "An efficient learning strategy is the single most important possession in our academic life. But how do we decide which strategy is better to use? Not surprisingly, there is a growing body of research on this question."
+abstract: "An efficient learning strategy is the single most important possession in our academic life. But how do we decide which strategy is better to use? Not surprisingly, there is a growing body of research on this question. In this talk, I will be addressing how testing ourselves can not only can enhance the retention of that particular material, but also improves the memorisation and retention of different information in the same domain."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
