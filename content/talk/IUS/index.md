@@ -1,7 +1,7 @@
 ---
-title: A Glimpse of the Forward Testing Effect
+title: A Glimpse into the Forward Testing Effect
 event: International Psychology Students Events
-event_url: 
+event_url: https://docs.google.com/forms/d/1Gm85oqOksaPnF4PkhpRdXtMRAth2OMbAXUyG8v3k4Sc/viewform?edit_requested=true
 
 location: Zoom
 #address:
@@ -29,9 +29,8 @@ tags: []
 featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**IUSPAB**](/content/talk/IUS/featured/3D0E814A-8D74-44BA-A660-3B6301654E73.jpeg)'
   focal_point: Right
-  preview_only: false
 
 links:
 - icon: twitter
