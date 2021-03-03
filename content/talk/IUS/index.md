@@ -17,7 +17,7 @@ abstract: "An efficient learning strategy is the single most important possessio
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-03-12T17:00:00Z"
-date_end: "2021-03-12T18:00:00Z"
+date_end: "2021-03-12T17:30:00Z"
 all_day: false
 
 publishDate: '2021-02-14'
