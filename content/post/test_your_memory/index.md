@@ -164,5 +164,4 @@ Yang, C., Potts, R., & Shanks, D. R. (2018). Enhancing learning and retrieval of
 Yang, C., Chew, S. J., Sun, B., & Shanks, D. R. (2019). The forward effects of testing transfer to different domains of learning. Journal of Educational Psychology, 111(5), 809.
 ISO 690	
 
-Yang, C., Chew, S. J., Sun, B., & Shanks, D. R. (2019). The forward effects of testing transfer to different domains of learning. Journal of Educational Psychology, 111(5), 809.
-ISO 690	
+McDermott, K. B., Arnold, K. M., & Nelson, S. M. (2014). The testing effect. The SAGE handbook of applied memory, 183-200.
