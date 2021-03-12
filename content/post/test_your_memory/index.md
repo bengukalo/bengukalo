@@ -151,3 +151,18 @@ div.blue {
 <div class = "blue">
 Dr. Shanks concludes his talk by stating that testing memory and making mistakes in the process are one of the best learning strategies for students. Tests help students to monitor their learning and assess their current understanding while errors make the correct information more memorable by raising the level of attention.
 </div>
+
+<div class="about-border"></div>
+
+# References
+
+Yang, C., & Shanks, D. R. (2018). The forward testing effect: Interim testing enhances inductive learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 44(3), 485.
+ISO 690	
+
+Yang, C., Potts, R., & Shanks, D. R. (2018). Enhancing learning and retrieval of new information: a review of the forward testing effect. NPJ science of learning, 3(1), 1-9.
+
+Yang, C., Chew, S. J., Sun, B., & Shanks, D. R. (2019). The forward effects of testing transfer to different domains of learning. Journal of Educational Psychology, 111(5), 809.
+ISO 690	
+
+Yang, C., Chew, S. J., Sun, B., & Shanks, D. R. (2019). The forward effects of testing transfer to different domains of learning. Journal of Educational Psychology, 111(5), 809.
+ISO 690	
