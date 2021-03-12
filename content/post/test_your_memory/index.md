@@ -39,7 +39,7 @@ projects: []
 
 <span class="half_background"> Why testing help us learn better? </span>
 
-Expectation of interim tests simply help us maintain our focus and motivation while studying. For the first experiment of Dr. Shank, participants were asked to study Swahili translations of English words. Participants decided how much time they will allocate for studying the material. Both Interim and No-Interim groups knew that they will receive a final test, however they didn't know if they will receive an interim exam after studying each material.
+Expectation of interim tests simply help us maintain our focus and motivation while studying. For the first experiment of Dr. Shank, participants were asked to study Euskara translations of English words. Participants decided how much time they will allocate for studying the material. Both Interim and No-Interim groups knew that they will receive a final test, however they didn't know if they will receive an interim exam after studying each material.
 
 ![](/post/images/graph.png)
 _Figure 1 Illustrates the general design of the studies. Students were divided into two groups. In the first study, first group only studied the material while the second group received a test at the end of their study session. Math tests are used as control condition in all experiments._
@@ -66,7 +66,7 @@ Figure 2. Depicts the results of the first study. Interim group maintains their 
 
 <br clear=left>Additionally, Shanks found out that Interim group was able to remember twice as much of the No-Interim group. This is because anticipating an exam keeps our motivation at a high level. Motivation is a source that governs and maintains our behaviour. It consists goals, thus calls for action. Goals supply us the incentive for action whilst action requires individuals to make effort. In the essence, this is what leads us to maintain our focus for extended period of time. In return, these individuals succeed so they can ‘have some kind of reward or abstain from the punishment’, such as receiving good or bad grades. This is just one example among many similar findings. It is not very surprising that taking tests can enhance the retention of that particular material. What is quite unexpected is that doing so can also enhance the memorising and retention of different information in the same domain. For instance, studying correlation analysis for statistics exam also help us learn regression in the future. Dr. Shanks’s main interest lays on this phenomenon which is called ‘forward testing effect’.
 
-In his next study, Dr. Shanks and his colleagues used face and name pairs while leaving the design as it was on Swahili-English word pairs. Researchers preferred this material in order to confirm that benefits of testing are not limited to one type of study material. This time, they found that Interim group steadily increased their allocation of time instead of keeping it the same across lists. In addition, they had less proactive interference than No-Interim group, which refers to mistakenly recalling words from previous lists. On the other hand, No-Interim group decrease their effort over time. As result, participants who took Interim tests got better results after each test.
+In his next study, Dr. Shanks and his colleagues used face and name pairs while leaving the design as it was on Euskara-English word pairs. Researchers preferred this material in order to confirm that benefits of testing are not limited to one type of study material. This time, they found that Interim group steadily increased their allocation of time instead of keeping it the same across lists. In addition, they had less proactive interference than No-Interim group, which refers to mistakenly recalling words from previous lists. On the other hand, No-Interim group decrease their effort over time. As result, participants who took Interim tests got better results after each test.
 
 <i> <img src="/post/images/stimuli.png" align = "left" width = "500" height = "600" style="border-right: 2px solid #97BEC6; margin-right: 20px;">
 
@@ -108,7 +108,7 @@ Forward learning effect can be seen in learning abstract concepts as well. Shank
 _Saint Jerome Writing -_ [_incomplete work of Caravaggio_](https://borghese.gallery/collection/paintings/saint-jerome-writing.html) _(1605-6)_
 
 Later on, they were shown different paintings, and were asked to classify these according to which artist they belong to. In the cumulative test, Interim group scored higher than both No-Interim and Re-study group.
-Forward testing effect is also seen in ‘transfer of learning’, where participants study English-Swahili word pairs and are tested on something completely different like face-name pairs.
+Forward testing effect is also seen in ‘transfer of learning’, where participants study English-Euskara word pairs and are tested on something completely different like face-name pairs.
 
 &nbsp;
 
@@ -117,7 +117,7 @@ Forward testing effect is also seen in ‘transfer of learning’, where partici
 
 
 
-Research that is conducted by Shanks and his colleagues related to errorful generation provides some evidence that people learn better by trial and error. Participants were either asked to read and memorise word translations or presented with a Swahili-word and asked to make a guess right away. As result, the group who made wrong guesses and got corrected afterwards scored higher than the group who only studied the material.
+Research that is conducted by Shanks and his colleagues related to errorful generation provides some evidence that people learn better by trial and error. Participants were either asked to read and memorise word translations or presented with a Euskara-word and asked to make a guess right away. As result, the group who made wrong guesses and got corrected afterwards scored higher than the group who only studied the material.
 
 
 <i> <img src="/post/images/figure.png" align = "left" width = "500" height = "500" style="padding-right: 10px; border-right: 2px solid #97BEC6; margin-right: 20px;">
