@@ -7664,7 +7664,7 @@ footer p {
   text-align: center; }
 
 footer .powered-by {
-  font-size: 0rem; }
+  font-size: 0.67rem; }
 
 .site-footer,
 footer a.back-to-top i {
