@@ -29,9 +29,9 @@ date_format = "Jan 2006"
   """
   
 [[experience]]
-  title = "Working Group Member"
+  title = "Working Group Member and Blogger"
   company = "Edinburgh ReproducibiliTea, University of Edinburgh"
-  company_url = ""
+  company_url = "https://edopenresearch.com"
   location = "Edinburgh, United Kingdom"
   date_start = "2020-09-01"
   date_end = ""
