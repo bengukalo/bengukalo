@@ -1,3 +1,5 @@
 https://bengukalo.netlify.com/* https://bengukalo.rbind.io/:splat 301!
 http://bengukalo.netlify.com/* https://bengukalo.rbind.io/:splat 301!
 http://bengukalo.rbind.io/*    https://bengukalo.rbind.io/:splat  301!
+
+https://60886de6fc580812dbc79c42--bengukalo.netlify.app/* https://bengukalo.rbind.io/:splat 301!
