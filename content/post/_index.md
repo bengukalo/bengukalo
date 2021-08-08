@@ -2,7 +2,7 @@
 
 # Posts page
 
-title:    
+title: ""
 
 # View.
 #   1 = List
