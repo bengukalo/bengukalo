@@ -35,16 +35,6 @@ projects: []
 
 
 <style>
-div.yellow {
-    background-image: url("note.png");
-}
-</style>
-
-<div class = "yellow">
-An example note box.
-</div>
-
-<style>
 div.blue {
   background-image: url('lightbulb.png')
 }
