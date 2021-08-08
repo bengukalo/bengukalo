@@ -2,7 +2,7 @@
 name = "bengu"
 
 # Optional Google font URL
-google_fonts = "Roboto+Mono|Source+Sans+Pro:wght@300|Open+Sans:ital,wght@0,300;0,700;1,300;1,700|Montserrat:ital,wght@0,500;1,500;700|Raleway|Playfair+Display|Poppins:ital,wght@0,100;0,400;0,500;1,100;1,400;1,500"
+google_fonts = "Roboto+Mono|Source+Sans+Pro:wght@300|Open+Sans:ital,wght@0,300;0,700;1,300;1,700|Montserrat:ital,wght@0,500;1,500;700|Raleway|Playfair+Display|Poppins:wght@100;400;500"
 
 # Font families
 heading_font = "Poppins"
