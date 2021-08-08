@@ -9,7 +9,7 @@ title = "Contact"
 subtitle = ""
 
 [design.background]
-color = 'navy'
+color = 'SeaShell'
 
 # Automatically link email and phone?
 autolink = true
