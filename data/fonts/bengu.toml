@@ -6,6 +6,6 @@ google_fonts = "Roboto+Mono|Source+Sans+Pro:wght@300|Open+Sans:ital,wght@0,300;0
 
 # Font families
 heading_font = "Montserrat"
-body_font = "Open Sans"
+body_font = "Poppins"
 nav_font = "Montserrat"
 mono_font = "Roboto Mono"
