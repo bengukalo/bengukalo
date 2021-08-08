@@ -301,17 +301,12 @@ nav#navbar-main li {
 
 
  .half_background {
+ 
   font-size: 28px;
   font-family: Montserrat;
 }
 
-.about-border {
-  width: 200px;
-  height: 2px;
-  background: #d1946e;
-  margin: 20px auto;
-  
-}
+
 
 mark {
    background: linear-gradient(to top, #d1946e94 80%, white 20%, white 20%);
@@ -331,10 +326,3 @@ mark {
   background:  #d1946e;
 }
 
-.line{
-  width: 100%;
-  border-top: 1px solid #e6e6e6;
-  border-bottom: 1px solid #e6e6e6;
-  line-height: 30px;
-  position: absolute;
-  }

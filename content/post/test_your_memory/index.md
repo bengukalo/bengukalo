@@ -23,7 +23,6 @@ projects: []
 
 ---
 
-<div class="line"></div
 
 &nbsp;
 
