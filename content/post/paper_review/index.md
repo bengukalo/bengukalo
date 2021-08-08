@@ -9,7 +9,7 @@ tags:
 - Visual Perception
 - Cross-modal Plasticity
 - fMRI
-authors: [admin]
+authors: 
 lastmod: ''
 featured: '/post/paper_review/featured.jpg'
 output:

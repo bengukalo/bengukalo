@@ -9,7 +9,7 @@ tags:
 - Div Tips
 - RStudio
 - CSS
-authors: [admin]
+authors: 
 lastmod: ''
 featured: 'featured.png'
 output:
