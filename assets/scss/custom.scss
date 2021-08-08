@@ -94,11 +94,11 @@ body {
     padding-top: 2em;
     padding-bottom: 1em;
     font-weight: bold;
-    text-align: left; 
+    text-align: center; 
   }
   
   .article-style .section.level2 h1 {
-      text-align: center;
+      text-align: left;
   }
 
  
@@ -330,7 +330,7 @@ nav#navbar-main li {
 
 
  .half_background {
-  background: linear-gradient(to top, #b6643a 45%, white 20%, white 70%);
+  background: linear-gradient(to top, #d1946e 45%, white 20%, white 70%);
   font-size: 28px;
   font-family: Montserrat;
 }
@@ -358,7 +358,7 @@ mark {
   padding-left: 1px;
   float: left;
   position: relative;
-  color: #b6643a
+  color: #d1946e
 }
 
 #space {
@@ -368,5 +368,5 @@ mark {
 
 ::selection {
   color: white;
-  background:  #b6643a;
+  background:  #d1946e;
 }
