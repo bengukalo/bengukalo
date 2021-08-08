@@ -8,7 +8,7 @@ weight = 130  # Order that this section will appear.
 title = "Contact"
 subtitle = ""
 
-color = #debba4
+color = 'navy'
 
 # Automatically link email and phone?
 autolink = true
