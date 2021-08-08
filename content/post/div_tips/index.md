@@ -2,10 +2,9 @@
 
 title: How to Make Custom Note Boxes for MD Files
 subtitle: Using the custom div for the files with .md extension.
-date: 2021-01-05
+date: 
 slug: how-to-make-note-boxes
 categories:
-- Blogdown
 tags:
 - Div Tips
 - RStudio
