@@ -1,4 +1,7 @@
 ---
+
+# Posts page
+
 title: 
 
 # View.
