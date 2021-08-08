@@ -30,7 +30,7 @@ featured: true
 
 image:
   caption: 'Image credit: [**IUSPAB**](featured.jpg)'
-  focal_point: Centre
+  focal_point: top
   preview_only: true
 
 links:
