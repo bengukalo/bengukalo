@@ -23,7 +23,8 @@ projects: []
 
 ---
 
-
+<div class = 'about_border'>
+</div>
 
 &nbsp;
 
