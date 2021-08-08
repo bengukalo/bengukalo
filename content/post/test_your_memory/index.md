@@ -8,7 +8,8 @@ categories:
 tags:
 - Learning
 - Memory
-authors: [admin]
+authors: |
+ [admin]
 lastmod: ''
 featured: "/content/post/caravaggio.jpg"
 output:
