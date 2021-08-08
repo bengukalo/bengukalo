@@ -2,8 +2,7 @@
 
 # Posts page
 
-title: ""
-
+title: |
 # View.
 #   1 = List
 #   2 = Compact
