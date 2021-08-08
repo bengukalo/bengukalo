@@ -9,7 +9,7 @@ title = "Contact"
 subtitle = ""
 
 [design.background]
-color = 'floralwhite'
+# color = 'floralwhite'
 
 # Automatically link email and phone?
 autolink = true
