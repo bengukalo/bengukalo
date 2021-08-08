@@ -305,12 +305,12 @@ nav#navbar-main li {
   font-family: Montserrat;
 }
 
-.line {
-  border-top: 1px solid #e6e6e6;
-  border-bottom: 1px solid #e6e6e6;
-  height: 32px;
-  line-height: 30px;
-  margin: 0 auto;
+.about-border {
+  width: 200px;
+  height: 2px;
+  background: #d1946e;
+  margin: 20px auto;
+  
 }
 
 mark {
