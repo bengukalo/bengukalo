@@ -25,7 +25,7 @@ projects: []
 
 ---
 
-<div class="about-border"></div>
+
 
 &nbsp;
 
