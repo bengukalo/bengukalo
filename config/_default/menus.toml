@@ -30,7 +30,7 @@
   
 
  [[main]]
-  name = "<a href=\"mailto:someone@example.com">Contact</a>"
+  name = "<a href=\"mailto:someone@example.com\">Contact</a>"
   url = ""
   weight = 60
 
