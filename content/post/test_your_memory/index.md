@@ -14,7 +14,7 @@ output:
   blogdown::html_page:
     dev: svg
 image:
-  placement: 1
+  placement: 2
   caption: 'Photo by Wikipedia'
   focal_point: Center
   preview_only: false
