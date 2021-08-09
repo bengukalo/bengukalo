@@ -30,8 +30,8 @@
   
 
  [[main]]
-  name = "Contact"
-  url = "<a href="mailto:someone@example.com">Send email</a>"
+  name = "<a href="mailto:someone@example.com">Contact</a>"
+  url = ""
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
