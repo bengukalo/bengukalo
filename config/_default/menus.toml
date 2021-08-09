@@ -30,7 +30,7 @@
   
 
  [[main]]
-  name = "Contact <a href=\"mailto:bengukalo@gmail.com\"></a>"
+  "<a href=\"mailto:z@neurophysicole.com\"><i class='fas fa-envelope fa-5x'>fa-5x</i><br/></a>"
   url = ""
   weight = 60
 
