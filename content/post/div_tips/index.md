@@ -16,13 +16,12 @@ output:
   blogdown::html_page:
     dev: svg
 image:
+  placement: 3
   caption: ''
   focal_point: Center
-  preview_only: true
+  preview_only: false
 projects: []
-header:
-  image: "/code.jpg"
-  caption: "Yay! It works!"
+
 
 
 ---
