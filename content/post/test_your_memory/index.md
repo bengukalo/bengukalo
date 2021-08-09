@@ -14,9 +14,10 @@ output:
   blogdown::html_page:
     dev: svg
 image:
+  placement: 3
   caption: ''
   focal_point: Center
-  preview_only: true
+  preview_only: false
 twitterImg: "/content/post/caravaggio.jpg"
 projects: []
 
