@@ -17,7 +17,7 @@ output:
     dev: svg
 image:
   placement: 3
-  caption: ''
+  caption: 'Photo by Unsplash'
   focal_point: Center
   preview_only: false
 projects: []
