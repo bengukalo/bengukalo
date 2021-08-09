@@ -18,7 +18,7 @@ output:
 image:
   placement: 3
   caption: 'Photo by Unsplash'
-  focal_point: Top
+  focal_point: Center
   preview_only: false
 projects: []
 
