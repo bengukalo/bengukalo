@@ -16,7 +16,7 @@ output:
   blogdown::html_page:
     dev: svg
 image:
-  placement: 3
+  placement: 2
   caption: 'Photo by Unsplash'
   focal_point: Center
   preview_only: false
