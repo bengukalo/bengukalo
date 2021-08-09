@@ -29,7 +29,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "#contact"
+  link: mailto:bengukalo@gmail.com
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-4641-544X
