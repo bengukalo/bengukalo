@@ -11,15 +11,18 @@ tags:
 - CSS
 authors: 
 lastmod: ''
-featured: 'featured.png'
+featured: 'featured.jpg'
 output:
   blogdown::html_page:
     dev: svg
 image:
   caption: ''
   focal_point: Center
-  preview_only: true
+  preview_only: false
 projects: []
+header:
+  image: "featured.jpg"
+  caption: "Yay! It works!"
 
 
 ---
