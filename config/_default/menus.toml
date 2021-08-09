@@ -29,10 +29,10 @@
   weight = 50
   
 
- #[[main]]
-  #name = "Contact"
-  #url = "#contact"
-  #weight = 60
+ [[main]]
+  name = "Contact"
+  url = "<a href=\"mailto:bengukalo@gmail.com\"></a>"
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -41,8 +41,3 @@
 #    url = "files/cv.pdf"
 #    weight = 50
 
-[[main]]
-  name = "<a href=\"mailto:bengukalo@gmail.com\"><p>Contact</p></a>"
-  post = ""
-  url = ""
-  weight = 70
