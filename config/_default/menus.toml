@@ -30,7 +30,7 @@
   
 
  [[main]]
-  "<a href=\"mailto:z@neurophysicole.com\"><i class=\"far fa-envelope\" style=\"color: #111;\"></i></a>"
+  name = "<a href=\"mailto:bengukalo@gmail.com\"><i class=\"far fa-envelope\" style=\"color: #111;\"></i></a>"
   url = ""
   weight = 60
 
