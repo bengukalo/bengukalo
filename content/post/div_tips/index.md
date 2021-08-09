@@ -16,9 +16,9 @@ output:
   blogdown::html_page:
     dev: svg
 image:
-  placement: 2
+  placement: 3
   caption: 'Photo by Unsplash'
-  focal_point: Center
+  focal_point: Top
   preview_only: false
 projects: []
 
