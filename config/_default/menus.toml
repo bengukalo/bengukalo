@@ -30,7 +30,7 @@
   
 
  [[main]]
-  name = "<a href=\"mailto:bengukalo@gmail.com\"><i class=\"far fa-envelope\" style=\"color: #111;\"></i></a>"
+  name = "<a href=\"mailto:bengukalo@gmail.com\"><i class=\"far fa-envelope\fa-2x'>fa-2x" style=\"color: #111;\"></i></a>"
   url = ""
   weight = 60
 
