@@ -42,7 +42,7 @@
 #    weight = 50
 
 [[main]]
-  name = "<a href=\"mailto:bengukalo@gmail.com\"><p class="Contact"></p></a>"
+  name = "<a href=\"mailto:bengukalo@gmail.com\"><p>Contact</p></a>"
   post = ""
   url = ""
   weight = 70
