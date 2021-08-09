@@ -21,7 +21,7 @@ image:
   preview_only: true
 projects: []
 header:
-  image: "img/headers/code.jpg"
+  image: "static/img/headers/code.jpg"
   caption: "Yay! It works!"
 
 
