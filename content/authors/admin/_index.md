@@ -30,8 +30,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:bengukalo@gmail.com
-  display:
-    header: true
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-4641-544X
