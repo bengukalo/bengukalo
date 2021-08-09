@@ -18,10 +18,10 @@ output:
 image:
   caption: ''
   focal_point: Center
-  preview_only: false
+  preview_only: true
 projects: []
 header:
-  image: "featured.jpg"
+  image: "/headers/code.jpg"
   caption: "Yay! It works!"
 
 
