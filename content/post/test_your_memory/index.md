@@ -19,6 +19,8 @@ image:
   focal_point: Center
   preview_only: false
 twitterImg: "/content/post/caravaggio.jpg"
+cascade:
+  banner: "/content/post/caravaggio.jpg"
 projects: []
 
 ---
