@@ -20,8 +20,6 @@ image:
   caption: 'Photo by Unsplash'
   focal_point: Center
   preview_only: false
-header:
-  image: "header.png"
 projects: []
 
 
