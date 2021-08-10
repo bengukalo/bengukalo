@@ -1,19 +1,13 @@
----
-# An instance of the Blank widget with a Gallery page element.
-# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
-widget: blank
++++
+# About widget.
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 100  # Order that this section will appear in.
 
-# This file represents a page section.
-headless: true
 
-# Order that this section appears on the page.
-weight: 100
+title = "Gallery"
 
-title: Gallery
-subtitle:
-
-design:
-  columns: '2'
----
++++
 
 {{< gallery album="gallery" >}}
