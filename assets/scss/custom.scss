@@ -161,39 +161,6 @@ body {
       }
     }
 
-
-  /* HELLO image */
-  
-  .parallax {
-    background-position: center center;
-    padding-top: 100vh !important;
-    background-attachment: scroll !important; /*override 'fixed' for iOS problem */
-  }
-  
-  .parallax:after {
-    content:"";
-    position: fixed; /* stretch a fixed position to the whole screen */
-    top:0;
-    height:100vh; /* fix for mobile browser address bar appearing disappearing */
-    left:0;
-    right:0;
-    z-index:-1; /* needed to keep in the background */
-    background: url(/img/hello.jpg) center center;
-    -webkit-background-size: contain;
-    -moz-background-size: contain;
-    -o-background-size: contain;
-    background-size: contain;
-    background-repeat: no-repeat;
-  }
-  
-  @media screen and (max-width: 768px) {
-    .home-section.bg-image {
-      background-position-x: 39%;
-      background-size: 200%;
-      padding: 330px 0 275px 0;
-    }
-  }
-  
   
   
   
@@ -289,21 +256,10 @@ nav#navbar-main li {
   font-size: 16px;
  }
 
-
- .half_background {
- 
-  font-size: 28px;
-  font-family: Montserrat;
-}
-
-
-
 mark {
    background: linear-gradient(to top, #d1946e94 80%, white 20%, white 20%);
   color: white;
 }
-
-
 
 
 #space {
