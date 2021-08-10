@@ -10,4 +10,4 @@ title = "Gallery"
 
 +++
 
-{{< gallery album="gallery" >}}
+{{< gallery album="pictures" >}}
