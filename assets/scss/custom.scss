@@ -5,6 +5,10 @@ body {
     text-align: center;
     line-height: 1.9;
   }
+
+h1 {
+  margin-bottom: 20px;
+}
   
   .navbar {
     min-height: 75px !important;
@@ -166,11 +170,12 @@ body {
       }
     }
 
-  
+
+  /* Moves the interests and education to right */
     @media screen and (max-width: 768px) {
       .col-md-5,
       .col-md-7 {
-            margin-left: 15%;
+            margin-left: 10%;
       }
     }
 
