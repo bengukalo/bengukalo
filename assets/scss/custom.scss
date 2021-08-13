@@ -181,8 +181,11 @@ body {
 /* Fizes the  image previews on mobile */
 @media screen and (max-width: 768px) {
     .ml-3 img{
-      height: 100%;
-      object-position: center;
+      top: -50%;
+      left: -50%;
+      bottom: -50%;
+      right: -50%;
+      position: absolute;
     }
   }
 
