@@ -33,7 +33,6 @@ body {
   @media (max-width: 991.98px) { 
     .navbar-collapse {
       background-color: #fcfcfc !important;
-      width: 30%;
     }
   }
   
@@ -45,8 +44,9 @@ body {
   }
   
   
-  /* stroke */
+  /* stroke only for desktop*/
   
+  @media (max-width: 1280px) { 
   a.nav-link,
   a.nav-link:after,
   a.nav-link:before {
@@ -73,7 +73,7 @@ body {
   a.nav-link:hover:after {
     width: 70%;
   }
-
+  }
   
   /*----------------------------------*/
   
