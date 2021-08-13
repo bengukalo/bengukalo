@@ -179,6 +179,11 @@ body {
       }
     }
 
+/* Removes the Talks section images on mobile */
+@media screen and (max-width: 768px) {
+    .ml-3 img{
+      display: none;
+    }
 
   /* MOBILE PROJECTS PAGE */
   /* Adds small gap between feature img and Title */
@@ -288,6 +293,4 @@ mark {
   background:  #d1946e;
 }
 
-.ml-3 img{
-  display: none;
-}
+
