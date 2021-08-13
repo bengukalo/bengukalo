@@ -168,11 +168,9 @@ body {
 
   
     @media screen and (max-width: 768px) {
+      .col-md-5,
       .col-md-5 {
-        margin-top: 15px !important;
-        display: flex;
-        justify-content: left;
-        align-items: center;
+            margin-left: 50%;
       }
     }
 
