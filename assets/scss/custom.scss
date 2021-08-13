@@ -36,6 +36,12 @@ body {
     }
   }
   
+  @media (max-width: 991.98px) { 
+  a.nav-link:hover:after {
+    width: 70%;
+    position: relative;
+  }
+}
   /*----NAV LINK HOVER ANIMATION -----*/
   
   .nav-link:hover {
@@ -250,7 +256,7 @@ div.blue { background-color:#f0e7da00; padding: 1em;
   padding-top: 50px;
 }
 
-/* Font in Navbar */
+/* Font size in Navbar */
 
 nav#navbar-main li {
   font-size: 16px;
