@@ -168,9 +168,8 @@ body {
 
   
     @media screen and (max-width: 768px) {
-      main {
-      display: grid;
-      grid-template-columns: 1fr;
+      .row {
+      align-items: center;
       }
     }
 
