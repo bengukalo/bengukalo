@@ -186,10 +186,9 @@ body {
     }
   }
 
-  /* Fixes the Talks section image heights and removes the awful filter */
+  /* Fixes the Talks section image heights */
   .ml-3 img{
     max-height: 100%;
-    filter: saturate(-10);
   }
 
   /* MOBILE PROJECTS PAGE */
@@ -230,6 +229,7 @@ body {
     padding: 0 40px 0 40px;
     margin: 0 auto 0 auto;
     font-size: 17px;
+    text-align: justify;
   }
 
 .home-section.wg-projects {
