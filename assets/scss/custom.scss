@@ -6,7 +6,8 @@ body {
     line-height: 1.9;
   }
 
-h1 {
+#home h1 {
+  font-size: 30px;
   margin-bottom: 40px;
   margin-right: 20px;
 }
@@ -190,7 +191,7 @@ h1 {
   
 /* Get rid of the image in Talks section on mobile */
   @media screen and (max-width: 768px) {
-    .ml-3{
+    .ml-3 img{ 
       display: none;
     }
   
