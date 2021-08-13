@@ -44,7 +44,7 @@ body {
   }
   
   
-  /* stroke only for desktop*/
+  /* stroke animation, only for desktop and tablet size screens*/
   
   @media (min-width: 768px) { 
   a.nav-link,
@@ -273,4 +273,9 @@ mark {
 ::selection {
   color: white;
   background:  #d1946e;
+}
+
+
+.logo{
+  font-size: 30px;
 }
