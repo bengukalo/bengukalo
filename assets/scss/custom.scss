@@ -168,8 +168,8 @@ body {
 
   
     @media screen and (max-width: 768px) {
-      .row {
-      display: none;
+      .home-section.wg-about {
+      justify-content: space-evenly;
       }
     }
 
