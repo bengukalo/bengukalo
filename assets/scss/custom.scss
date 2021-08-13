@@ -169,8 +169,8 @@ body {
   
     @media screen and (max-width: 768px) {
       .col-md-5 {
+        margin-top: 15px !important;
         display: flex;
-        flex-flow: row wrap;
         justify-content: left;
         align-items: center;
       }
