@@ -174,7 +174,7 @@ body {
     @media screen and (max-width: 768px) {
       .col-md-5,
       .col-md-7 {
-            margin-left: 10%;
+            float: left;
       }
     }
 
