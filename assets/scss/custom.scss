@@ -74,9 +74,8 @@ body {
   }
 
   @media (max-width: 991.98px) { 
-    a.nav-link:hover:after {
-      width: 70%;
-      position:absolute;
+    .navbar {
+      width: 40%;
     }
   }
   
