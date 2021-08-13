@@ -5,6 +5,12 @@ body {
     line-height: 1.9;
   }
 
+  @media screen and (max-width: 768px) {
+    p{
+      font-size: 12px;
+    }
+  }
+
 .container h1{
   padding-bottom: 20px;
   font-size: 2rem;
@@ -170,13 +176,6 @@ body {
     }
 
 
-  /* Moves the interests and education to right */
-    @media screen and (max-width: 768px) {
-      .col-md-5,
-      .col-md-7 {
-      font-size: 13px;
-      }
-    }
 
 /* Removes the  image previews on mobile */
 @media screen and (max-width: 768px) {
