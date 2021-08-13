@@ -176,7 +176,6 @@ body {
       .col-md-5,
       .col-md-7 {
             margin-left: 10%;
-            font-weight: normal;
       }
     }
 
@@ -289,3 +288,6 @@ mark {
   background:  #d1946e;
 }
 
+.ml-3 img{
+  display: none;
+}
