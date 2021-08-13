@@ -184,6 +184,12 @@ body {
     .ml-3 img{
       display: none;
     }
+  }
+
+  /* Fixes the Talks section image heights */
+  .ml-3 img{
+    max-height: 100%;
+  }
 
   /* MOBILE PROJECTS PAGE */
   /* Adds small gap between feature img and Title */
