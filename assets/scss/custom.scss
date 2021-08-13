@@ -46,7 +46,7 @@ body {
   
   /* stroke only for desktop*/
   
-  @media (min-width: 1025px) { 
+  @media (min-width: 768px) { 
   a.nav-link,
   a.nav-link:after,
   a.nav-link:before {
