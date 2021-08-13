@@ -186,9 +186,10 @@ body {
     }
   }
 
-  /* Fixes the Talks section image heights */
+  /* Fixes the Talks section image heights and removes the awful filter */
   .ml-3 img{
     max-height: 100%;
+    filter: none;
   }
 
   /* MOBILE PROJECTS PAGE */
