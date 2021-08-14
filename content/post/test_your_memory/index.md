@@ -49,7 +49,7 @@ In the beginning, both Interim and No-Interim groups allocated the same amount o
 
 
 
-<i> <img src="/post/images/time.png" align = "left" width = "500" height = "500" style="padding-right: 10px; margin-right: 20px;">
+<i style="font-weight: lighter;"> <img src="/post/images/time.png" align = "left" width = "500" height = "500" style="padding-right: 10px; margin-right: 20px;">
 
 <br>
 <br>
@@ -69,7 +69,7 @@ Figure 2. Depicts the results of the first study. Interim group maintains their 
 
 In his next study, Dr. Shanks and his colleagues used face and name pairs while leaving the design as it was on Euskara-English word pairs. Researchers preferred this material in order to confirm that benefits of testing are not limited to one type of study material. This time, they found that Interim group steadily increased their allocation of time instead of keeping it the same across lists. In addition, they had less proactive interference than No-Interim group, which refers to mistakenly recalling words from previous lists. On the other hand, No-Interim group decrease their effort over time. As result, participants who took Interim tests got better results after each test.
 
-<i> <img src="/post/images/stimuli.png" align = "left" width = "500" height = "600" style="margin-right: 20px;">
+<i style="font-weight: lighter;"> <img src="/post/images/stimuli.png" align = "left" width = "500" height = "600" style="margin-right: 20px;">
 
 <br>
 
@@ -80,7 +80,7 @@ Figure 3. Representation of face-name pair design. This task consisted memorizin
 
 <br clear=left>Increase in time allocation is just an effect of the material. When we meet someone new, it is challenging to keep their faces and names in mind. If we anticipate that we will be tested, it is only rational to spare more time for remembering this information. But how can we make sure that obtaining better results is not an effect of simply spending more time to memorise it? Shanks and his colleagues designed another study in order to clear up this question. This time, duration of studying was set the same for both groups. However, Interim group still maintained the amount of recall across the lists. They also remembered twice as much in the cumulative test as No-Interim group. Thus, researchers concluded that getting better results is related to the testing effect rather than the duration of a study session.
 
-<i> <img src="/post/images/results.png" align = "left" width = "500" height = "500" style="padding-right: 10px; margin-right: 20px;">
+<i style="font-weight: lighter;"> <img src="/post/images/results.png" align = "left" width = "500" height = "500" style="padding-right: 10px; margin-right: 20px;">
 
 <br>
 <br>
@@ -121,7 +121,7 @@ Forward testing effect is also seen in ‘transfer of learning’, where partici
 Research that is conducted by Shanks and his colleagues related to errorful generation provides some evidence that people learn better by trial and error. Participants were either asked to read and memorise word translations or presented with a Euskara-word and asked to make a guess right away. As result, the group who made wrong guesses and got corrected afterwards scored higher than the group who only studied the material.
 
 
-<i> <img src="/post/images/figure.png" align = "left" width = "500" height = "500" style="padding-right: 10px; margin-right: 20px;">
+<i style="font-weight: lighter;"> <img src="/post/images/figure.png" align = "left" width = "500" height = "500" style="padding-right: 10px; margin-right: 20px;">
 
 <br>
 <br>
