@@ -18,9 +18,24 @@ body {
   font-size: 2rem;
   font-family: Montserrat;
 }
-  .navbar {
+
+.navbar {
     min-height: 75px !important;
   }
+
+.navbar {
+    background-color:#fcfcfc33;
+    box-shadow: none;
+    background-image: linear-gradient(to bottom, #fcfcfc, #fcfcfc, #fcfcfc, #fcfcfc , #fcfcfced, #fcfcfcba, #fcfcfc33) !important;  
+}
+
+/* Font size in Navbar */
+
+nav#navbar-main li {
+  font-size: 16px;
+ }
+
+/*----------------------------------*/
 
   /* Make mobile navbar skinnier */
   
@@ -34,11 +49,6 @@ body {
       }
     }
   
-  .navbar {
-      background-color:#fcfcfc33;
-      box-shadow: none;
-      background-image: linear-gradient(to bottom, #fcfcfc, #fcfcfc, #fcfcfc, #fcfcfc , #fcfcfced, #fcfcfcba, #fcfcfc33) !important;  
-  }
   
   /*make drop down menu more opaque on mobile */
   
@@ -98,9 +108,18 @@ body {
   font-size: 16px;
   padding: 1rem;
   }
+
+  @media screen and (max-width: 768px) {
+    .hljs { 
+      font-size: 13px;
+    }
+    }
+
+  /*----------------------------------*/
   
   
-  /* --------Blog posts--------- */
+
+  /* --------BLOG POSTS--------- */
 
   /* Links within blog posts */
   
@@ -115,7 +134,55 @@ body {
   .article-style a:visited {
   color: #a9c2c9;
 }
+
+
+ /*------ configure width of the blog posts */
+
+ .article-container {
+  max-width: 1000px;
+  padding: 0 40px 0 40px;
+  margin: 0 auto 0 auto;
+  font-size: 17px;
+  font-weight: 300;
+}
+
+.article-container h2 {
+font-size: 30px;
+text-align: left;
+}
+
+
+.article-style{
+text-align: justify;
+}
+
+/* Title of the blog posts are centered */
+
+.article-container.pt-3{
+  text-align: center;
+  max-width: 1280px;
+  }
   
+  
+  /* Fixes the gap between featured image and post */
+  
+.featured-image{
+    max-height: 400px;
+    object-fit: cover;
+    margin-bottom: 80px;
+  }
+  
+  @media screen and (max-width: 768px) {
+.featured-image{
+    margin-bottom: -30px;
+    }
+  }
+  
+  
+
+ /*----------------------------------*/
+
+
   /* -------About/Home Section-------- */
 
 
@@ -126,13 +193,30 @@ body {
     text-align: left;
   }
   
-  /* buyuk about basligi */ 
+  .home-section.wg-projects {
+    padding-top: 0;
+    margin-top: -30px;
+    box-shadow: 5px 10px;
+    }
+
+
+/* Custom Spacing for the Home Page Widgets */
+
+  .home-section {
+  padding: 80px 0 80px 0;
+            }
+  .home-section.wg-about {
+  padding-top: 50px;
+}
+
+    
+  /* The About title */ 
 
   #about h1 {
     margin-top: 30px;
   }
   
-  /* about kismindaki kucuk basliklar */
+  /* smaller titles on the about section */
 
   #about h3 {
     margin-top: 100px;
@@ -215,32 +299,6 @@ body {
   }
 
 
- 
-  /*------ configure width of the blog posts */
-
-  .article-container {
-    max-width: 1000px;
-    padding: 0 40px 0 40px;
-    margin: 0 auto 0 auto;
-    font-size: 17px;
-    font-weight: 300;
-  }
-
-.article-container h2 {
-  font-size: 30px;
-  text-align: left;
-}
-
-.home-section.wg-projects {
-  padding-top: 0;
-  margin-top: -30px;
-  box-shadow: 5px 10px;
-}
-
-
-.article-style{
-  text-align: justify;
-}
 
 /* configure width of the landing page */
 @media screen and (max-width: 768px) {
@@ -274,8 +332,7 @@ div.blue { background-color:#f0e7da00; padding: 1em;
           border: dashed 4px #afc6e3;}
 
 
-
-
+/* fixes the font size of the boxes on mobile */
 
 @media screen and (max-width: 768px) {
   .brownbox {
@@ -289,20 +346,8 @@ div.blue { background-color:#f0e7da00; padding: 1em;
   }
 }
 
-/* Custom Spacing for the Home Page Widgets */
 
-.home-section {
-  padding: 80px 0 80px 0;
-            }
-.home-section.wg-about {
-  padding-top: 50px;
-}
 
-/* Font size in Navbar */
-
-nav#navbar-main li {
-  font-size: 16px;
- }
 
 mark {
    background: linear-gradient(to top, #d1946e94 80%, white 20%, white 20%);
@@ -326,30 +371,9 @@ font-size: 12px;
 }
 
 
-/* Title of the articles are centered */
-
-.article-container.pt-3{
-text-align: center;
-max-width: 1280px;
-}
 
 
-/* Fixes the gap between featured image and article */
-
-.featured-image{
-  max-height: 400px;
-  object-fit: cover;
-  margin-bottom: 80px;
-}
-
-@media screen and (max-width: 768px) {
-.featured-image{
-  margin-bottom: -30px;
-  }
-}
-
-
-/* Fix list & code block font sizes on mobile */
+/* Fix list font sizes on mobile */
 
 @media screen and (max-width: 768px) {
   ol {
@@ -363,11 +387,6 @@ max-width: 1280px;
   }
 }
 
-@media screen and (max-width: 768px) {
-.hljs { 
-  font-size: 13px;
-}
-}
 
 /* tiny tweaks */
 
