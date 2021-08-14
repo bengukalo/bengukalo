@@ -176,15 +176,7 @@ body {
     }
 
 
-
-/* Removes the  image previews on mobile */
-@media screen and (max-width: 768px) {
-    .ml-3 img{
-      display: none;
-    }
-  }
-
-  /* Fixes the Talks section image heights */
+  /* Fixes the image preview heights */
   .ml-3 img{
     max-height: 100%;
   }
@@ -242,7 +234,7 @@ body {
 
 /* configure width of the landing page */
 @media screen and (max-width: 768px) {
-  .col-12.col-lg-8{
+  .container{
     padding: 0 40px 0 40px;
     margin: 0 auto 0 auto;
   }
