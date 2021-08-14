@@ -49,7 +49,7 @@ In the beginning, both Interim and No-Interim groups allocated the same amount o
 
 <style>
 div.blue {
-  background-image: url("/post/images/time.png");
+  background-image: url("time.png");
 }
 </style>
 <div class = "figurebox">
