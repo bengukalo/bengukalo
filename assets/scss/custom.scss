@@ -151,6 +151,11 @@ font-size: 30px;
 text-align: left;
 }
 
+@media screen and (max-width: 768px) {
+.article-container h2 {
+  font-size: 25px;
+  }
+}
 
 .article-style{
 text-align: justify;
