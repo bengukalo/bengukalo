@@ -334,3 +334,10 @@ text-align: center;
   }
 }
 
+
+/* Fix list font on mobile */
+
+@media screen and (max-width: 768px) {
+  ol {
+    font-size: 12px;
+  }
