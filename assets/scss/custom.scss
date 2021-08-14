@@ -181,6 +181,15 @@ body {
     max-height: 100%;
   }
 
+ @media screen and (max-width: 768px) {
+  .ml-3 img{
+  background: 50% 50% no-repeat; 
+  width: 150px;
+  height: 150px;
+  }
+}
+
+
   /* MOBILE PROJECTS PAGE */
   /* Adds small gap between feature img and Title */
   
