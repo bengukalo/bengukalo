@@ -50,8 +50,8 @@ In the beginning, both Interim and No-Interim groups allocated the same amount o
 
 
 <div>
-<img src="/post/images/time.png" style="float:left; padding-right: 10px; margin-right: 20px;" width = "500" height = "500" >
-<i style="vertical-align: middle;"> Figure 2. Depicts the results of the first study. Interim group maintains their motivation while No-Interim group loses the motivation over time.</i>
+<img src="/post/images/time.png" style="float:left; padding-right: 10px; margin-right: 20px; vertical-align: middle;" width = "500" height = "500" >
+<i> Figure 2. Depicts the results of the first study. Interim group maintains their motivation while No-Interim group loses the motivation over time.</i>
 </div>
 
 &ensp;
