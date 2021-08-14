@@ -181,15 +181,6 @@ body {
     max-height: 100%;
   }
 
- @media screen and (max-width: 768px) {
-  .ml-3 img{
-  width: 60%;
-  background-size: cover;
-  background-position: center;
-  aspect-ratio: 1/1;
-  margin-top: 25px;
-  }
-}
 
 
   /* MOBILE PROJECTS PAGE */
@@ -366,7 +357,9 @@ text-align: center;
 }
 }
 
-@media screen and (max-width: 768px) {
+/* tiny tweaks */
+
+@media screen and (max-width: 1024px) {
   .article-metadata {
 font-size: 10px;
   }
