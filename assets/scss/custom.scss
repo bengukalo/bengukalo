@@ -183,7 +183,7 @@ body {
 
  @media screen and (max-width: 768px) {
   .ml-3 img{
-  background: 50% 50% no-repeat; 
+  object-fit: cover;
   width: 150px;
   height: 150px;
   }
