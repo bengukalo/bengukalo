@@ -286,6 +286,11 @@ mark {
   color: white;
 }
 
+@media screen and (max-width: 768px) {
+  mark {
+font-size: 12px;
+  }
+}
 
 #space {
   color: #000000;
@@ -298,10 +303,14 @@ mark {
 }
 
 
+/* Title of the articles are centered */
+
 .article-container.pt-3{
 text-align: center;
 }
 
+
+/* Fixes the gap between featured image and article */
 
 .featured-image{
   max-height: 400px;
