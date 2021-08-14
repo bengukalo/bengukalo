@@ -243,6 +243,7 @@ body {
 /* configure width of the landing page */
 @media screen and (max-width: 768px) {
   .col-12.col-lg-8{
+    padding: 0 40px 0 40px;
     margin: 0 auto 0 auto;
   }
 }
