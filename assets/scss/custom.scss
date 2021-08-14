@@ -264,7 +264,17 @@ div.blue { background-color:#f0e7da00; padding: 1em;
           border: dashed 4px #afc6e3;}
 
 
+@media screen and (max-width: 768px) {
+  .brownbox {
+    font-size: 14px;
+  }
+}
 
+@media screen and (max-width: 768px) {
+  .blue {
+    font-size: 14px;
+  }
+}
 
 /* Custom Spacing for the Home Page Widgets */
 
