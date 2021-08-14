@@ -308,3 +308,9 @@ text-align: center;
   object-fit: cover;
   margin-bottom: 80px;
 }
+
+@media screen and (max-width: 768px) {
+.featured-image{
+  margin-bottom: -80px;
+}
+}
