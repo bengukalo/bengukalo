@@ -15,7 +15,7 @@ output:
     dev: svg
 image:
   placement: 3
-  caption: 'Photo by Wikipedia'
+  caption: 'Photo by Caravaggio'
   focal_point: Center
   preview_only: false
 twitterImg: "/content/post/caravaggio.jpg"
