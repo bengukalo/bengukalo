@@ -9,6 +9,7 @@ body {
   @media screen and (max-width: 768px) {
     p{
       font-size: 14px;
+      font-weight: normal;
     }
   }
 
@@ -27,7 +28,6 @@ body {
       body {
         margin-top: 75px !important;
         padding: 0 10px 0 10px;
-        font-weight: normal;
       }
        .navbar {
         min-height: 75px !important;
