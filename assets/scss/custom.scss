@@ -236,10 +236,17 @@ body {
 }
 
 
-
 .article-style{
   text-align: justify;
 }
+
+/* configure width of the landing page */
+@media screen and (max-width: 768px) {
+  .container{
+    margin: 0 auto 0 auto;
+  }
+}
+
 
 /* Custom Div Boxes */
 
@@ -335,7 +342,7 @@ text-align: center;
 }
 
 
-/* Fix list font on mobile */
+/* Fix list & code block font sizes on mobile */
 
 @media screen and (max-width: 768px) {
   ol {
