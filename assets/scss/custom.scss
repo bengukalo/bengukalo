@@ -183,9 +183,10 @@ body {
 
  @media screen and (max-width: 768px) {
   .ml-3 img{
-  object-fit: cover;
-  width: 150px;
-  height: 150px;
+    position: relative;
+    width: 25%;
+    height: 25%;
+    overflow: hidden; 
   }
 }
 
