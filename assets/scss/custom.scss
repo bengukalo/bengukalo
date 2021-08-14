@@ -266,6 +266,20 @@ div.blue { background-color:#f0e7da00; padding: 1em;
           border: dashed 4px #afc6e3;}
 
 
+ div.figurebox {
+  background-color:#f0e7da00; padding: 1em;
+  margin: 1em 0;
+  padding-left: 100px;
+  background-size: 100px;
+  background-repeat: no-repeat;
+  background-position: 15px center;
+  min-height: 120px;
+  font-weight: italic;
+ }         
+
+
+
+
 @media screen and (max-width: 768px) {
   .brownbox {
     font-size: 14px;
