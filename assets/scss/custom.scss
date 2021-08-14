@@ -312,10 +312,12 @@ text-align: center;
 @media screen and (max-width: 768px) {
 .featured-image{
   margin-bottom: -30px;
+  }
 }
 
-.home-section.wg-experience
+
+@media screen and (max-width: 768px) {
 .home-section.wg-about {
   padding: 0 40px 0 40px;
-}
+  }
 }
