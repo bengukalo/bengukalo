@@ -1,5 +1,5 @@
 ---
-title: Featured at Evrim Ağacı's Twitter account
+title: Featured at Evrim Ağacı's Twitter Account
 summary: 
 tags:
 - Blogging
