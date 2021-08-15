@@ -458,8 +458,9 @@ font-size: 10px;
 
 
 .home-section.wg-portfolio .card{
-  display: block;
-  position: static;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   max-width: 200px;
   max-height: 400px;
   overflow: hidden;
@@ -468,4 +469,5 @@ font-size: 10px;
 
 .home-section.wg-portfolio .card-text{
   font-size: 10px;
+  font-weight: lighter;
 }
