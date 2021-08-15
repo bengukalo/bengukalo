@@ -396,6 +396,11 @@ mark {
   color: white;
 }
 
+.dark mark{
+  background: linear-gradient(to top, #5c7a6e 80%, #23252f 20%, #23252f 20%);
+  color: #23252f;
+} 
+
 @media screen and (max-width: 768px) {
   mark {
 font-size: 12px;
@@ -412,6 +417,10 @@ font-size: 12px;
   background:  #d1946e;
 }
 
+.dark::selection {
+  color: white;
+  background: #5c7a6e;
+}
 
 
 
