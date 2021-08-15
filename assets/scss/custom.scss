@@ -39,6 +39,11 @@ body {
   background-image: linear-gradient(to bottom, #272935, #272935, #272935, #272935e8, #272935b4,#27293560, #27293523,) !important;  
 }
 
+.dark .card {
+  background-color: #98a6ad;
+}
+
+
 /* Font size in Navbar */
 
 nav#navbar-main li {
@@ -341,8 +346,8 @@ div.brownbox { background-color:#d1946e46; padding: 1em;
     border-left: 0.5em solid #d1946e6b ;}
 
   .dark .brownbox{
-    background-color: #a6af94b9;
-    border-left: #a6af94cb;
+    background-color: #98a6ad93;
+    border-left: #98a6ad;
   }
 
 
