@@ -36,7 +36,7 @@ body {
 .dark .navbar {
   background-color:#272935;
   box-shadow: none;
-  background-image: linear-gradient(to bottom, #272935, #272935, #272935, #272935, #272935d3,#2729359c, #27293523,) !important;  
+  background-image: linear-gradient(to bottom, #272935, #272935, #272935, #272935e8, #272935b4,#27293560, #27293523,) !important;  
 }
 
 /* Font size in Navbar */
@@ -153,6 +153,10 @@ nav#navbar-main li {
   padding: 0 40px 0 40px;
   margin: 0 auto 0 auto;
   font-size: 17px;
+}
+
+.dark .article-container h1{
+  color: white;
 }
 
 .article-container h2 {
