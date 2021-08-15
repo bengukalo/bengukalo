@@ -72,6 +72,12 @@ nav#navbar-main li {
       background-color: #fcfcfc !important;
     }
   }
+
+  @media (max-width: 768px) { 
+   .dark .navbar-collapse {
+      background-color: #272935 !important;
+    }
+  }
   
 
   /*----NAV LINK HOVER ANIMATION -----*/
