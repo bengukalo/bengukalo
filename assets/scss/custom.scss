@@ -316,8 +316,6 @@ text-align: justify;
   
   #projects .col-12.col-md-6{
     padding-top: 25px;
-    font-size: 10px;
-    font-weight: lighter;
   }
 
   
@@ -467,4 +465,10 @@ font-size: 10px;
   height: 250px;
   overflow: hidden;
   margin: auto;
+}
+
+.home-section.wg-portfolio .card-text{
+font-size: 10px;
+font-weight: lighter;
+}
 }
