@@ -54,7 +54,7 @@ nav#navbar-main li {
 
   /* Make mobile navbar skinnier */
   
-    @media screen and (max-width: 768px height auto) {
+    @media screen and (max-width: 1025px height auto) {
       body {
         margin-top: 75px !important;
         padding: 0 10px 0 10px;
@@ -67,14 +67,13 @@ nav#navbar-main li {
   
   /*make drop down menu more opaque on mobile */
   
-  @media (max-width: 768px) { 
+  @media (max-width: 1025px) { 
     .navbar-collapse {
       background-color: white !important;
-      max-width: 768px;
     }
   }
 
-  @media (max-width: 768px) { 
+  @media (max-width: 1025px) { 
    .dark .navbar-collapse {
       background-color: #272935 !important;
     }
