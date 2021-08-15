@@ -27,19 +27,19 @@ body {
     min-height: 75px !important;
   }
 
-/* Add transparent gradient to navbar
+
 .navbar {
-    background-color:#fcfcfc33;
+    background-color:#fcfcfc;
     box-shadow: none;
-    background-image: linear-gradient(to bottom, #fcfcfc, #fcfcfc, #fcfcfc, #fcfcfc , #fcfcfced, #fcfcfcba, #fcfcfc33) !important;  
+    background-image: linear-gradient(to bottom, #fcfcfc, #fcfcfc33) !important;  
 }
 
 .dark .navbar {
   background-color:#272935;
   box-shadow: none;
-  background-image: linear-gradient(to bottom, #272935, #272935, #272935, #272935e8, #272935b4,#27293560, #27293523,) !important;  
+  background-image: linear-gradient(to bottom, #272935,#27293523) !important;  
 }
-*/
+
 
 .dark .card {
   background-color: #272935e1;
