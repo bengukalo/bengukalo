@@ -6,33 +6,40 @@
 [[main]]
   name = "Blog"
   url = "post/"
-  weight = 10
+  weight = 1
 
 [[main]]
   name = "About"
   url = "#about"
-  weight = 20
-
-[[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 30
-
-[[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 40
+  weight = 2
 
 [[main]]
   name = "Portfolio"
   url = "project/"
-  weight = 50
+  parent = "about"
+  weight = 2
   
+[[main]]
+  name = "Skills"
+  url = "skills/"
+  parent = "about"
+  weight = 3
+
+[[main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 3
+
+[[main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 4
+
 
  [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
