@@ -90,7 +90,7 @@ nav#navbar-main li {
     color: #5d7b6f !important;
   }
   
-  /* stroke animation, only for desktop*/
+  /* stroke animation, only for desktop
   
   @media (min-width: 992px) { 
   a.nav-link,
@@ -110,20 +110,23 @@ nav#navbar-main li {
     right: 0;
     margin: auto;
     width: 0%;
-    content: '.'; /* make invisible, dot beneath links */
+    content: '.'; 
     color: transparent;
     background:#983c19;
     height: 2px;
   }
 
+  a.nav-link:hover:after {
+    width: 70%;
+  }
+  } */
+
+
   .dark a.nav-link::after {
     background:#5d7b6f;
   }
   
-  a.nav-link:hover:after {
-    width: 70%;
-  }
-  }
+  
   
   /*----------------------------------*/
   
