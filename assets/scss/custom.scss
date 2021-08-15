@@ -80,6 +80,9 @@ nav#navbar-main li {
     color:#983c19 !important;
   }
   
+  .dark .nav-link:hover {
+    color: #5d7b6f !important;
+  }
   
   /* stroke animation, only for desktop*/
   
@@ -105,6 +108,10 @@ nav#navbar-main li {
     color: transparent;
     background:#983c19;
     height: 2px;
+  }
+
+  .dark a.nav-link::after {
+    background:#5d7b6f;
   }
   
   a.nav-link:hover:after {
