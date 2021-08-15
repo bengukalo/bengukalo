@@ -5,9 +5,9 @@ name = "custom"
 light = true
 
 # Primary
-primary ="#5D7B6F"
-primary_light = "#ee5863"
-primary_dark = "#ee5863"
+primary ="#b76438"
+primary_light = "#b76438"
+primary_dark = "#E0C097"
 
 # Links
 link = "#d1946e"
