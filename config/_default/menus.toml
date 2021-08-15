@@ -19,11 +19,6 @@
   parent = "About"
   weight = 3
   
-[[main]]
-  name = "Skills"
-  url = "#skills"
-  parent = "About"
-  weight = 4
 
 [[main]]
   name = "Talks"
