@@ -1,5 +1,5 @@
 ---
-title: My Success Story was Featured at International University of Sarajevo's Career Blog
+title: My Success Story was Featured at the University's Career Blog
 summary: 
 tags:
 - Success Story
