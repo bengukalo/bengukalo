@@ -69,7 +69,7 @@ Now we will add our custom divs to the custom.scss file. Go ahead and paste the 
 /* Divs */
 
 div.yellow { 
-  background-color: #FEF5E7; padding: 1em;
+  background-color: padding: 1em; #FEF5E7;
   margin: 1em 0;
   padding-left: 100px;
   background-size: 70px;
