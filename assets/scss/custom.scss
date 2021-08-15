@@ -29,6 +29,12 @@ body {
     background-image: linear-gradient(to bottom, #fcfcfc, #fcfcfc, #fcfcfc, #fcfcfc , #fcfcfced, #fcfcfcba, #fcfcfc33) !important;  
 }
 
+.dark .navbar {
+  background-color:#00000033;
+  box-shadow: none;
+  background-image: linear-gradient(to bottom, #000000, #000000, #000000, #000000 , #000000ed, #000000ba, #00000033) !important;  
+}
+
 /* Font size in Navbar */
 
 nav#navbar-main li {
