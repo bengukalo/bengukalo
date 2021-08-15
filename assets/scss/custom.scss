@@ -70,6 +70,7 @@ nav#navbar-main li {
   @media (max-width: 768px) { 
     .navbar-collapse {
       background-color: white !important;
+      max-width: 768px;
     }
   }
 
