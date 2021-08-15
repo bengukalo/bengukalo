@@ -19,6 +19,10 @@ body {
   font-family: Montserrat;
 }
 
+.dark .container h1{
+  color: white;
+}
+
 .navbar {
     min-height: 75px !important;
   }
@@ -32,7 +36,7 @@ body {
 .dark .navbar {
   background-color:#00000033;
   box-shadow: none;
-  background-image: linear-gradient(to bottom, #000000, #000000, #000000, #000000 , #000000ed, #000000ba, #00000033) !important;  
+  background-image: linear-gradient(to bottom, #181818, #181818, #181818, #181818, #181818d8,#181818a4, #18181827,) !important;  
 }
 
 /* Font size in Navbar */
