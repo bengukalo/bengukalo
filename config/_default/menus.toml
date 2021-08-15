@@ -15,8 +15,7 @@
 
 [[main]]
   name = "Portfolio"
-  url = "project/"
-  parent = "About"
+  url = "portfolio/"
   weight = 3
   
 
