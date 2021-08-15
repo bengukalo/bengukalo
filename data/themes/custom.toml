@@ -7,7 +7,7 @@ light = true
 # Primary
 primary ="#b76438"
 primary_light = "#b76438"
-primary_dark = "#E0C097"
+primary_dark = "#a6af94b9"
 
 # Links
 link = "#d1946e"
