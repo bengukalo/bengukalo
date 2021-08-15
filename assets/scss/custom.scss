@@ -470,3 +470,9 @@ font-size: 10px;
   font-weight: 400;
   text-transform: none;
 }
+
+.card .card-image{
+  max-height: 400px;
+  object-fit: cover;
+  overflow: hidden;
+  }
