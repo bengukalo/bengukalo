@@ -52,7 +52,7 @@ nav#navbar-main li {
 
 /*----------------------------------*/
 
-  /* Make mobile navbar skinnier */
+  /* Make mobile & tablet navbar skinnier */
   
     @media screen and (max-width: 1025px height auto) {
       body {
@@ -65,7 +65,7 @@ nav#navbar-main li {
     }
   
   
-  /*make drop down menu more opaque on mobile */
+  /*make drop down menu more opaque on mobile & tablet */
   
   @media (max-width: 1025px) { 
     .navbar-collapse {
